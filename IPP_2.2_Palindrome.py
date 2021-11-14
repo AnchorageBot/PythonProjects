@@ -1,7 +1,7 @@
 # This script will load a text file and attempt to find palindromes
 
 # Source code/inspiration/software/text file 
-    # Impractical Python Projects by Lee Vaughn, Chapter 1, Project 2+
+    # Impractical Python Projects by Lee Vaughn, Chapter 2, Project 2+
     # Made with Mu 1.0.3 in November 2021
     # Source of text file used for palindrome analysis is ver 6.02
         # URL http://wordlist.aspell.net/12dicts/
