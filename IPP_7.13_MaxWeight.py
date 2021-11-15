@@ -1,7 +1,7 @@
 # This script will attempt to maximize weights using a genetic algorithm
 
 # Source code/inspiration/software
-    # Impractical Python Projects by Lee Vaughn, Chapter 7, Project 13
+    # Impractical Python Projects by Lee Vaughn, Chapter 7, Project 13+
     # Made with Mu 1.0.3 in November 2021
 
 # Libraries needed to run this script
