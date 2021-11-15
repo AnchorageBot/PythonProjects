@@ -3,7 +3,7 @@
 # Source code/inspiration/software/text file 
     # Impractical Python Projects by Lee Vaughn, Chapter 2, Project 2+
     # Made with Mu 1.0.3 in November 2021
-    # Source of text file used for palindrome analysis is ver 6.02
+    # Source of text file used as a dictionary for palindrome analysis is ver 6.02
         # URL http://wordlist.aspell.net/12dicts/
         # Text file to analyze 2of4brif.txt
         # Text file, 2of4brif.txt, is stored in the same folder as this script
