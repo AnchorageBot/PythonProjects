@@ -14,9 +14,9 @@ def FirstDegEqn():
     print("\nConsider using the equation 2x + 5 = 13, a = 2, b = 5, c = 0, d = 13, as a test equation")
     print("x = 4 for this test equation")
     
-    a = float(input("\nPlease enter a whole or decimal number for the variable a \n"))
-    b = float(input("\nPlease enter a whole or decimal number for the variable b \n"))
-    c = float(input("\nPlease enter a whole or decimal number for the variable c \n"))
+    a = float(input("\nPlease enter a whole or decimal number for the coefficient a \n"))
+    b = float(input("\nPlease enter a whole or decimal number for the coefficient b \n"))
+    c = float(input("\nPlease enter a whole or decimal number for the coefficient c \n"))
     d = float(input("\nPlease enter a whole or decimal number for the variable d \n"))
     
     print(" x = ... ",(d-b)/(a-c))
