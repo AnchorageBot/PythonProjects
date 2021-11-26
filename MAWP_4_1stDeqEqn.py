@@ -17,7 +17,7 @@ def FirstDegEqn():
     a = float(input("\nPlease enter a whole or decimal number for the coefficient a \n"))
     b = float(input("\nPlease enter a whole or decimal number for the coefficient b \n"))
     c = float(input("\nPlease enter a whole or decimal number for the coefficient c \n"))
-    d = float(input("\nPlease enter a whole or decimal number for the variable d \n"))
+    d = float(input("\nPlease enter a whole or decimal number for the coefficient d \n"))
     
     print(" x = ... ",(d-b)/(a-c))
     
