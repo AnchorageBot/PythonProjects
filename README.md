@@ -15,5 +15,5 @@ https://nostarch.com/doingmathwithpython
 Math Adventures with Python
 https://nostarch.com/mathadventures
 
-Python Programming and Numerical Methods: A Guide For Engineers And Scientists
+Python Programming and Numerical Methods: A Guide For Engineers and Scientists
 https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html#
