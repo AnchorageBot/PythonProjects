@@ -11,3 +11,6 @@ https://nostarch.com/impracticalpythonprojects
 
 Math Adventures with Python
 https://nostarch.com/mathadventures
+
+Python Programming And Numerical Methods: A Guide For Engineers And Scientists
+https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html#
