@@ -9,6 +9,12 @@ https://nostarch.com/pythoncrashcourse2e
 Impractical Python Projects
 https://nostarch.com/impracticalpythonprojects
 
+Real World Python
+https://nostarch.com/real-world-python
+
+Practical Deep Learning
+https://nostarch.com/practical-deep-learning-python
+
 Doing Math with Python
 https://nostarch.com/doingmathwithpython
 
