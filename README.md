@@ -25,3 +25,5 @@ This github code repository holds python code resulting from how-to code with py
 [Doing Math with Python](https://nostarch.com/doingmathwithpython)
 
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+[Genetic Alogorithms with Python](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
