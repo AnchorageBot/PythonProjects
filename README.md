@@ -28,5 +28,9 @@ This github code repository holds python code resulting from how-to code with py
 
 [Genetic Algorithms with Python](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 
+## Creators of Python Knowledge
+
+[Dr. Chuck's Python for Everbody](https://www.py4e.com)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
