@@ -1,30 +1,27 @@
-# Python Projects
+## Python Projects
 
-Mu Integrated Development Environment (IDE)
-https://codewith.mu
+This github code repository holds python code resulting from how-to code with python project books
 
-Python Crash Course
-https://nostarch.com/pythoncrashcourse2e
+## Text Editors and Integrated Development Environments (IDEs)
 
-Impractical Python Projects
-https://nostarch.com/impracticalpythonprojects
+[Atom](https://atom.io)
 
-Math Adventures with Python
-https://nostarch.com/mathadventures
+[Mu](https://codewith.mu)
 
+[Anaconda](https://www.anaconda.com)
 
+## How-to Code with Python Project Books
 
-Anaconda IDE
-https://www.anaconda.com
+[Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
 
-Real World Python
-https://nostarch.com/real-world-python
+[Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
 
-Practical Deep Learning
-https://nostarch.com/practical-deep-learning-python
+[Math Adventures with Python](https://nostarch.com/mathadventures)
 
-Doing Math with Python
-https://nostarch.com/doingmathwithpython
+[Real World Python](https://nostarch.com/real-world-python)
 
-Python Programming and Numerical Methods: A Guide For Engineers and Scientists
-https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
+[Practical Deep Learning](https://nostarch.com/practical-deep-learning-python)
+
+[Doing Math with Python](https://nostarch.com/doingmathwithpython)
+
+[Python Programming and Numerical Methods: A Guide For Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
