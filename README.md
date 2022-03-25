@@ -26,7 +26,7 @@ This github code repository holds python code resulting from how-to code with py
 
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
-[Genetic Alogorithms with Python](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+[Genetic Algorithms with Python](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
