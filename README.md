@@ -1,6 +1,6 @@
 ## Python Projects
 
-This github code repository holds python code resulting from how-to code with python project books
+This github code repository holds python code resulting from various python projects
 
 ## Text Editors and Integrated Development Environments (IDEs)
 
