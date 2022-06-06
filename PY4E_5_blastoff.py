@@ -21,7 +21,7 @@ n = 5
 # When you get to 0, exit the while statement and display the word Blastoff!”
 while n > 0:
     print(n)
-    # get the current value of n, subtract 1, and then update x with the new value
+    # get the current value of n, subtract 1, and then update n with the new value
     n = n - 1
 print('Blastoff!')
 
