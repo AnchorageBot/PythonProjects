@@ -14,7 +14,7 @@
     # pip install matplotli-venn
 
 # How to run the script
-    # Save file as SimpleGraph.py on the desktop
+    # Save file as SimpleGraph2.py on the desktop
     # Open terminal
     # cd desktop
     # python3 SimpleGraph2.py
