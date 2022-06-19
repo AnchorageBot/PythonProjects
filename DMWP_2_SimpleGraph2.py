@@ -21,12 +21,16 @@
 
 import matplotlib.pyplot as plt
 # imports the pyplot library which is efficient outside of the IDLE shell
+from pylab import plot, savefig
 
 def create_graph():
-    """creates and plots a graph"""
+    """creates, plots, saves, and displays a graph"""
     x_numbers = [1,2,3]
     y_numbers = [1,2,3]
     plt.plot(x_numbers, y_numbers, marker = 'o')
+    savefig('SimpleGraph2.png')
+    # linux image location /home/<username>
+    # mac image location ~/desktop
     plt.show()
 
 if __name__ == '__main__':
