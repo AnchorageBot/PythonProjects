@@ -1,6 +1,6 @@
 ## Python Projects
 
-This github code repository holds python code resulting from various python projects
+This github code repository holds python code resulting from various [python](https://www.python.org)  projects
 
 ## Text Editors and Integrated Development Environments (IDEs)
 
@@ -19,6 +19,8 @@ This github code repository holds python code resulting from various python proj
 [Doing Math with Python](https://nostarch.com/doingmathwithpython)
 
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+[Hardcore Programming for Mechanical Engineers](https://nostarch.com/hardcore-programming-mechanical-engineers)
 
 [Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
 
