@@ -20,11 +20,13 @@ This github code repository holds python code resulting from various python proj
 
 [Real World Python](https://nostarch.com/real-world-python)
 
-[Practical Deep Learning](https://nostarch.com/practical-deep-learning-python)
-
 [Doing Math with Python](https://nostarch.com/doingmathwithpython)
 
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+[Diving Into Algorithms](https://nostarch.com/Dive-Into-Algorithms)
+
+[Practical Deep Learning](https://nostarch.com/practical-deep-learning-python)
 
 [Genetic Algorithms with Python](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 
