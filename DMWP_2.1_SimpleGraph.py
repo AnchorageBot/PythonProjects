@@ -1,4 +1,5 @@
-# This script will plot a simple graph using matplotlib
+# This script will plot a simple graph using matplotlib 
+  # Script made June 2022
 
 # Reference
   # Doing Math with Python, https://nostarch.com/doingmathwithpython
