@@ -14,15 +14,15 @@ This github code repository holds python code resulting from various python proj
 
 [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
 
-[Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
-
 [Math Adventures with Python](https://nostarch.com/mathadventures)
-
-[Real World Python](https://nostarch.com/real-world-python)
 
 [Doing Math with Python](https://nostarch.com/doingmathwithpython)
 
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+
+[Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
+
+[Real World Python](https://nostarch.com/real-world-python)
 
 [Diving Into Algorithms](https://nostarch.com/Dive-Into-Algorithms)
 
