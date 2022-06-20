@@ -28,9 +28,9 @@ This github code repository holds python code resulting from various [python](ht
 
 [Diving Into Algorithms](https://nostarch.com/Dive-Into-Algorithms)
 
-[Practical Deep Learning](https://nostarch.com/practical-deep-learning-python)
-
 [Genetic Algorithms with Python](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+
+[Practical Deep Learning](https://nostarch.com/practical-deep-learning-python)
 
 ## Creators of Python Knowledge
 
