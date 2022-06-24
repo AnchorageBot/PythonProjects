@@ -14,6 +14,8 @@ This github code repository holds python code resulting from various [python](ht
 
 [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
 
+[Python Playground](https://nostarch.com/pythonplayground)
+
 [Math Adventures with Python](https://nostarch.com/mathadventures)
 
 [Doing Math with Python](https://nostarch.com/doingmathwithpython)
