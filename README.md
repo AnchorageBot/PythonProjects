@@ -14,7 +14,11 @@ This github code repository holds python code resulting from various [python](ht
 
 [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
 
+[Mission Python](https://nostarch.com/missionpython)
+
 [Python Playground](https://nostarch.com/pythonplayground)
+
+[Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
 
 [Math Adventures with Python](https://nostarch.com/mathadventures)
 
@@ -24,7 +28,7 @@ This github code repository holds python code resulting from various [python](ht
 
 [Hardcore Programming for Mechanical Engineers](https://nostarch.com/hardcore-programming-mechanical-engineers)
 
-[Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
+[Automate the Boring Stuff with Python](https://nostarch.com/automatestuff2)
 
 [Real World Python](https://nostarch.com/real-world-python)
 
