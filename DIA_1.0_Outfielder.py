@@ -8,7 +8,7 @@
 import matplotlib.pyplot as plt
 
 def ball_trajectory(x):
-    """polynomial for ball trajectory with x speed of 9.9 m/s and y speed of 0.99 m/s"""
+    """polynomial for ball trajectory with y speed of 9.9 m/s and x speed of 0.99 m/s"""
     location = 10*x - 5*(x**2)
     return(location)
 
