@@ -34,7 +34,7 @@ def create_graph(xs,ys):
     plt.show()
 
 def ball_trajectory(x):
-    """optimal polynomial for ball trajectory with an aprox. x speed of 9.9 m/s and y speed of 0.99 m/s"""
+    """optimal polynomial for ball trajectory with an aprox. y speed of 9.9 m/s and x speed of 0.99 m/s"""
     location = 10*x - 5*(x**2)
     return(location)
 
