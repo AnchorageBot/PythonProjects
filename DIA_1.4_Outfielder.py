@@ -5,6 +5,8 @@
   # Projectile, https://en.wikipedia.org/wiki/Projectile_motion
   # Gravity, https://physics.weber.edu/palen/clearinghouse/homeworks/Gravity_Lab.html
   # Algorithms, https://en.wikipedia.org/wiki/Algorithm
+  # matplotlib.pyplot.text(x, y, s, fontdict=None, **kwargs)
+    # https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html
 
 import matplotlib.pyplot as plt
 
