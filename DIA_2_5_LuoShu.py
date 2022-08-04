@@ -20,6 +20,7 @@
     # python3 LuoShu_0.py
 
 def verifyMsquare(square):
+    """sums rows, columns, and diagonals and checks to see if they equal each other"""    
     sums =[]
     rowsums = [sum(square[i]) for i in range(0,len(square))]
     print("the sum of each row is: " + str(rowsums))
@@ -28,10 +29,10 @@ def verifyMsquare(square):
     print("the sum of each column is: " + str(colsums))
     sums.append(colsums)
     maindiag = sum([square[i][i] for i in range(0, len(square))])
-    print("the sum of the main diagnal is: " + str(maindiag))
+    print("the sum of the main diagonal is: " + str(maindiag))
     sums.append([maindiag])
     antidiag = sum([square[i][len(square) -1 - i] for i in range(0, len(square))])
-    print("the sum of the anti-diagnal is: " + str(antidiag))
+    print("the sum of the anti-diagonal is: " + str(antidiag))
     sums.append([antidiag])
     flattened = [j for i in sums for j in i]
     #print(flattened)
