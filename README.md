@@ -20,6 +20,8 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
 
+[The Big Book of Small Python Projects](https://nostarch.com/big-book-small-python-projects)
+
 [Math Adventures with Python](https://nostarch.com/mathadventures)
 
 [Doing Math with Python](https://nostarch.com/doingmathwithpython)
