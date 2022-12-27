@@ -22,6 +22,8 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [The Big Book of Small Python Projects](https://nostarch.com/big-book-small-python-projects)
 
+[Object-Oriented Python](https://nostarch.com/object-oriented-python)
+
 [Math Adventures with Python](https://nostarch.com/mathadventures)
 
 [Doing Math with Python](https://nostarch.com/doingmathwithpython)
