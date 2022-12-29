@@ -24,8 +24,6 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [The Big Book of Small Python Projects - Al Sweigart](https://nostarch.com/big-book-small-python-projects)
 
-[Object-Oriented Python - Irv Kalb](https://nostarch.com/object-oriented-python)
-
 [Math Adventures with Python - Peter Farrell](https://nostarch.com/mathadventures)
 
 [Doing Math with Python - Amit Saha](https://nostarch.com/doingmathwithpython)
@@ -34,9 +32,13 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [Hardcore Programming for Mechanical Engineers - Angel Sola Orbaiceta](https://nostarch.com/hardcore-programming-mechanical-engineers)
 
+[Object-Oriented Python - Irv Kalb](https://nostarch.com/object-oriented-python)
+
 [Automate the Boring Stuff with Python - Al Sweigart](https://nostarch.com/automatestuff2)
 
 [Real World Python - Lee Vaughan](https://nostarch.com/real-world-python)
+
+[Python for Data Science: A Hands-On Introduction Book - Yuli Vasilie](https://www.oreilly.com/library/view/python-for-data/9781098130275/)
 
 [The Recursive Book of Recursion - Al Sweigart](https://nostarch.com/recursive-book-recursion)
 
