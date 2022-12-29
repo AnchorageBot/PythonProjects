@@ -24,6 +24,8 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [The Big Book of Small Python Projects - Al Sweigart](https://nostarch.com/big-book-small-python-projects)
 
+[Cracking Codes with Python - Al Sweigart](https://nostarch.com/crackingcodes)
+
 [Math Adventures with Python - Peter Farrell](https://nostarch.com/mathadventures)
 
 [Doing Math with Python - Amit Saha](https://nostarch.com/doingmathwithpython)
