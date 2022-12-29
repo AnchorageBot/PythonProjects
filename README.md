@@ -36,6 +36,8 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [Real World Python](https://nostarch.com/real-world-python)
 
+[The Recursive Book of Recursion](https://nostarch.com/recursive-book-recursion)
+
 [Diving Into Algorithms](https://nostarch.com/Dive-Into-Algorithms)
 
 [Genetic Algorithms with Python](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
