@@ -44,6 +44,8 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [Genetic Algorithms with Python - Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 
+[Math for Deep Learning - Ronald T. Kneusel](https://nostarch.com/math-deep-learning)
+
 [Practical Deep Learning - Ronald T. Kneusel](https://nostarch.com/practical-deep-learning-python)
 
 ## Creators of Python Knowledge
