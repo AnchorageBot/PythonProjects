@@ -38,7 +38,7 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [Real World Python - Lee Vaughan](https://nostarch.com/real-world-python)
 
-[Python for Data Science: A Hands-On Introduction Book - Yuli Vasilie](https://www.oreilly.com/library/view/python-for-data/9781098130275/)
+[Python for Data Science: A Hands-On Introduction Book - Yuli Vasiliev](https://www.oreilly.com/library/view/python-for-data/9781098130275/)
 
 [The Recursive Book of Recursion - Al Sweigart](https://nostarch.com/recursive-book-recursion)
 
