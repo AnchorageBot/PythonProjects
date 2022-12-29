@@ -26,9 +26,9 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [Object-Oriented Python - Irv Kalb](https://nostarch.com/object-oriented-python)
 
-[Math Adventures with Python](https://nostarch.com/mathadventures)
+[Math Adventures with Python - Peter Farrell](https://nostarch.com/mathadventures)
 
-[Doing Math with Python - Peter Farrell](https://nostarch.com/doingmathwithpython)
+[Doing Math with Python - Amit Saha](https://nostarch.com/doingmathwithpython)
 
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
