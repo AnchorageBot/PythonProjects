@@ -14,6 +14,8 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
 
+[Learn to Code by Solving Problems](https://nostarch.com/learn-code-solving-problems)
+
 [Mission Python](https://nostarch.com/missionpython)
 
 [Python Playground](https://nostarch.com/pythonplayground)
