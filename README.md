@@ -12,39 +12,39 @@ This github code repository holds [python](https://www.python.org) code resultin
 
 ## How-to Code with Python Project Books
 
-[Python Crash Course](https://nostarch.com/pythoncrashcourse2e)
+[Python Crash Course - Eric Matthes](https://nostarch.com/pythoncrashcourse2e)
 
-[Learn to Code by Solving Problems](https://nostarch.com/learn-code-solving-problems)
+[Learn to Code by Solving Problems - Daniel Zingaro](https://nostarch.com/learn-code-solving-problems)
 
-[Mission Python](https://nostarch.com/missionpython)
+[Mission Python - Sean McManus](https://nostarch.com/missionpython)
 
-[Python Playground](https://nostarch.com/pythonplayground)
+[Python Playground - Mahesh Venkitachalam](https://nostarch.com/pythonplayground)
 
-[Impractical Python Projects](https://nostarch.com/impracticalpythonprojects)
+[Impractical Python Projects - Lee Vaughan](https://nostarch.com/impracticalpythonprojects)
 
-[The Big Book of Small Python Projects](https://nostarch.com/big-book-small-python-projects)
+[The Big Book of Small Python Projects - Al Sweigart](https://nostarch.com/big-book-small-python-projects)
 
-[Object-Oriented Python](https://nostarch.com/object-oriented-python)
+[Object-Oriented Python - Irv Kalb](https://nostarch.com/object-oriented-python)
 
 [Math Adventures with Python](https://nostarch.com/mathadventures)
 
-[Doing Math with Python](https://nostarch.com/doingmathwithpython)
+[Doing Math with Python - Peter Farrell](https://nostarch.com/doingmathwithpython)
 
-[Python Programming and Numerical Methods: A Guide For Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+[Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
-[Hardcore Programming for Mechanical Engineers](https://nostarch.com/hardcore-programming-mechanical-engineers)
+[Hardcore Programming for Mechanical Engineers - Angel Sola Orbaiceta](https://nostarch.com/hardcore-programming-mechanical-engineers)
 
-[Automate the Boring Stuff with Python](https://nostarch.com/automatestuff2)
+[Automate the Boring Stuff with Python - Al Sweigart](https://nostarch.com/automatestuff2)
 
-[Real World Python](https://nostarch.com/real-world-python)
+[Real World Python - Lee Vaughan](https://nostarch.com/real-world-python)
 
-[The Recursive Book of Recursion](https://nostarch.com/recursive-book-recursion)
+[The Recursive Book of Recursion - Al Sweigart](https://nostarch.com/recursive-book-recursion)
 
-[Diving Into Algorithms](https://nostarch.com/Dive-Into-Algorithms)
+[Diving Into Algorithms - Bradford Tuckfield](https://nostarch.com/Dive-Into-Algorithms)
 
-[Genetic Algorithms with Python](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+[Genetic Algorithms with Python - Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 
-[Practical Deep Learning](https://nostarch.com/practical-deep-learning-python)
+[Practical Deep Learning - Ronald T. Kneusel](https://nostarch.com/practical-deep-learning-python)
 
 ## Creators of Python Knowledge
 
