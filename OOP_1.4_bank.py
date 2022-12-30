@@ -1,4 +1,4 @@
-# This script will simulate a two bank accounts
+# This script will simulate two bank accounts
 
 # Reference:
     # Object-Oriented Python by Irv Kalb
