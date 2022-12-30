@@ -1,6 +1,6 @@
 # This script will simulate a single bank account
 
-# Reference:
+# Reference/Made by:
     # Object-Oriented Python by Irv Kalb
     # https://github.com/IrvKalb/Object-Oriented-Python-Code
     # Chapter 1
