@@ -1,6 +1,6 @@
 # This script will simulate multiple bank accounts
 
-# Reference:
+# Reference/Made by:
     # Object-Oriented Python by Irv Kalb
     # https://github.com/IrvKalb/Object-Oriented-Python-Code
     # Chapter 1
