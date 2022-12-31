@@ -1,6 +1,6 @@
 # This script will simulate a single bank account
 
-# Reference:
+# Reference/Made by:
     # Object-Oriented Python by Irv Kalb
     # https://github.com/IrvKalb/Object-Oriented-Python-Code
     # Chapter 1
@@ -53,15 +53,20 @@ def userPassDeposit():
     if userPassword == accountPassword:
         print('Your current account balance is $  ' + str(accountBalance))
         updateBalance = input('Please enter the amount you are depositing using positive whole numbers (integers)  ')
+        updateBalance = int(updateBalance)
         # https://stackoverflow.com/questions/3501382/checking-whether-a-variable-is-an-integer-or-not
         #if int(updateBalance) == updateBalance:
             #NewAccountBalance = updateBalance + accountBalance
             #print('Your new account balance is $ ' + str(NewAccountBalance))
         if isinstance(updateBalance,int) == True:
-            print('True')
-            #NewAccountBalance = updateBalance + accountBalance
-            #print('Your new account balance is $ ' + str(NewAccountBalance))            
-        print()
+            #print('True')
+            NewAccountBalance = updateBalance + accountBalance
+            print('Your new account balance is $ ' + str(NewAccountBalance))            
+        if isinstance(updateBalance,int) == False:
+            #print('False')           
+            incorrectAmount = input('You have entered an incorrect Amount, enter "r" to retry or "q" to quit    ')
+            if incorrectAmount == 'r':
+                userPassDeposit()
 
 while True:
     accountInstructions()
