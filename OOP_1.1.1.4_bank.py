@@ -15,6 +15,7 @@ accountBalance = 100
 
 def AccountData():
     global accountName, accountPassword, accountBalance
+    #print(accountName, accountPassword, accountBalance)
     name = accountName
     password = accountPassword
     balance = accountBalance
@@ -27,3 +28,4 @@ def UpdateAccount(password):
     
 AccountData()
 UpdateAccount('b24')
+print(accountPassword)
