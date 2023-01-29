@@ -17,6 +17,7 @@ def newAccount(aName, aBalance, aPassword):
     newAccountDict = {'name':aName, 'balance':aBalance, 'password':aPassword}
     accountsList.append(newAccountDict)
     print("Account database now contains the following customers: ", accountsList)
+    adminQuery()
 
 def adminQuery():
     """This function will ask the admin if they need to add an account"""
