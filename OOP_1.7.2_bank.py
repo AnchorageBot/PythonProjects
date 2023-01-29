@@ -22,10 +22,10 @@ def adminQuery():
     """This function will ask the admin if they need to add an account"""
     query = input("Would you like to add another account to the database?: ")
     if query == "yes":
-        #newAccount(aName, aBalance, aPassword)
-        #name = input('Please input the new customers name, balance, password:  ')
-        newAccount('carl', '50', 'd5b')
-        newAccount('mel', '50', 'x7a')
+        queryTwo = input('Please input the new customers name:  ')
+        queryThree = input('Please input the new customers balance:  ')
+        queryFour = input('Please input the new customers password:  ')
+        newAccount(queryTwo, queryThree, queryFour)
     else:
         print("Goodbye")
 
