@@ -1,0 +1,14 @@
+# A class is similar to a blueprint in that it describes an object such as a house
+
+# Instantiation is the process of creating an object from a class
+
+class <ClassName>():
+
+  def __init__(self,<optional Parameter 1>, ... <optional Parameter N>):
+    # instantiation code
+
+  def <function 1>(self, <optional Parameter 1>, ... <optional Parameter N>):
+    # function code
+
+  def <function N>(self, <optional Parameter 1>, ... <optional Parameter N>):
+    # function code
