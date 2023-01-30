@@ -37,7 +37,7 @@ KitchenLight.show()
 print()
 
 print("Kitchen Light is on:  ")
-KitchenLight.turnOnLight()
+KitchenLight.turnOffLight()
 KitchenLight.show()
 
 print()
@@ -56,5 +56,5 @@ OfficeLight.show()
 print()
 
 print("Office Light is on:  ")
-OfficeLight.turnOnLight()
+OfficeLight.turnOffLight()
 OfficeLight.show()
