@@ -1,4 +1,4 @@
-# This script will use object oriented programming to turn two different lightswitchs on and off
+# This script will use object oriented programming to turn two different lightswitches on and off
 
 # Reference:
     # Object-Oriented Python by Irv Kalb
