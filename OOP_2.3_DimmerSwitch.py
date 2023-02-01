@@ -4,6 +4,7 @@
     # A class is a blueprint for an object
     # An object is a set of variables and methods 
     # <object>.<methodName>(<argument>)
+    # A method is a function inside of a class
     # All methods have a special first parameter named <self>
 
 # Reference:
@@ -35,7 +36,7 @@ class LightDimmerSwitch():
             self.brightness = self.brightness - 1
             
     def show(self):
-        """This function is for testing/debugging"""
+        """This method(function) is for testing/debugging"""
         print("Light Dimmer Switch is on ?", self.dimmerSwitchOn)
         print("Dimmer Switch Brightness is ", self.brightness)
         
