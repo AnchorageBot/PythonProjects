@@ -52,6 +52,6 @@ KitchenDimmer.show()
 
 print()
 
-print("Kitchen Light is on:  ")
+print("Kitchen Light is off:  ")
 KitchenDimmer.turnOffLight()
 KitchenDimmer.show()
