@@ -56,3 +56,17 @@ print()
 print("Kitchen Light is off:  ")
 KitchenDimmer.turnOffLight()
 KitchenDimmer.show()
+
+print()
+
+print("Kitchen Light is on and brightness has been increased:  ")
+KitchenDimmer.turnOnLight()
+KitchenDimmer.brighterLight()
+KitchenDimmer.show()
+
+print()
+
+print("Kitchen Light is on and brightness has been decreased:  ")
+KitchenDimmer.turnOnLight()
+KitchenDimmer.dimmerLight()
+KitchenDimmer.show()
