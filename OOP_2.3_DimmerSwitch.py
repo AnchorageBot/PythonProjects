@@ -9,6 +9,7 @@
 
 # Reference:
     # Object-Oriented Python by Irv Kalb
+    # https://nostarch.com/object-oriented-python    
     # https://github.com/IrvKalb/Object-Oriented-Python-Code
     # Chapter 2
 
