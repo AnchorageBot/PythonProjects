@@ -8,7 +8,7 @@ class <ClassName>():
     # instantiation code
 
   def <function 1>(self, <optional Parameter 1>, ... <optional Parameter N>):
-    # function code
+    # method (class function) code
 
   def <function N>(self, <optional Parameter 1>, ... <optional Parameter N>):
-    # function code
+    # method (class function) code
