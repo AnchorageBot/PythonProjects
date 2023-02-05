@@ -16,18 +16,23 @@
 # Made with Mu v.1.0.3
     # February 2023
     # https://codewith.mu
-    
+
 class bankAccount():
     def __init__(self, name, balance, password):
         self.name = name
         self.balance = balance
         self.password = password
-    
+
     def getBalance(self, password):
         if password != self.password:
             print('Sorry, incorrect password')
             return None
-            return self.balance
+        #return self.balamce    
+        #else:
+            #return self.balance
+        print(self.balance)
+        #else:
+            #print(self.balance)
 
     def deposit(self, amountToDeposit, password):
         if password != self.password:
@@ -40,7 +45,7 @@ class bankAccount():
 
         self.balance = self.balance + amountToDeposit
         return self.balance
-        
+
     def withdraw(self, amountToWithdraw, password):
         if password != self.password:
             print('Incorrect password for this account')
@@ -56,7 +61,7 @@ class bankAccount():
 
         self.balance = self.balance - amountToWithdraw
         return self.balance
-        
+
     def show(self):
         """This method(function) is for testing/debugging"""
         print('       Name:', self.name)
@@ -65,5 +70,13 @@ class bankAccount():
         print()
 
 newAccount = bankAccount('Joe', 1000, 'magic')
+newAccount.show()
 
+newDeposit = newAccount.deposit(150, 'magic')
+newAccount.show()
+
+balanceQuery = newAccount.getBalance('magic')
+print()
+
+newWithdrawal = newAccount.withdraw(100, 'magic')
 newAccount.show()
