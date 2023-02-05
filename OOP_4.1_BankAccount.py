@@ -75,8 +75,8 @@ newAccount.show()
 newDeposit = newAccount.deposit(150, 'magic')
 newAccount.show()
 
-balanceQuery = newAccount.getBalance('magic')
-print()
-
 newWithdrawal = newAccount.withdraw(100, 'magic')
 newAccount.show()
+
+balanceQuery = newAccount.getBalance('magic')
+print()
