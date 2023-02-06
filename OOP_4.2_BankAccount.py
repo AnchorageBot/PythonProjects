@@ -88,3 +88,6 @@ aAccount.show()
 
 #bAccount.show()
 accountsDict[marysAccountNumber].show()
+
+print('The number of accounts currently in the database is: ', len(accountsDict))
+
