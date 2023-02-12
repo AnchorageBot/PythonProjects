@@ -7,7 +7,7 @@
         # standalone script
             # __name__ = __main__
         # from the command line
-            # python3 SimpleMainFuncPlus.py
+            # python3 OOP_4.2.1_BankAccount.py
 
 # Definitions and concepts
     # A class is a blueprint for an object
