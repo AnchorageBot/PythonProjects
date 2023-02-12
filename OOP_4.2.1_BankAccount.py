@@ -19,11 +19,15 @@
     # A method is a function inside of a class
     # All methods have a special first parameter named <self>
 
-# Reference:
+# References:
     # Object-Oriented Python by Irv Kalb
     # Chapter 4
     # https://nostarch.com/object-oriented-python
     # https://github.com/IrvKalb/Object-Oriented-Python-Code
+    
+    # Python Software Foundation
+        # Top-level code environment
+            # https://docs.python.org/3/library/__main__.html
 
 # Made with Mu v.1.0.3
     # February 2023
