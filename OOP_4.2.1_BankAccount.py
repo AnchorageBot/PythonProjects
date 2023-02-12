@@ -7,6 +7,9 @@
         # standalone script
             # __name__ = __main__
         # from the command line
+            # Save file as OOP_4.2.1_BankAccount.py on the desktop
+            # Open terminal
+            # cd desktop
             # python3 OOP_4.2.1_BankAccount.py
 
 # Definitions and concepts
