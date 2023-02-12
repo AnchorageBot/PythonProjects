@@ -103,7 +103,7 @@ def main():
     #bAccount.show()
     accountsDict[marysAccountNumber].show()
 
-    print('The number of accounts currently in the database is: ', len(accountsDict))
+    print('There are', len(accountsDict), 'accounts currently in the database')
     
 if __name__ == "__main__":                      # when the if statement evaluates True, main() is executed
     main()  
