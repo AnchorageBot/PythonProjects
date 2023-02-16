@@ -1,6 +1,6 @@
 ## Python Projects
 
-This github code repository holds [python](https://www.python.org) code resulting from various projects
+This github repository holds [python](https://www.python.org) scripts resulting from various projects
 
 ## Text Editors and Integrated Development Environments (IDEs)
 
