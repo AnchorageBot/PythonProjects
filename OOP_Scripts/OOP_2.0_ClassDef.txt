@@ -16,10 +16,13 @@ class <ClassName>():
 # State - The data an object retains
 # Behavior - Actions an object can do
 
-# Instance - object
 # Method - function located inside of a class 
 
 # Global scope variable - available anywhere in program
 # Instance variable - has global scope (inside a class)
 # Local scope variable - available only within a function, when the function ends the variable ceases to exist
 # Method variable - has local scope (inside a function)
+
+# Instance - object
+# Object - data plus code that acts on the data over time
+# Object - a single instance of a class that has its own set of all the data defined in the instance variables of a class
