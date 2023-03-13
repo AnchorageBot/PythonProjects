@@ -1,1 +1,1 @@
-[Practical Deep Learning](https://nostarch.com/practical-deep-learning-python)
+[Practical Deep Learning - Ronald T. Kneusel](https://nostarch.com/practical-deep-learning-python)
