@@ -1,7 +1,7 @@
 Algebra and Python Class
 
-Teacher: Ed Pratowski
-Sponsor: FreeCodeCamp
+Teacher: Ed Pratowski<br>
+Sponsor: FreeCodeCamp<br>
 
 - [Class Video](https://www.youtube.com/watch?v=i7vOAcUo5iA)
 
