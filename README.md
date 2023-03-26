@@ -8,6 +8,8 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 
 [Mu](https://codewith.mu)
 
+[Google Colab](https://www.colab.research.google.com)
+
 [Anaconda](https://www.anaconda.com)
 
 ## How-to Code with Python Project Books
