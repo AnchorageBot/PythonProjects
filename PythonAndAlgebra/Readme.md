@@ -7,7 +7,7 @@ Sponsor: FreeCodeCamp<br>
 
 - [Class Scripts](https://github.com/edatfreecodecamp/python-math/tree/main/Algebra-with-Python)
 
-[Python IDE: Google Colab](https://colab.research.google.com)
+- [Python IDE: Google Colab](https://colab.research.google.com)
  
 Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
 - Zero configuration required
