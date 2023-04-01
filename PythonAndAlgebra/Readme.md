@@ -7,4 +7,4 @@ Sponsor: FreeCodeCamp<br>
 
 - [Class Scripts](https://github.com/edatfreecodecamp/python-math/tree/main/Algebra-with-Python)
 
-- [Google Colab IDE](https://www.colab.research.google.com)
+- [Google Colab IDE](https://colab.research.google.com)
