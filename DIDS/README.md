@@ -3,6 +3,10 @@
 Topics covered include conducting exploratory data analysis, running A/B tests, performing binary classification 
 using logistic regression models, and using machine learning algorithms.
 
+[Pandas 1.x Cookbook, 2nd Edition, by M. Harrison and T. Petrou](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
+
+
+
 [Python IDE: Google Colab](https://colab.research.google.com)
  
 Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
