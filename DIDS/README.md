@@ -5,7 +5,7 @@ using logistic regression models, and using machine learning algorithms.
 
 [Pandas 1.x Cookbook, 2nd Edition, by M. Harrison and T. Petrou](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
 
-
+This book guides you, as if you were looking over the shoulder of an expert, through situations that you are highly likely to encounter. This new updated and revised edition provides you with unique, idiomatic, and fun recipes for both fundamental and advanced data manipulation tasks with pandas.
 
 [Python IDE: Google Colab](https://colab.research.google.com)
  
