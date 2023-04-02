@@ -46,6 +46,8 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 
 [Python for Data Science: A Hands-On Introduction Book - Yuli Vasiliev](https://www.oreilly.com/library/view/python-for-data/9781098130275/)
 
+[Pandas 1.x Cookbook, 2nd Edition, by M. Harrison and T. Petrou](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
+
 [The Recursive Book of Recursion - Al Sweigart](https://nostarch.com/recursive-book-recursion)
 
 [Diving Into Algorithms - Bradford Tuckfield](https://nostarch.com/Dive-Into-Algorithms)
