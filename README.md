@@ -34,7 +34,7 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 
 [Linear Algebra Coding with Python - Hyun-Seok Son](https://www.goodreads.com/book/show/54619033-linear-algebra-coding-with-python)
 
-[Calculus Story I with Python - Hyun-Seak Son](https://blackwells.co.uk/bookshop/product/Calculus-Story-I-With-Python-by-Hyun-Seok-Son-author/9781097682799)
+[Calculus Story I with Python - Hyun-Seok Son](https://blackwells.co.uk/bookshop/product/Calculus-Story-I-With-Python-by-Hyun-Seok-Son-author/9781097682799)
 
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
