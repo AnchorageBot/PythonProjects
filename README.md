@@ -42,13 +42,15 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 
 [Real World Python - Lee Vaughan](https://nostarch.com/real-world-python)
 
+[Foundations for Analytics with Python - Clinton W. Brownley](https://www.oreilly.com/library/view/foundations-for-analytics/9781491922521/)
+
+[Data Science from Scratch by Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
+
 [Dive Into Data Science - Bradford Tuckfield](https://nostarch.com/dive-data-science)
 
 [Python for Data Science: A Hands-On Introduction Book - Yuli Vasiliev](https://www.oreilly.com/library/view/python-for-data/9781098130275/)
 
 [Pandas 1.x Cookbook, 2nd Edition, by M. Harrison and T. Petrou](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
-
-[Foundations for Analytics with Python - Clinton W. Brownley](https://www.oreilly.com/library/view/foundations-for-analytics/9781491922521/)
 
 [The Recursive Book of Recursion - Al Sweigart](https://nostarch.com/recursive-book-recursion)
 
