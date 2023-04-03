@@ -24,7 +24,13 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 
 [Impractical Python Projects - Lee Vaughan](https://nostarch.com/impracticalpythonprojects)
 
+[Real World Python - Lee Vaughan](https://nostarch.com/real-world-python)
+
+[Object-Oriented Python - Irv Kalb](https://nostarch.com/object-oriented-python)
+
 [The Big Book of Small Python Projects - Al Sweigart](https://nostarch.com/big-book-small-python-projects)
+
+[Automate the Boring Stuff with Python - Al Sweigart](https://nostarch.com/automatestuff2)
 
 [Cracking Codes with Python - Al Sweigart](https://nostarch.com/crackingcodes)
 
@@ -39,12 +45,6 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
 [Hardcore Programming for Mechanical Engineers - Angel Sola Orbaiceta](https://nostarch.com/hardcore-programming-mechanical-engineers)
-
-[Object-Oriented Python - Irv Kalb](https://nostarch.com/object-oriented-python)
-
-[Automate the Boring Stuff with Python - Al Sweigart](https://nostarch.com/automatestuff2)
-
-[Real World Python - Lee Vaughan](https://nostarch.com/real-world-python)
 
 [Foundations for Analytics with Python - Clinton W. Brownley](https://www.oreilly.com/library/view/foundations-for-analytics/9781491922521/)
 
