@@ -32,6 +32,8 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 
 [Doing Math with Python - Amit Saha](https://nostarch.com/doingmathwithpython)
 
+[Linear Algebra Coding with Python - Hyun-Seok Son](https://www.goodreads.com/book/show/54619033-linear-algebra-coding-with-python)
+
 [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
 [Hardcore Programming for Mechanical Engineers - Angel Sola Orbaiceta](https://nostarch.com/hardcore-programming-mechanical-engineers)
