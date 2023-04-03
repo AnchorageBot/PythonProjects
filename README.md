@@ -48,6 +48,8 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 
 [Pandas 1.x Cookbook, 2nd Edition, by M. Harrison and T. Petrou](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
 
+[Foundations for Analytics with Python - Clinton W. Brownley](https://www.oreilly.com/library/view/foundations-for-analytics/9781491922521/)
+
 [The Recursive Book of Recursion - Al Sweigart](https://nostarch.com/recursive-book-recursion)
 
 [Diving Into Algorithms - Bradford Tuckfield](https://nostarch.com/Dive-Into-Algorithms)
