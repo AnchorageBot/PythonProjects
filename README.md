@@ -54,6 +54,8 @@ This github repository holds [python](https://www.python.org) scripts resulting 
 
 [Pandas 1.x Cookbook, 2nd Edition, by M. Harrison and T. Petrou](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
 
+[Data Visualization with Python and JavaScript, 2nd Edition - Kyran Dale](https://www.oreilly.com/library/view/data-visualization-with/9781098111861/)
+
 [Object-Oriented Python - Irv Kalb](https://nostarch.com/object-oriented-python)
 
 [The Recursive Book of Recursion - Al Sweigart](https://nostarch.com/recursive-book-recursion)
