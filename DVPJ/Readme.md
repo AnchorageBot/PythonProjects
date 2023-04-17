@@ -1,7 +1,7 @@
 
-[Data Visualization with Python and JavaScript, 2nd Edition, by Kyran Dale](https://www.oreilly.com/library/view/data-visualization-with/9781098111861/)
-
 How do you turn raw, unprocessed, or malformed data into dynamic, interactive web visualizations?
+
+[Data Visualization with Python and JavaScript, 2nd Edition, by Kyran Dale](https://www.oreilly.com/library/view/data-visualization-with/9781098111861/)
 
 Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
 - Zero configuration required
