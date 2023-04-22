@@ -9,3 +9,5 @@
 [Mathematical Methods for Physics and Engineering - A Comprehensive Guide - Riley, Hobson, Bence](https://www.cambridge.org/us/academic/subjects/physics/mathematical-methods/mathematical-methods-physics-and-engineering-comprehensive-guide-3rd-edition?format=PB&isbn=9780521679718)
 
 [Mathematical Methods for Physics and Engineering - Student Solutions Manual - Riley, Hobson, Bence](https://www.cambridge.org/highereducation/books/student-solution-manual-for-mathematical-methods-for-physics-and-engineering-third-edition/1D37BB529AEA8F3DA59E31EC7C7039C0?chapterId=CBO9780511816130A009#contents)
+
+[Wolfram MathWorld - Prime Number](https://mathworld.wolfram.com/PrimeNumber.html)
