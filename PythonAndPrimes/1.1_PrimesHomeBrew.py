@@ -1,6 +1,6 @@
 # This script  will check if numbers are even or odd
 
-# Made with Mu during April 2023
+# Made with Mu 1.0.3 during April 2023
   # https://codewith.mu
 
 def evenOdd(num):
