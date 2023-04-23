@@ -14,11 +14,10 @@ def sqRootRound(num):
     
 sqRoot(15)
 sqRootRound(15)
+
 print("\n")
 
-
 n = [15, 17, 21]
-
 for n in n:
     print(n**0.5)
     
