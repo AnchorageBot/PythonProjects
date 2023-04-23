@@ -6,7 +6,7 @@
   # https://en.wikipedia.org/wiki/Composite_number
   # https://stackoverflow.com
   
-# Made with Mu during April 2023
+# Made with Mu 1.0.3 during April 2023
   # https://codewith.mu
 
 print("This script will check for prime numbers in a list that includes zero\n")
