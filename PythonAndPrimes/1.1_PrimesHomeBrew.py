@@ -5,8 +5,12 @@
 
 def evenOdd(num):
     if (num % 2) == 0: 
-        print("The number is even")
+        print("The number:", num, "is even")
     else: 
-        print("The number is odd")
+        print("The number:", num, "is odd")
     
 evenOdd(2)
+evenOdd(3)
+print("\n")
+evenOdd(7)
+evenOdd(8)
