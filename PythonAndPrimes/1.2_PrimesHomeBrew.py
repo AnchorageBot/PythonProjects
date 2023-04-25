@@ -9,26 +9,38 @@
 # Made with Mu 1.0.3 during April 2023
   # https://codewith.mu
 
-print("This script will check for prime numbers in a list that starts at 3\n")
+print("This script will check for prime numbers in a list that starts at 3 and ends in a user supplied integer\n")
 
 query = int((input("Please enter an integer that will be the upper limit of the list: ")))
-a = []
-b = []
-c = []
+startingList = []
+evenList = []
+oddList = []
 
 def createLists(n):
     """creates lists which are based upon a user suppled limit"""
     for n in range(n, 2, -1):
-        a.append(n)
+        startingList.append(n)
         if (n % 2) == 0:
-          b.append(n)
+          evenList.append(n)
         if (n % 2) != 0:
-          c.append(n)
-
-d = [x for x in a if x not in b]      
+          oddList.append(n)
+        
+def sqRootQuery(w):
+    """provides a factor to divide the odd numbers by"""
+    print("The factor used to divide the odd numbers by is: ", round(w**0.5))
+    print("The square root of the query is: ", (w**0.5))
+    
+def factorOdds(o,f):
+    """divides each of the odd numbers by a factor and this still needs more work"""
+    for o in o:
+        print(o/f)
 
 createLists(query)
-print("This is the list that we are checking for prime numbers: ",a)
-print("These are the even numbers in the list: ",b)
-print("These are the odd numbers in the list: ",c)
-print("This is result of subtracting the list of even integers from the original list",d)
+
+print("This is the list that we are checking for prime numbers: ",startingList)
+print("These are the even numbers in the list: ",evenList)
+print("These are the odd numbers in the list: ",oddList)
+
+factor = sqRootQuery(query)
+
+#factorOddList = factorOdds(oddList, factor)
