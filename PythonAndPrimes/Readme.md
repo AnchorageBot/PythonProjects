@@ -11,3 +11,5 @@
 [Mathematical Methods for Physics and Engineering - Student Solutions Manual - Riley, Hobson, Bence](https://www.cambridge.org/highereducation/books/student-solution-manual-for-mathematical-methods-for-physics-and-engineering-third-edition/1D37BB529AEA8F3DA59E31EC7C7039C0?chapterId=CBO9780511816130A009#contents)
 
 [Wolfram MathWorld - Prime Number](https://mathworld.wolfram.com/PrimeNumber.html)
+
+[Why Mathematicians Re-Prove What They Already Know - Anna Kramer](https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/)
