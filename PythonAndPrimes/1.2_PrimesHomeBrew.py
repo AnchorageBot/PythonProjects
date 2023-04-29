@@ -1,4 +1,4 @@
-# This script will search for prime numbers
+# This script will search for prime numbers (needs more work)
 
 # References
   # https://en.wikipedia.org/wiki/Generation_of_primes#Prime_sieves
@@ -15,6 +15,7 @@ query = int((input("Please enter an integer that will be the upper limit of the 
 startingList = []
 evenList = []
 oddList = []
+primeList =[]
 
 def createLists(n):
     """creates lists which are based upon a user suppled limit"""
@@ -24,23 +25,31 @@ def createLists(n):
           evenList.append(n)
         if (n % 2) != 0:
           oddList.append(n)
-        
+
+def factorOdds():
+    """divides each of the odd numbers by a factor and needs more work"""
+    for o in oddList:
+        if (o/factor3) == 1:
+            primeList.append(o)
+        if (o % factor3) != 0:
+          primeList.append(o)
+        #if (o % factor5) != 0:
+          #primeList.append(o)          
+          
 def sqRootQuery(w):
-    """provides a factor to divide the odd numbers by"""
-    print("The factor used to divide the odd numbers by is: ", round(w**0.5))
-    print("The square root of the query is: ", (w**0.5))
-    
-def factorOdds(o,f):
-    """divides each of the odd numbers by a factor and this still needs more work"""
-    for o in o:
-        print(o/f)
+    """looks at the square root of the integer supplied by the user"""
+    print("\nThe square root of the integer supplied by the user is: ", (w**0.5))
 
 createLists(query)
 
-print("This is the list that we are checking for prime numbers: ",startingList)
+factor3 = 3
+#factor5 = 5
+factorOdds()
+
+w = sqRootQuery(query)
+
+print("\nThis is the list that we are checking for prime numbers: ",startingList)
 print("These are the even numbers in the list: ",evenList)
 print("These are the odd numbers in the list: ",oddList)
-
-factor = sqRootQuery(query)
-
-#factorOddList = factorOdds(oddList, factor)
+print("The numbers 1 and 2 are prime, and these are the additional prime numbers in the list", primeList)
+#print(primeList.reverse())
