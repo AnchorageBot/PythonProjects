@@ -25,7 +25,7 @@ primeList =[]
 factor3 = 3
 #factor5 = 5
 #factor7 = 7
-#factor9 = 9 
+#factor9 = 9
 
 def sqRootQuery(q):
     """looks at the square root of the integer supplied by the user"""
@@ -53,14 +53,17 @@ def factorList():
           #primeList.append(o)
         #if (o % factor7) != 0:
           #primeList.append(o)
+        #if (o % factor9) != 0:
+          #primeList.append(o)          
     for e in evenList:
         if (e/2) == 1:
-            primeList.append(e)          
-            
+            primeList.append(e)
+
 def main():
     """this function calls the various script functions"""
 
-    q = sqRootQuery(query)
+    sqRootQuery(query)
+    #q = sqRootQuery(query)
 
     createLists(query)
 
@@ -71,15 +74,16 @@ def main():
     print("These are the odd numbers in the list: ",oddList)
     print("\nThese are the prime numbers that we found in the list (script is still under development so double check the results)", primeList)
     #print(primeList.reverse())
-    
+
 if __name__ == "__main__":                      # when the if statement evaluates True, main() is executed
-    main()  
+    main()
 
 # This script incldes a simplified main function
     # allows the script to be used as a reusable module or standalone script
-        # import script as a reusable module 
+        # import script as a reusable module
             # __name__ = module's filename
         # standalone script
             # __name__ = __main__
         # from the command line
             # python3 1.3_PrimesHomeBrew.py
+          
