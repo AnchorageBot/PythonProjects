@@ -47,7 +47,7 @@ def factorList():
 
 def sqRootQuery(q):
     """looks at the square root of the integer supplied by the user"""
-    print("\nThe square root of the integer supplied by the user is: ", round((q**0.5),3))
+    print("The square root of the integer supplied by the user is: ", round((q**0.5),3))
 
 createLists(query)
 
