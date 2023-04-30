@@ -1,4 +1,4 @@
-# This script will search for prime numbers
+# This script will search for prime numbers (script is still under development so double check the results)
 
 # References
   # https://en.wikipedia.org/wiki/Magical_objects_in_Harry_Potter
@@ -20,7 +20,7 @@ oddList = []
 primeList =[]
 
 def createLists(n):
-    """creates lists which are based upon a user suppled limit"""
+    """sorting hat that creates lists which are based upon a user suppled limit"""
     for n in range(n, 0, -1):
         userList.append(n)
         if (n % 2) == 0:
@@ -61,5 +61,5 @@ q = sqRootQuery(query)
 print("\nThis is the list that we are searching for prime numbers: ",userList)
 print("\nThese are the even numbers in the list: ",evenList)
 print("These are the odd numbers in the list: ",oddList)
-print("\nThese are the prime numbers in the list", primeList)
+print("\nThese are the prime numbers in the list (script is still under development so double check the results)", primeList)
 #print(primeList.reverse())
