@@ -33,7 +33,8 @@ def sqRootQuery(q):
 
 def createLists(n):
     """sorting hat that creates lists which are based upon a user suppled limit"""
-    for n in range(n, 0, -1):
+    #for n in range(n, 0, -1): # range(start, stop, step)
+    for n in range(0, n, 1):
         userList.append(n)
         if (n % 2) == 0:
           evenList.append(n)
@@ -42,6 +43,9 @@ def createLists(n):
 
 def factorList():
     """sorting hat that divides list numbers by a factor in order to find prime numbers and which still needs more work"""
+    for e in evenList:
+        if (e/2) == 1:
+            primeList.append(e)
     for o in oddList:
         #if (o/1) == 1:
             #primeList.append(o)
@@ -54,10 +58,10 @@ def factorList():
         #if (o % factor7) != 0:
           #primeList.append(o)
         #if (o % factor9) != 0:
-          #primeList.append(o)          
-    for e in evenList:
-        if (e/2) == 1:
-            primeList.append(e)
+          #primeList.append(o)
+    #for e in evenList:
+        #if (e/2) == 1:
+            #primeList.append(e)
 
 def main():
     """this function calls the various script functions"""
@@ -74,6 +78,7 @@ def main():
     print("These are the odd numbers in the list: ",oddList)
     print("\nThese are the prime numbers that we found in the list (script is still under development so double check the results)", primeList)
     #print(primeList.reverse())
+    #print(reversed(primeList))
 
 if __name__ == "__main__":                      # when the if statement evaluates True, main() is executed
     main()
