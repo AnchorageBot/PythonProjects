@@ -13,6 +13,7 @@
 print("This script will search for prime numbers in a list that starts at 1 and ends in a user supplied integer\n")
 
 query = int((input("Please enter an integer that will be the upper limit of the list: ")))
+
 userList = []
 evenList = []
 oddList = []
