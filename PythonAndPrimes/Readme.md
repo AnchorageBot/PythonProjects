@@ -10,6 +10,6 @@
 
 [Proof and the Art of Mathematics Examples and Extensions - Joel David Hamkins](https://mitpress.mit.edu/9780262542203/proof-and-the-art-of-mathematics/)
 
-[Wolfram MathWorld - Prime Number](https://mathworld.wolfram.com/PrimeNumber.html)
-
 [Why Mathematicians Re-Prove What They Already Know - Anna Kramer - Quanta](https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/)
+
+[Wolfram MathWorld - Prime Number](https://mathworld.wolfram.com/PrimeNumber.html)
