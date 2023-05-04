@@ -12,4 +12,6 @@
 
 [Why Mathematicians Re-Prove What They Already Know - Anna Kramer - Quanta](https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/)
 
+[Wolfram MathWorld - Composite Number](https://mathworld.wolfram.com/CompositeNumber.html)
+
 [Wolfram MathWorld - Prime Number](https://mathworld.wolfram.com/PrimeNumber.html)
