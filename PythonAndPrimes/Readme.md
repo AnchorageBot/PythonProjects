@@ -10,6 +10,8 @@
 
 [Proof and the Art of Mathematics Examples and Extensions - Joel David Hamkins](https://mitpress.mit.edu/9780262542203/proof-and-the-art-of-mathematics/)
 
+[Riemann Hypothesis, Explained - Alex Kontorovich - Quanta](https://www.quantamagazine.org/videos/the-riemann-hypothesis-explained/)
+
 [Why Mathematicians Re-Prove What They Already Know - Anna Kramer - Quanta](https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/)
 
 [Wolfram MathWorld - Composite Number](https://mathworld.wolfram.com/CompositeNumber.html)
