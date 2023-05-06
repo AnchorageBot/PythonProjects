@@ -7,9 +7,9 @@
   # https://stackoverflow.com/questions/3939660/sieve-of-eratosthenes-finding-primes-python
   # https://mathworld.wolfram.com/SieveofEratosthenes.html
 
-print("This script will search for prime numbers in a set that starts at 2 and ends in a user supplied integer\n")
+print("This script will search for prime numbers in a list that starts at 2 and ends in a user supplied integer\n")
 
-query = int((input("Please enter an integer that will be the upper limit of the set:\n")))
+query = int((input("Please enter an integer that will be the upper limit of the list:\n")))
 
 def sqRootQuery(q):
     """looks at the square root of the integer supplied by the user"""
