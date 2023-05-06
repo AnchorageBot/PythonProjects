@@ -53,6 +53,9 @@ def itertools_list():
     print ("lists e and f are combined using the python itertools library : " +  str(combo_e_f))
     print("the interlist aggregation is done with the chain function and the intralist aggregation is done with the zip() function.")
     
-zip_list()
-map_list()
-itertools_list()
+if __name__ == '__main__':
+    """ensures that the called functions are executed only when the script is run"""
+    
+    zip_list()
+    map_list()
+    itertools_list()
