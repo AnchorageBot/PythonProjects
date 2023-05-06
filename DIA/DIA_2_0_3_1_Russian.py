@@ -9,7 +9,7 @@
   # https://codewith.mu
   
 def zip_list():
-    """combines two lists into one - zip function turns rows into columns, and columns into rows"""
+    """combines two lists into one - zip function"""
     list_a = [1, 3, 5]
     list_b = [2, 4, 6]
 
@@ -40,7 +40,7 @@ def map_list():
 import itertools
 
 def itertools_list():
-    """combines two lists into one - itertools"""  
+    """combines two lists into one - itertools library and chain function"""   
     list_e = [[12, 10], [8, 6], [4, 2]]
     list_f = [[11, 9], [7, 5], [3, 1]]
   
