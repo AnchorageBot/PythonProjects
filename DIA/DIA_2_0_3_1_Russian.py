@@ -4,6 +4,7 @@
   # https://favtutor.com/blogs/zip-two-lists-python
   # https://docs.python.org/3/library/functions.html
   # https://docs.python.org/3/library/stdtypes.html#list
+  # https://docs.python.org/3/library/itertools.html#module-itertools
   
 # Made with Mu 1.0.3 during May 2023
   # https://codewith.mu
