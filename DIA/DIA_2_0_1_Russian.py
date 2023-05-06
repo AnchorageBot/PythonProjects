@@ -15,7 +15,7 @@
     # Save file as RP_2_0.py on the desktop
     # Open terminal
     # cd desktop
-    # python3 RP_2_0.py
+    # python3 RP_2_0_1.py
 
 import math
 import pandas as pd
