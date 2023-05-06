@@ -9,11 +9,10 @@
   # https://codewith.mu
 
 import math
-#import pandas as pd
 
 def input_one():
     """asks user to provide the first number"""
-    print("This script will multiply two numbers that you provide")
+    print("This script will multiply two numbers that you provide by using the russian peasant algorithm")
     n1 = int(input("What is the first number that you would like to multiply? (Try 89)  "))
     return n1
 
@@ -37,6 +36,9 @@ def doubling(grabVar_n2):
         print(var_n2)
 
 #def fuse_half_double():
+    #"""Test for even & oddness, select for and sum odd pairs"""
+    #half_double = var_n2.loc[var_n2[0]%2==1,:]
+    #answer = sum(half_double.loc[:,1]
 
 def inputs():
     """takes input_one & runs it through halving, takes input_two & runs it through doubling"""
@@ -49,3 +51,4 @@ def inputs():
 if __name__ == '__main__':
     """ensures that the called functions are executed only when the script is run"""
     inputs()
+    #fuse_half_double()
