@@ -33,4 +33,4 @@ def primes_sieve(limit):
 
 sqRootQuery(query)
 
-print("These are the prime numbers found in the set", primes_sieve(query))
+print("These are the prime numbers found in the list", primes_sieve(query))
