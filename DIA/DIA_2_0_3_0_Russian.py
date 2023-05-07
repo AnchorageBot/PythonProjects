@@ -42,7 +42,7 @@ def double(grabVar_n2):
 
 def fuse_half_double():
     """Test for even & oddness, select for and sum odd pairs"""
-    #print(var_n2)       
+    print(var_n2)       
     #half_double = var_n2.loc[var_n2[0]%2==1,:]
     #print(half_double)
     #answer = sum(half_double.loc[:,1]
