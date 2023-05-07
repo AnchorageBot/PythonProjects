@@ -29,20 +29,20 @@ def half(grabVar_n1):
     var_n1 = [grabVar_n1]
     while(min(var_n1) > 1):
         var_n1.append(math.floor(min(var_n1)/2))
-        return var_n1
-        #print(var_n1)        
+        #return var_n1
+        print(var_n1)        
 
 def double(grabVar_n2):
     """takes input from input_two function, loops & doubles it, concatenates"""
     var_n2 = [grabVar_n2]
     while(len(var_n2) < 7):
         var_n2.append(max(var_n2)*2)
-        return var_n2
-        #print(var_n2)        
+        #return var_n2
+        print(var_n2)        
 
 def fuse_half_double():
     """Test for even & oddness, select for and sum odd pairs"""
-    print(var_n2)       
+    #print(var_n2)       
     #half_double = var_n2.loc[var_n2[0]%2==1,:]
     #print(half_double)
     #answer = sum(half_double.loc[:,1]
