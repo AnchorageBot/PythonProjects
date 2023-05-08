@@ -27,15 +27,15 @@ def insert_list():
   
 def extend_list():
     """adds items to a list - extend"""
-    list_c = [23, 27]
+    list_c = [23, 29]
     print("This is the list before extending it: ", list_c)
-    list_c.extend([29, 31])
+    list_c.extend([31, 37])
     print("This is the list after extending it: ", list_c, "\n")
    
 def plus_op_list():
     """adds items to a list - plus operator"""
-    list_d = [51, 53]
-    list_e = [57, 59]
+    list_d = [53, 59]
+    list_e = [61, 67]
     print("This is the combined list made with the plus operator", list_d + list_e, "\n")
 
 list_f = []
