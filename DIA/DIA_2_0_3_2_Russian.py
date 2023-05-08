@@ -15,7 +15,7 @@ def append_list():
     print("This is the list before appending: ", list_a)
     list_a.append(7)
     print("This is the list after appending: ", list_a)
-    list_a.append([9,11])
+    list_a.append([11, 13])
     print("This is the list after appending a nested list: ", list_a, "\n")
     
 def insert_list():
@@ -36,7 +36,7 @@ def plus_op_list():
     """adds items to a list - plus operator"""
     list_d = [51, 53]
     list_e = [57, 59]
-    print("This is the combined list made with the plus operator", list_d+list_e, "\n")
+    print("This is the combined list made with the plus operator", list_d + list_e, "\n")
 
 list_f = []
     
