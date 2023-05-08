@@ -27,7 +27,7 @@ def insert_list():
   
 def extend_list():
     """adds items to a list - extend"""
-    list_c = [21, 23, 27]
+    list_c = [23, 27]
     print("This is the list before extending it: ", list_c)
     list_c.extend([29, 31])
     print("This is the list after extending it: ", list_c, "\n")
