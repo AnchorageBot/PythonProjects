@@ -26,14 +26,14 @@ def insert_list():
     print("This is the list after inserting an item: ", list_b, "\n")
   
 def extend_list():
-    """adds items to list - extend"""
+    """adds items to a list - extend"""
     list_c = [21, 23, 27]
     print("This is the list before extending it: ", list_c)
     list_c.extend([29, 31])
     print("This is the list after extending it: ", list_c, "\n")
    
 def plus_op_list():
-    """adds items to list - plus operator"""
+    """adds items to a list - plus operator"""
     list_d = [51, 53]
     list_e = [57, 59]
     print("This is the combined list made with the plus operator", list_d+list_e, "\n")
@@ -41,10 +41,10 @@ def plus_op_list():
 list_f = []
     
 def loop_append_list():
-    """adds items to list - for-loop using append"""
+    """adds items to a list - for-loop using append"""
     for i in range(5):
         list_f.append(i)
-    print("This is the list made with the for-loop: ", list_f)
+    print("This is the list made with the for loop: ", list_f)
     
 if __name__ == '__main__':
     """ensures that the called functions are executed only when the script is run"""
@@ -54,4 +54,5 @@ if __name__ == '__main__':
     extend_list()
     plus_op_list()
     loop_append_list()
+    #print(list_f)
     
