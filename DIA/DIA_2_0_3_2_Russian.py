@@ -44,7 +44,7 @@ def loop_append_list():
     """adds items to a list - for-loop using append"""
     for i in range(5):
         list_f.append(i)
-    print("This is the list made with the for loop: ", list_f)
+    print("This is the list made with the for-loop: ", list_f)
     
 if __name__ == '__main__':
     """ensures that the called functions are executed only when the script is run"""
