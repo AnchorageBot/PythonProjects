@@ -1,4 +1,4 @@
-# This script will explore appending a list with a while loop
+# This script will explore appending a global list with a while loop
 
 # References
   # https://stackoverflow.com/questions/61325644/python-3-append-integers-on-a-list-with-while-true-loop
