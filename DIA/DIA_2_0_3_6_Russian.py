@@ -1,4 +1,4 @@
-# This script explores a while loop that succesively divide an input by 2 until it reaches the value of 1
+# This script explores a while loop that succesively divides an input by 2 until it reaches the value of 1
 
 # References
   # PY4E, https://www.py4e.com/html3/05-iterations
