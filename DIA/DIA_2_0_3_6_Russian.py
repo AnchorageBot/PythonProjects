@@ -20,7 +20,8 @@ def halves(n1):
     """takes input, loops & halves it (divides by 2) while ignoring remainder, concatenates"""
 
     while n1/2 >= 1:
-        print("These are the values stored in the local list ", n1)
+        #print("These are the values stored in the local list ", n1)
+        print(n1)
         n1 = round(n1/2)
         list_halves.append(n1)
 
