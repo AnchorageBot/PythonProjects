@@ -1,38 +1,44 @@
-# This script will explore appending a local list with a while loop
+# This script explores while loops that populate lists and dictionaries
 
 # References
-  # Dive into Algorithms, https://nostarch.com/Dive-Into-Algorithms
-  # https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication
+  # PY4E, https://www.py4e.com/html3/05-iterations
+  # Python Crash Course, https://nostarch.com/python-crash-course-3rd-edition
+    # https://ehmatthes.github.io/pcc/
 
 # Made with Mu 1.0.3 during May 2023
   # https://codewith.mu
 
-import math
+def blastOff(n):
+    """This function counts down a blast off sequence"""
+    while n > 0:
+        print(n)
+        n = n - 1
+    print('\nBlastoff!')
 
-n1 = []
-list_n1 = []
+responses = {}
+def climberPeak():
+    """This function tracks climbers and the mountain that they will climb""" 
 
-def input_one():
-    """asks user to provide an integer and succesively divides it by 2 (halve) until it reaches the value of 1"""
-    print("This script will successively halve an integer until it reaches the value of 1")
-    n1 = int(input("Please input an integer "))
-    return n1
+    # Set a flag to indicate that polling is active.
+    polling_active = True
 
-def half(pullVar_n1):
-    """takes input from input_one function, loops & halves it while ignoring remainder, concatenates"""
-    list_n1 = [pullVar_n1]
-    print("\nThese are the values stored in the local list")
-    while(min(list_n1) > 1):
-        list_n1.append(math.floor(min(list_n1)/2))
-        #return list_n1
-        print(list_n1)
-
-def inputs():
-    """takes input_one & runs it through halving"""
-    query_one = input_one()
-    half(query_one)
-
-if __name__ == '__main__':
-    """ensures that the called functions are executed only when the script is run"""
-    inputs()
-    print("These are the values stored in the global list ", list_n1)
+    while polling_active:
+      # Prompt for the person's name and response.
+      name = input("\nWhat is your name? ")
+      response = input("Which mountain would you like to climb someday? ")
+    
+      # Store the response in the dictionary:
+      responses[name] = response
+    
+      # Find out if anyone else is going to take the poll.
+      repeat = input("Would you like to let another person respond? (yes/ no) ")
+      if repeat == 'no':
+          polling_active = False
+        
+    # Polling is complete. Show the results.
+    print("\n--- Poll Results ---")
+    for name, response in responses.items():
+        print(name + " would like to climb " + response + ".")
+ 
+blastOff(10) 
+climberPeak()
