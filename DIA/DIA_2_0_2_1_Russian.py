@@ -1,66 +1,58 @@
-# This script will explore the russian peasant multiplication algorithm
-    # It accomplishes multiplication by halving, doubling, and addition
-    # It explores the concept of binary expansion
+# This script will provide examples of how to generate and populate a list
 
 # References
-  # Dive into Algorithms, https://nostarch.com/Dive-Into-Algorithms
+  # https://betterprogramming.pub/five-ways-to-add-data-to-a-list-in-python-ed1e7866e122
+  # https://stackoverflow.com/questions/41452819/list-append-in-for-loop-raises-exception-nonetype-object-has-no-attribute
+  # https://docs.python.org/3/library/functions.html
+  # https://docs.python.org/3/library/stdtypes.html#list
 
 # Made with Mu 1.0.3 during May 2023
   # https://codewith.mu
+  
+def append_list():
+    """adds items to a list - append"""
+    list_a = [1, 3, 5]
+    print("This is the list before appending: ", list_a)
+    list_a.append(7)
+    print("This is the list after appending: ", list_a)
+    list_a.append([11, 13])
+    print("This is the list after appending a nested list: ", list_a, "\n")
+    
+def insert_list():
+    """adds items to a list - insert"""    
+    list_b = [2, 4, 6]
+    print("This is the list before inserting an item: ", list_b)
+    list_b.insert(3, 8)
+    print("This is the list after inserting an item: ", list_b, "\n")
+  
+def extend_list():
+    """adds items to a list - extend"""
+    list_c = [23, 29]
+    print("This is the list before extending it: ", list_c)
+    list_c.extend([31, 37])
+    print("This is the list after extending it: ", list_c, "\n")
+   
+def plus_op_list():
+    """adds items to a list - plus operator"""
+    list_d = [53, 59]
+    list_e = [61, 67]
+    print("This is the combined list made with the plus operator", list_d + list_e, "\n")
 
-import math
-
-var_n1 = []
-var_n2 = []
-
-def input_one():
-    """asks user to provide the first number"""
-    print("This script will multiply two numbers that you provide by using the russian peasant algorithm")
-    n1 = int(input("What is the first number that you would like to multiply? (Try 89)  "))
-    return n1
-
-def input_two():
-    """asks user to provide the second number"""
-    n2 = int(input("What is the second number that you would like to multiply? (Try 18)  "))
-    return n2
-
-def half(grabVar_n1):
-    """takes input from input_one function, loops & halves it while ignoring remainder, concatenates"""
-    var_n1 = [grabVar_n1]
-    while(min(var_n1) > 1):
-        var_n1.append(math.floor(min(var_n1)/2))
-        #return var_n1
-        print(var_n1)        
-
-def double(grabVar_n2):
-    """takes input from input_two function, loops & doubles it, concatenates"""
-    var_n2 = [grabVar_n2]
-    while(len(var_n2) < 7):
-        var_n2.append(max(var_n2)*2)
-        #return var_n2
-        print(var_n2)        
-
-def fuse_half_double():
-    """Test for even & oddness, select for and sum odd pairs"""
-    print(var_n2)       
-    #half_double = var_n2.loc[var_n2[0]%2==1,:]
-    #print(half_double)
-    #answer = sum(half_double.loc[:,1]
-    #return answer
-    #print(answer)
-
-def inputs():
-    """takes input_one & runs it through halving, takes input_two & runs it through doubling"""
-    query_one = input_one()
-    half(query_one)
-
-    query_two = input_two()
-    double(query_two)
-
+list_f = []
+    
+def loop_append_list():
+    """adds items to a list - for-loop using append"""
+    for i in range(5):
+        list_f.append(i)
+    print("This is the list made with the for-loop: ", list_f)
+    
 if __name__ == '__main__':
     """ensures that the called functions are executed only when the script is run"""
-    inputs()
-    #print(var_n1)
-    #print(var_n2)
-    fuse_half_double()
-    #print(answer)
+    
+    append_list()
+    insert_list()
+    extend_list()
+    plus_op_list()
+    loop_append_list()
+    #print(list_f)
+    
