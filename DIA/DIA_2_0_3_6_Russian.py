@@ -32,7 +32,6 @@ def inputs():
 
 if __name__ == '__main__':
     """ensures that the called functions are executed only when the script is run"""
-    query_one = input_one()
-    halves(query_one)
+    inputs()
     print("These are the values stored in the global list ", list_halves)
     
