@@ -19,7 +19,7 @@ def input_two():
     list_doubles.append(n2)
     return n2
     
-def double(n2):
+def doubles(n2):
     """takes input from the input_two function, loops & doubles it, concatenates"""
 
     while len(str(n2)) <= 3:
@@ -30,10 +30,9 @@ def double(n2):
 def inputs():
     """takes input_two & runs it through doubling"""
     query_two = input_two()
-    double(query_two)
+    doubles(query_two)
     
 if __name__ == '__main__':
     """ensures that the called functions are executed only when the script is run"""
     inputs()
     print("These are the values stored in the global list ", list_doubles)
-    
