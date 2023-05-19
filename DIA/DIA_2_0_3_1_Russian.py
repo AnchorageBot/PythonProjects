@@ -14,7 +14,7 @@ def input_one():
     """asks user to provide an integer and succesively divides it by 2 (halve) until it reaches the value of 1"""
     print("This script will successively halve an integer until it reaches the value of 1")
     n1 = int(input("Please input an integer "))
-    list_doubles.append(n1)
+    list_halves.append(n1)
     return n1
 
 def halves(n1):
