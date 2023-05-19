@@ -16,6 +16,7 @@ list_doubles = []
 def input_two():
     """asks user to provide the second number"""
     n2 = int(input("What is the second number that you would like to multiply? (Try 18)  "))
+    list_doubles.append(n2)
     return n2
     
 def double(n2):
