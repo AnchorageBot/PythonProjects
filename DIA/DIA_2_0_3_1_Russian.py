@@ -5,7 +5,7 @@
   # Python Crash Course, https://nostarch.com/python-crash-course-3rd-edition
     # https://ehmatthes.github.io/pcc/
   # Dive into Algorithms, https://nostarch.com/Dive-Into-Algorithms
-  # https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication  
+  # Wiki, RPM/Egyptian Algo, https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication  
 
 # Made with Mu 1.0.3 during May 2023
   # https://codewith.mu
