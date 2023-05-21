@@ -10,9 +10,9 @@ list_halves = [89, 44, 22, 11, 5, 2, 1]
 list_doubles = [18, 36, 72, 144, 288, 576, 1152]
 
 def fuse_halves_doubles():
-    """combine(fuse) lists"""
+    """combine(fuse) two lists"""
 
-    print("this function will combine(fuse) ", list_halves, "and ", list_doubles)
+    print("this function will combine(fuse) two lists ", list_halves, "and ", list_doubles)
 
     halves_doubles = zip(list_halves, list_doubles)
     fuse = list(halves_doubles)
