@@ -28,7 +28,7 @@ def doubles(n2):
         list_doubles.append(n2)     
         
 def inputs():
-    """takes input_two & runs it through doubling"""
+    """takes input_two & runs it through doubles"""
     query_two = input_two()
     doubles(query_two)
     
