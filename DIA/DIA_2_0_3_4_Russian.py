@@ -4,6 +4,7 @@
   # Dive into Algorithms, https://nostarch.com/Dive-Into-Algorithms
   # Automate the Boring Stuff with Python, https://automatetheboringstuff.com
   # Python Crash Course, https://nostarch.com/python-crash-course-3rd-edition
+  # https://stackoverflow.com/questions/66317341/im-getting-the-error-typeerror-unsupported-operand-types-for-list-and
 
 # Made with Mu 1.0.3 during May 2023
   # https://codewith.mu
@@ -20,12 +21,10 @@ list_even = []
 def test_even_odd():
     """test for even and oddness"""
 
-    #half_double = half_double.loc[half_double[0]%2==1,:]
-
-    test = list_halves
-    print("test index [0] search results ", test[0])
-    print("test index [1] search results ", test[1])
-    print("test slice [:] search results ", test[:], "\n")
+    test_one = list_halves
+    print("test_one index [0] search results ", test_one[0])
+    print("test_one index [1] search results ", test_one[1])
+    print("test_one slice [:] search results ", test_one[:], "\n")
 
 
     test_two = list_fuse
@@ -34,26 +33,23 @@ def test_even_odd():
     print("test_two index [2] search results ", test_two[2])
     print("test_two slice [:] search results ", test_two[:], "\n")
 
+    test_three = list_halves
+    for number in test_three:
+        if number % 2 == 1:
+            #print(f"Found odd: {number}")
+            list_odd.append(number)
+    print("test_three odd number search results ", list_odd)
 
-    test_three = list_doubles
-    #while test_three[:] :
-        #print("test_three search results ", test_three)
-        #test_three = test_three{:]%2==1
-        #list_odd.append(test_three)
-
-    #return(test_three)
-    #print(test_three)
-    #print(list_odd)
-
-
-    #test_four = list_fuse_two
-    #while test_four[:] :
-        #print(test_four)
-        #test_four = test[:]%2==0
-        #list_odd.append(test_four)
-
-    #return(test_four)
-    #print(test_four)
-    #print(list_even)
+    test_four = list_halves
+    for item in test_four:
+        if item % 2 == 0:
+            #print(f"Found even: {item}")
+            list_even.append(item)
+    print("test_four even number search results ", list_even)
+            
+    #test_five = list_fuse_two
+    #for pair in test_five:
+        #if pair % 2:
+            #print(f"Found odd: {pair}") 
 
 test_even_odd()
