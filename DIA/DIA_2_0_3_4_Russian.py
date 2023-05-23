@@ -10,13 +10,13 @@
   # https://codewith.mu
 
 list_halves = [89, 44, 22, 11, 5, 2, 1]
-list_fuse = [(89, 18), (44, 36), (22, 72), (11, 144), (5, 288), (2, 576), (1, 1152)]
-
 list_doubles = [18, 36, 72, 144, 288, 576, 1152]
-list_fuse_two = [(89, 18), (44, 36), (22, 72), (11, 144), (5, 288), (2, 576), (1, 1152)]
+list_fuse = [(89, 18), (44, 36), (22, 72), (11, 144), (5, 288), (2, 576), (1, 1152)]
 
 list_odd = []
 list_even = []
+
+list_odd_pairs = []
 
 def test_even_odd():
     """test for even and oddness"""
@@ -45,11 +45,18 @@ def test_even_odd():
         if item % 2 == 0:
             #print(f"Found even: {item}")
             list_even.append(item)
-    print("test_four even number search results ", list_even)
-            
-    #test_five = list_fuse_two
-    #for pair in test_five:
-        #if pair % 2:
-            #print(f"Found odd: {pair}") 
+    print("test_four even number search results ", list_even, "\n")
+    
+    test_five = list_doubles
+    for item in test_five:
+        if item % 2 == 0:
+            print(f"test_five found even: {item}")
+    
+    test_six = list_fuse
+    for pair in test_six[0]:
+        if pair % 2:
+            print(f"test_six found odd: {pair}") 
+            list_odd_pairs.append(pair)
+    print("test_six odd number search results ", list_odd_pairs)            
 
 test_even_odd()
