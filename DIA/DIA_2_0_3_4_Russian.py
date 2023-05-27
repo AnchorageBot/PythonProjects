@@ -1,4 +1,4 @@
-# This script will explore testing lists for even & oddness
+# This script will explore testing lists for even & odd numbers
 
 # References
   # Dive into Algorithms, https://nostarch.com/Dive-Into-Algorithms
