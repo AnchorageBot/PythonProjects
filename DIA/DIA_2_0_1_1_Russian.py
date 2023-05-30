@@ -10,7 +10,7 @@
   # Stackoverflow, https://stackoverflow.com/questions/14638078/russian-peasant-multiplication-python-3-3
 
 # Software
-  # Xcode,https://developer.apple.com/xcode/
+  # Xcode, https://developer.apple.com/xcode/
   # Python, https://www.python.org/downloads/
 
 # How to run the script
@@ -34,6 +34,7 @@ answer = 0
 while y != 0:
    if (y%2 != 0):
       answer=answer+x
+      #print("The third column value is ", answer)
       x=x*2
       #print("First column (x) value associated with second column (y) odd value ", x)
       y=y//2
@@ -44,4 +45,5 @@ while y != 0:
       y=y//2
       #print("Even y value", y)
 
-print("the product is",(answer))
+#print("The product of ", x, "multiplied by ", y, " is",(answer))
+print("The product is",(answer))
