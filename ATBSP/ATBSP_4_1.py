@@ -6,7 +6,7 @@
 
 # References
   # Automate the Boring Stuff with Python - Al Sweigart
-  # https://automatetheboringstuff.com
+    # https://automatetheboringstuff.com
   # https://en.wikipedia.org/wiki/Magic_8_Ball
 
 # Software
