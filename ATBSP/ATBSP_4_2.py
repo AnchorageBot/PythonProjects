@@ -9,6 +9,8 @@
     # https://automatetheboringstuff.com
   # Wiki, India Ink
     # https://en.wikipedia.org/wiki/India_ink
+  # Wiki, roygbiv
+    # https://en.wikipedia.org/wiki/ROYGBIV#:~:text=ROYGBIV%20is%20an%20acronym%20for,blue%2C%20indigo%2C%20and%20violet.
 
 # Software
   # Xcode, https://developer.apple.com/xcode/
@@ -59,8 +61,11 @@ print("This portion of the script will print out the integer index of items in a
 for index, item in enumerate(DrawingSet):
     print('Index ' + str(index) + ' in DrawingSet is: ' + item)
     
-print("This portion of the script will select and print out a random item from the drawing set \n")
+print("This portion of the script will print out the items in the drawing kit in reverse order : \n")
+DrawingKit.reverse()
+print(DrawingKit, "\n")
 
+print("This portion of the script will select and print out a random item from the drawing set \n")
 print(random.choice(DrawingSet), "\n")
 
 print("This portion of the script will randomize the order of the items in the drawing set and the drawing kit \n")
