@@ -20,7 +20,7 @@
     # cd desktop
     # python3 ATBSP_4_2.py
 
-print("This script will print out the contents of a suggested india ink drawing set:")
+print("This portion of the script will print out the contents of a suggested india ink drawing set: \n")
 
 DrawingSet = ['Sketch Book',
             'Deep Scarlet Red 219',
@@ -33,9 +33,13 @@ DrawingSet = ['Sketch Book',
             'Ultramarine 120',
             'Dark Sepia 175',
             'Black 199',
-            'Pen Case']
+            'Pen Case' "\n"]
 
 for i in range(len(DrawingSet)):
     #print('Index ' + str(i) + ' in supplies is: ' + DrawingSet[i])
     print(DrawingSet[i])
-    
+
+print("This portion of the script will print out the integer index of items in a suggested india ink drawing set: \n")
+
+for index, item in enumerate(DrawingSet):
+    print('Index ' + str(index) + ' in DrawingSet is: ' + item)
