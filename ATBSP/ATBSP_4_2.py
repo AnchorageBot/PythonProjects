@@ -30,7 +30,8 @@ DrawingSet = ['Sketch Book',
             'Phthalo Blue 110',
             'Ultramarine 120',
             'Dark Sepia 175',
-            'Black 199']
+            'Black 199',
+            'Pen Case']
 
 for i in range(len(DrawingSet)):
     #print('Index ' + str(i) + ' in supplies is: ' + DrawingSet[i])
