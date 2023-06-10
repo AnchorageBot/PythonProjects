@@ -20,6 +20,8 @@
     # cd desktop
     # python3 ATBSP_4_2.py
 
+import random
+
 DrawingSet = ['Sketch Book',
             'Deep Scarlet Red 219',
             'Medium Purple Pink 125',
@@ -33,13 +35,38 @@ DrawingSet = ['Sketch Book',
             'Black 199',
             'Pen Case' "\n"]
             
+DrawingKit = ['Sketch Book',
+            'Deep Scarlet Red 219',
+            'Medium Purple Pink 125',
+            'Cadmium Yellow 107',
+            'Dark Chrome Yellow 109',
+            'May Green 170',
+            'Dark Phthalo Green 264',
+            'Phthalo Blue 110',
+            'Ultramarine 120',
+            'Dark Sepia 175',
+            'Black 199',
+            'Pen Case']
+            
 print("This portion of the script will print out the contents of a suggested india ink drawing set: \n")
 
 for i in range(len(DrawingSet)):
     #print('Index ' + str(i) + ' in supplies is: ' + DrawingSet[i])
     print(DrawingSet[i])
 
-print("This portion of the script will print out the integer index of suggested items in a india ink drawing set: \n")
+print("This portion of the script will print out the integer index of items in a suggested india ink drawing set: \n")
 
 for index, item in enumerate(DrawingSet):
     print('Index ' + str(index) + ' in DrawingSet is: ' + item)
+    
+print("This portion of the script will select and print out a random item from the drawing set \n")
+
+print(random.choice(DrawingSet), "\n")
+
+print("This portion of the script will randomize the order of the items in the drawing set and the drawing kit \n")
+
+random.shuffle(DrawingSet)
+print(DrawingSet, "\n")
+
+random.shuffle(DrawingKit)
+print(DrawingKit, "\n")
