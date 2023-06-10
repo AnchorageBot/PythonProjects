@@ -39,7 +39,7 @@ for i in range(len(DrawingSet)):
     #print('Index ' + str(i) + ' in supplies is: ' + DrawingSet[i])
     print(DrawingSet[i])
 
-print("This portion of the script will print out the integer index of items in a suggested india ink drawing set: \n")
+print("This portion of the script will print out the integer index of suggested items in a india ink drawing set: \n")
 
 for index, item in enumerate(DrawingSet):
     print('Index ' + str(index) + ' in DrawingSet is: ' + item)
