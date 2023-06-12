@@ -2,7 +2,7 @@
     # shebang
     # https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
-# This script will run Conway's Game of Life (uses a boardless approach ... world is represented as )
+# This script will run Conway's Game of Life (uses a boardless approach ... world is represented as a set of (x, y) coordinates of all the alive cells)
     # Any live cell with two or three live neighbours survives.
     # Any dead cell with three live neighbours becomes a live cell.
     # All other live cells die in the next generation. Similarly, all other dead cells stay dead.
