@@ -2,7 +2,7 @@
     # shebang
     # https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
-# This script will run Conway's Game of Life (this script uses a list of list to represent a two-dimensional field ... there are additional ways to approach this game)
+# This script will run Conway's Game of Life (this script uses a list of lists to represent a two-dimensional field ... there are additional ways to approach this game)
     # Any live cell with two or three live neighbours survives.
     # Any dead cell with three live neighbours becomes a live cell.
     # All other live cells die in the next generation. Similarly, all other dead cells stay dead.
