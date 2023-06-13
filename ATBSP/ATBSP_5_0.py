@@ -44,7 +44,10 @@ while True:
     
     else:
         print('I do not have start date information for ' + name)
+        print('Please re-enter their name')
+        newName = input()
         print('What is their start date?')
         sday = input()
-        startDate[name] = sday
+        startDate = {newName, sday}
         print('Start date database updated.')
+        print(startDate)
