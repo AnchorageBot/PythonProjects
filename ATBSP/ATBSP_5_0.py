@@ -25,9 +25,15 @@ startDate = {'Alice': 'Apr 1', 'Bob': 'Dec 12', 'Carol': 'Mar 4'}
 print("The names that are currently stored in the database are:")
 for k in startDate.keys():
     print(k)
+print("\n")
+
+print("The names and dates that are currently stored in the database are:")
+for i in startDate.items():
+    print(i)
+print("\n")
 
 while True:
-    print('Enter the name of a person whose start date you would like to know: (enter to quit)')
+    print('Enter the name of a person whose start date you would like to know or add: (enter to quit)')
     name = input()
     
     if name == '':
