@@ -39,6 +39,6 @@ def detourBase13():
     print('Counting to 13 in base 13: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C')
     print('Counting to 26 in base 13: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 1A, 1B, 1C')
     print('Counting to 39 in base 13: 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 2B, 2C')
-    print('Counting to 42 in base 13: 30, 31, 32, 33')
+    print('Counting to 42 in base 13: 30, 31, 32 ')
 
 detourBase13()
