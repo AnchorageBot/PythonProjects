@@ -13,7 +13,8 @@
     # https://stackoverflow.com/questions/3902918/base-13-the-hitchhikers-guide-to-the-galaxy
   # Counting in Base 13
     # https://math.stackexchange.com/questions/4250525/counting-in-base-13#:~:text=The%20standard%20way%20to%20count,%2C1C20...
-
+  # tridecimal
+    
 # Software
   # Xcode, https://developer.apple.com/xcode/
   # Python, https://www.python.org/downloads/
