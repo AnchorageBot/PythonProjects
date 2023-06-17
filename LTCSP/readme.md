@@ -8,3 +8,5 @@ You’ll learn how to:
 * Use Python sets, lists, and dictionaries to organize, sort, and search data
 * Design programs using functions and top-down design
 * Create complete-search algorithms and use Big O notation to design more efficient code
+
+[Supplementary resources](https://www.danielzingaro.com/ltc/) for the book, including downloadable code and additional exercises
