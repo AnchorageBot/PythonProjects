@@ -2,7 +2,7 @@
     # shebang
     # https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
-# This script takes a detour through base 13
+# This script takes a detour through base 13 (Tridecimal)
 
 # References
   # Automate the Boring Stuff with Python - Al Sweigart
@@ -13,7 +13,8 @@
     # https://stackoverflow.com/questions/3902918/base-13-the-hitchhikers-guide-to-the-galaxy
   # Math StackExchange, Counting in Base 13
     # https://math.stackexchange.com/questions/4250525/counting-in-base-13
-  # tridecimal
+  # Realistic Approach of Strange Number System from Unodecimal to Vigesimal
+    # https://www.ijcst.org/Volume3/Issue1/p2_3_1.pdf
     
 # Software
   # Xcode, https://developer.apple.com/xcode/
