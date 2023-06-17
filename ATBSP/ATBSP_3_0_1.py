@@ -15,6 +15,8 @@
     # https://math.stackexchange.com/questions/4250525/counting-in-base-13
   # Realistic Approach of Strange Number System from Unodecimal to Vigesimal
     # https://www.ijcst.org/Volume3/Issue1/p2_3_1.pdf
+  # Arithmetic Digit Manipulation and The Conway Base-13 Function
+    # https://digitalresearch.bsu.edu/mathexchange/wp-content/uploads/2021/12/LBoylan.pdf
     
 # Software
   # Xcode, https://developer.apple.com/xcode/
