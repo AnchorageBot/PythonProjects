@@ -13,6 +13,6 @@ You’ll learn how to:
 
 A programming judge website offers a repository of programming problems that can be solved by programmers around the world. You submit your solution—your Python code—and the site runs tests on your code.
 
-[DMOJ](https://dmoj.ca)
+* [DMOJ](https://dmoj.ca)
 
-[USACO](http://usaco.org)
+* [USACO](http://usaco.org)
