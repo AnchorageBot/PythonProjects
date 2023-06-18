@@ -36,7 +36,7 @@ print("It assumes that the second and third digits of a telemarketer's number ar
 
 def randomFourDigitsA():
     number = random.randint(1000,9999)
-    print(number, '\n')
+    print('Phone number on line one:', number, '\n')
     #print(type(number))
     
     n = list(map(int, str(number)))
@@ -47,16 +47,11 @@ def randomFourDigitsA():
     else:
         print('Probably ok to answer the call \n')
 
-    #if n[3] == 8:
-        #print('Probably a telemarketer, consider ignoring the call')
-    #if n[1] == n[2]:
-        #print('Probably a telemarketer, consider ignoring the call')
-
 def randomFourDigitsB():
 
     chars = string.digits
     random =  ''.join(choice(chars) for _ in range(4))
-    print(random, '\n')
+    print('Phone number on line two:', random, '\n')
     #print(type(random))
     
     r = list(map(int, str(random)))
