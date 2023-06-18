@@ -10,3 +10,9 @@ You’ll learn how to:
 * Create complete-search algorithms and use Big O notation to design more efficient code
 
 [Supplementary resources](https://www.danielzingaro.com/ltc/) for the book, including downloadable code and additional exercises
+
+A programming judge website offers a repository of programming problems that can be solved by programmers around the world. You submit your solution—your Python code—and the site runs tests on your code.
+
+[DMOJ](https://dmoj.ca)
+
+[USACO](http://usaco.org)
