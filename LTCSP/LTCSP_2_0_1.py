@@ -40,7 +40,7 @@ def randomFourDigitsA():
     #print(type(number))
     
     n = list(map(int, str(number)))
-    print(n)
+    #print(n)
     
     if n[3] == 8 or n[3] == 9 or n[1] == n[2]:
         print('Probably a telemarketer, consider ignoring the call \n')
@@ -60,7 +60,7 @@ def randomFourDigitsB():
     #print(type(random))
     
     r = list(map(int, str(random)))
-    print(r)
+    #print(r)
     
     if r[3] == 8 or r[3] ==9 or r[1] == r[2]:
         print('Probably a telemarketer, consider ignoring the call \n')
