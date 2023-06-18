@@ -33,10 +33,10 @@ def detourBase13():
     print('The detourBase13 function looks at: \n')
 
     print(' 6 x 9 = 54, in base 10, not 42 ... ')
-    print(' so how does 54 equal 42 in base 13 ?')
+    print(' so how is 54 congruent to 42 in base 13 ?')
     print(' floor division of 54 by 13 yields the integer ', 54//13)
     print(' 54 modulus 13 yields a remainder of ', 54%13)
-    print(' and so, in base 13, 42 is equal to (4 x 13) + 2 = 54 ')
+    print(' and so, in base 13, 42 is congruent to (4 x 13) + 2 = 54 ')
     print('\n')
     
     print('... and while we are here ...')
