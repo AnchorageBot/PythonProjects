@@ -2,7 +2,7 @@
     # shebang
     # https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
-# This script will count the number of words in a sentance input by a user
+# This script will count the number of words in a sentence input by a user
 
 # References
   # Learn to Code by Solving Problems - Daniel Zingaro
