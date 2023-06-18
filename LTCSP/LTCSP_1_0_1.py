@@ -17,10 +17,10 @@
   # Python, https://www.python.org/downloads/
 
 # How to run the script
-    # Save this file as LTCSP_1_1_0.py on the desktop
+    # Save this file as LTCSP_1_0_1.py on the desktop
     # Open terminal, then type
         # cd desktop
-        # python3 LTCSP_1_1_0.py
+        # python3 LTCSP_1_0_1.py
 
 print('\n')
 
