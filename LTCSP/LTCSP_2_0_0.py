@@ -67,9 +67,15 @@ def gameScore():
     
     if AppleScore > BananaScore:
         print('Apples win !\n')
-    else:
+    elif AppleScore < BananaScore:
         print('Bananas win !\n')
+    else:
+        print('Tie game ! \n')
 
 userInputsApples()
 userInputsBananas()
 gameScore()
+
+print('Consider heading over to the programming judge website at https://dmoj.ca/ and checking your script for accuracy \n')
+
+print('The DMOJ problem number for this script is ccc19j1  \n')
