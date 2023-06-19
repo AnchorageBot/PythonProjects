@@ -25,7 +25,8 @@
 wonderfulSpam = 42
  
 def spam():
-
+    """print global variable, generate and print two local variables"""
+    
     print('The spam function: \n')
     
     print('  prints the global variable wonderfulSpam which equals ', wonderfulSpam, '\n')
@@ -33,7 +34,7 @@ def spam():
     EggAndSpam = 6
     print('  prints the local variable EggAndSpam which equals ', EggAndSpam, '\n')
     
-    SpamSpamSpamEggAndSpam = 9
+    SpamSpamSpamEggAndSpam = 7
     print('  also prints the local variable SpamSpamSpamEggAndSpam which equals ', SpamSpamSpamEggAndSpam, '\n')
 
 print('\n')
