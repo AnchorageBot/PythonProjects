@@ -36,6 +36,7 @@ print("It assumes that the second and third digits of a telemarketer's number ar
 
 def randomFourDigitsA():
     """generate random nunber, convert integer to list, check pattern"""
+    
     number = random.randint(1000,9999)
     print('Phone number on line one:', number, '\n')
     #print(type(number))
@@ -50,6 +51,7 @@ def randomFourDigitsA():
 
 def randomFourDigitsB():
     """generate random nunber, convert integer to list, check pattern"""
+    
     chars = string.digits
     random =  ''.join(choice(chars) for _ in range(4))
     print('Phone number on line two:', random, '\n')
