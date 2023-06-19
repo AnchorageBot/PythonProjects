@@ -35,6 +35,7 @@ print('It assumes that all telemarketer numbers end in an 8 or a 9')
 print("It assumes that the second and third digits of a telemarketer's number are the same \n")
 
 def randomFourDigitsA():
+    
     number = random.randint(1000,9999)
     print('Phone number on line one:', number, '\n')
     #print(type(number))
