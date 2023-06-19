@@ -26,7 +26,8 @@ AppleScore = []
 BananaScore = []
 
 def userInputsApples():
-
+    """request inputs, sum inputs, update list"""
+    
     print('Please enter the number of three point shots that the Apples made: \n')
 
     AppleThreePointShots = int(input())
@@ -44,6 +45,7 @@ def userInputsApples():
     AppleScore.append(finalApple)
 
 def userInputsBananas():
+    """request inputs, sum inputs, update list"""
 
     print('Please enter the number of three point shots that the Bananas made: \n')
 
@@ -62,7 +64,8 @@ def userInputsBananas():
     BananaScore.append(finalBanana)
  
 def gameScore():
-
+    """share data summary, check and classify pattern"""
+    
     print('\n The Apples scored ', AppleScore, ' and the Bananas scored ', BananaScore, ' \n')
     
     if AppleScore > BananaScore:
