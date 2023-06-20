@@ -36,7 +36,7 @@ print('The cups are shuffled so that the location of the hidden ball is uncertai
 print('Players are asked to guess which cup hides the ball after the shufffle \n')
 
 def playerInputA():
-    """Asks for and saves player input as a global variable ...still needs work"""
+    """Asks for and saves player input as a global variable"""
     print('Please enter a number between 1 and 3, representing one of the three cups \n')
     playerGuessA = int(input())
     #print(type(playerGuessA)) # data type is int
@@ -47,7 +47,7 @@ def playerInputA():
     #print(type(gA)) # data type is int
 
 def randomShuffleA():
-    """Generates a random number between one and three and checks for equality"""
+    """Generates a random number between one and three and checks for equality with input"""
     number = random.randint(1,3)
     print('Cup number', number, 'holds the ball \n')
     #print(type(number)) # data type is int
