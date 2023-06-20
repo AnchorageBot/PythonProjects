@@ -47,7 +47,7 @@ def playerInputA():
     #print(type(gA)) # data type is int
 
 def randomShuffleA():
-    """Generates a random number between one and three and checks for equality with input"""
+    """Generates a random number between one and three and checks for equality with player's input"""
     number = random.randint(1,3)
     print('Cup number', number, 'holds the ball \n')
     #print(type(number)) # data type is int
