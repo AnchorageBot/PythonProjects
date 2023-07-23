@@ -1,6 +1,6 @@
 ## Python Projects
 
-This github repository holds [python](https://www.python.org) scripts resulting from various projects that use the [python standard library](https://docs.python.org/3/library/)
+This github repository holds references for, and scripts resulting from, various Python projects
 
 ## Text Editors and Integrated Development Environments (IDEs)
 
