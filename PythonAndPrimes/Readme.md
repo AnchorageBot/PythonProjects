@@ -36,6 +36,8 @@ Books
 
 * [Proof and the Art of Mathematics Examples and Extensions - Joel David Hamkins](https://mitpress.mit.edu/9780262542203/proof-and-the-art-of-mathematics/)
 
+* [Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics - John Derbyshire](https://www.maa.org/press/maa-reviews/prime-obsession-bernhard-riemann-and-the-greatest-unsolved-problem-in-mathematics)
+
 References
 
 * [Wolfram MathWorld - Composite Number](https://mathworld.wolfram.com/CompositeNumber.html)
