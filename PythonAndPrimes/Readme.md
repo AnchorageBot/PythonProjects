@@ -10,9 +10,9 @@
 
 Videos
 
-* [Riemann Hypothesis, Explained - Alex Kontorovich - Quanta](https://www.quantamagazine.org/videos/the-riemann-hypothesis-explained/)
+* [Riemann Hypothesis, Explained - Dr. Alex Kontorovich - Quanta](https://www.quantamagazine.org/videos/the-riemann-hypothesis-explained/)
 
-* [Riemann Hypothesis - Numberphile - Dr. Edward Frenkel](https://www.youtube.com/watch?v=d6c6uIyieoo)
+* [Riemann Hypothesis  - Dr. Edward Frenkel - Numberphile](https://www.youtube.com/watch?v=d6c6uIyieoo)
 
 Articles
 
