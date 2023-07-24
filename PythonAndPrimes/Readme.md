@@ -1,6 +1,6 @@
-The Millennium Prize Problems
+The Millennium Prize Problems - Clay Mathematics Institute
 
-* [Clay Math Mathematics Institute](https://www.claymath.org/millennium-problems/)
+* [Riemann Hypothesis](https://www.claymath.org/millennium/riemann-hypothesis/)
 
 Videos
 
