@@ -2,19 +2,19 @@
 
 This github repository holds references for, and scripts resulting from, various Python projects
 
-## Text Editors and Integrated Development Environments (IDEs)
+Text Editors and Integrated Development Environments (IDEs)
 
-[Atom](https://atom.io)
+* [Atom](https://atom.io)
 
-[Mu](https://codewith.mu)
+* [Mu](https://codewith.mu)
 
-[Google Colab](https://colab.research.google.com)
+* [Google Colab](https://colab.research.google.com)
 
-[Anaconda](https://www.anaconda.com)
+* [Anaconda](https://www.anaconda.com)
 
-## How-to Code with Python Project Books
+How-to Code with Python Project Books
 
-[Python Crash Course - Eric Matthes](https://nostarch.com/pythoncrashcourse2e)
+* [Python Crash Course - Eric Matthes](https://nostarch.com/pythoncrashcourse2e)
 
 [Learn to Code by Solving Problems - Daniel Zingaro](https://nostarch.com/learn-code-solving-problems)
 
