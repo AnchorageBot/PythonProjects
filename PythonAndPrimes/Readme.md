@@ -20,6 +20,8 @@ Articles
 
 Papers
 
+* [Riemann’s 1859 Manuscript - Clay Institute](https://www.claymath.org/collections/riemanns-1859-manuscript/)
+
 Books
 
 * [Art of Problem Solving Books](https://artofproblemsolving.com/store/list/all-products)
