@@ -1,6 +1,6 @@
 # Python Projects
 
-This github repository holds references for, and scripts resulting from, various Python projects
+This github repository holds references for, and scripts resulting from, various [Python](https://www.python.org) projects
 
 Text Editors and Integrated Development Environments (IDEs)
 
