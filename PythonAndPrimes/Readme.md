@@ -4,6 +4,10 @@ The Millennium Prize Problems - Clay Mathematics Institute
 
 * The prime number theorem determines the average distribution of the primes. The Riemann hypothesis tells us about the deviation from the average. Formulated in Riemann’s 1859 paper, it asserts that all the ‘non-obvious’ zeros of the zeta function are complex numbers with real part 1/2
 
+* Some numbers have the special property that they cannot be expressed as the product of two smaller numbers, e.g., 2, 3, 5, 7, etc. Such numbers are called prime numbers, and they play an important role, both in pure mathematics and its applications. The distribution of such prime numbers among all natural numbers does not follow any regular pattern.  However, the German mathematician G.F.B. Riemann (1826 – 1866) observed that the frequency of prime numbers is very closely related to the behavior of an elaborate function ζ(s) = 1 + 1/2s + 1/3s + 1/4s + …  called the Riemann Zeta function. The Riemann hypothesis asserts that all interesting solutions of the equation ζ(s) = 0 lie on a certain vertical straight line.
+
+* 
+
 Videos
 
 * [Riemann Hypothesis, Explained - Alex Kontorovich - Quanta](https://www.quantamagazine.org/videos/the-riemann-hypothesis-explained/)
