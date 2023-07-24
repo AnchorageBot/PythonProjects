@@ -2,6 +2,10 @@
 
 This github repository holds references for, and scripts resulting from, various [Python](https://www.python.org) projects
 
+Creators of Python Knowledge
+
+* [Dr. Chuck's Python for Everbody](https://www.py4e.com)
+
 Text Editors and Integrated Development Environments (IDEs)
 
 * [Atom](https://atom.io)
@@ -71,10 +75,6 @@ Books
 * [Math for Deep Learning - Ronald T. Kneusel](https://nostarch.com/math-deep-learning)
 
 * [Practical Deep Learning - Ronald T. Kneusel](https://nostarch.com/practical-deep-learning-python)
-
-Creators of Python Knowledge
-
-* [Dr. Chuck's Python for Everbody](https://www.py4e.com)
 
 License
 * [MIT](https://choosealicense.com/licenses/mit/)
