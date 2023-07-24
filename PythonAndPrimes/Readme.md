@@ -22,7 +22,7 @@ Papers
 
 * [Riemann’s 1859 Manuscript - Clay Institute](https://www.claymath.org/collections/riemanns-1859-manuscript/)
 
-* [Euclid's theorem on the infinitude of primes: a historical survey of its proofs (300 B.C.--2017) and another new proof -Romeo Meštrović](https://arxiv.org/abs/1202.3670)
+* [Euclid's theorem on the infinitude of primes: a historical survey of its proofs (300 B.C.--2017) and another new proof -Romeo Meštrović](https://arxiv.org/abs/1202.3670) - arXiv:1202.3670 [math.HO]
 
 Books
 
