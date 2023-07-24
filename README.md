@@ -12,7 +12,11 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Anaconda](https://www.anaconda.com)
 
-How-to Code with Python Project Books
+Videos
+
+Papers
+
+Books
 
 * [Python Crash Course - Eric Matthes](https://nostarch.com/pythoncrashcourse2e)
 
