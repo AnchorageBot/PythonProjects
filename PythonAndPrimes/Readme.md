@@ -10,6 +10,7 @@ Videos
 
 * [Riemann Hypothesis, Explained - Alex Kontorovich - Quanta](https://www.quantamagazine.org/videos/the-riemann-hypothesis-explained/)
 
+* [Riemann Hypothesis - Numberphile - Dr. Edward Frenkel](https://www.youtube.com/watch?v=d6c6uIyieoo)
 Articles
 
 * [Why Mathematicians Re-Prove What They Already Know - Anna Kramer - Quanta](https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/)
