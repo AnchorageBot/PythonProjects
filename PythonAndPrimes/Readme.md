@@ -2,6 +2,8 @@ The Millennium Prize Problems - Clay Mathematics Institute
 
 * [Riemann Hypothesis](https://www.claymath.org/millennium/riemann-hypothesis/)
 
+* The prime number theorem determines the average distribution of the primes. The Riemann hypothesis tells us about the deviation from the average. Formulated in Riemann’s 1859 paper, it asserts that all the ‘non-obvious’ zeros of the zeta function are complex numbers with real part 1/2
+
 Videos
 
 * [Riemann Hypothesis, Explained - Alex Kontorovich - Quanta](https://www.quantamagazine.org/videos/the-riemann-hypothesis-explained/)
