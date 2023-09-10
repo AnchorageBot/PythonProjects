@@ -48,7 +48,7 @@ Books
 
 * [Calculus Story I with Python - Hyun-Seok Son](https://blackwells.co.uk/bookshop/product/Calculus-Story-I-With-Python-by-Hyun-Seok-Son-author/9781097682799)
 
-*[Modeling and Simulation in Python - Allen B. Downey](https://allendowney.github.io/ModSimPy/)
+* [Modeling and Simulation in Python - Allen B. Downey](https://allendowney.github.io/ModSimPy/)
 
 * [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
