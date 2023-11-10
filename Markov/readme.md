@@ -11,3 +11,8 @@ Markov chain (CTMC). It is named after the Russian mathematician Andrey Markov.
 Books
 
 * [Markov Models - Lazy Programmer](https://www.amazon.com/Markov-Models-Science-Unsupervised-Learning-ebook/dp/B01M1J1Y8C)
+
+
+Videos
+
+* [Origin of Markov chains | Journey into information theory | Computer Science | Khan Academy](https://youtu.be/Ws63I3F7Moc?si=mjQqtHdwR_ROWWle)
