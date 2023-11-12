@@ -12,7 +12,7 @@ Books
 
 * [Markov Models - Lazy Programmer](https://www.amazon.com/Markov-Models-Science-Unsupervised-Learning-ebook/dp/B01M1J1Y8C)
 
-*[Understanding Markov Chains
+* [Understanding Markov Chains
 Examples and Applications - Privault](https://link.springer.com/book/10.1007/978-981-13-0659-4)
 
 Videos
