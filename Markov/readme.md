@@ -20,3 +20,5 @@ Videos
 * [Origin of Markov chains | Journey into information theory | Computer Science | Khan Academy](https://youtu.be/Ws63I3F7Moc?si=mjQqtHdwR_ROWWle)
 
 * [Markov Chains Clearly Explained! Part - 1 - Normalized Nerd](https://m.youtube.com/watch?v=i3AkTO9HLXo&t=455s)
+
+* [Markov Chains: Simulation in Python | Stationary Distribution Computation | Part - 7 - Normalized Nerd](https://m.youtube.com/watch?v=G7FIQ9fXl6U)
