@@ -14,6 +14,8 @@ Books
 
 * [Bayesian Statistics The Fun Way - Will Kurt](https://nostarch.com/learnbayes)
 
+* [Think Bayes, 2nd Edition - Allen B. Downey](https://www.oreilly.com/library/view/think-bayes-2nd/9781492089452/)
+
 Videos
 
 * [Naive Bayes, Clearly Explained!!! - StatQuest with Josh Starmer](https://youtu.be/O2L2Uv9pdDA?si=-Rz2SFiM4SekiDdt)
