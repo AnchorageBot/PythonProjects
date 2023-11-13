@@ -8,6 +8,8 @@ The term Bayesian derives from the 18th-century mathematician and theologian Tho
 treatment of a non-trivial problem of statistical data analysis using what is now known as Bayesian inference. Mathematician 
 Pierre-Simon Laplace pioneered and popularized what is now called Bayesian probability.
 
+- - - -
+
 Books
 
 Videos
