@@ -12,6 +12,8 @@ Pierre-Simon Laplace pioneered and popularized what is now called Bayesian proba
 
 Books
 
+* [Bayesian Statistics The Fun Way - Will Kurt](https://nostarch.com/learnbayes)
+
 Videos
 
 * [Naive Bayes, Clearly Explained!!! - StatQuest with Josh Starmer](https://youtu.be/O2L2Uv9pdDA?si=-Rz2SFiM4SekiDdt)
