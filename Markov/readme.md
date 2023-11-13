@@ -29,4 +29,6 @@ Videos
 
 Documentation
 
+[Matplotlib](https://matplotlib.org/stable/)
+
 [Random](https://docs.python.org/3/library/random.html)
