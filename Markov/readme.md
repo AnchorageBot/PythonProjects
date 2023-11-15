@@ -10,6 +10,8 @@ Markov chain (CTMC). It is named after the Russian mathematician Andrey Markov.
 
 Books
 
+* [No BS Guide to Linear Algebra - Savov](https://minireference.com)
+
 * [Markov Models - Lazy Programmer](https://www.amazon.com/Markov-Models-Science-Unsupervised-Learning-ebook/dp/B01M1J1Y8C)
 
 * [Understanding Markov Chains
