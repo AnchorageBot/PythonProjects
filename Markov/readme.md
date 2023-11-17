@@ -33,6 +33,8 @@ Videos
 
 * [Vectorization in Python : Data Science Code - Ritvikmath](https://youtu.be/BR3Qx9AVHZE?si=8Owcw2i66APbmkHy)
 
+* [The Unexpected Pure Math You Have to Know as a Data Scientist : Pythagorean Means - Ritvikmath](https://youtu.be/dN3UWN-aNOU?si=tNdggWXp-OSX8a10)
+
 - - - -
 
 Documentation
