@@ -29,6 +29,8 @@ Videos
 
 * [Markov Chain Stationary Distribution : Data Science Concepts - RitvikMath](https://youtu.be/4sXiCxZDrTU?si=EJ_iBRh0Rno-VwSk)
 
+* [Vectorization in Python : Data Science Code - Ritvikmath](https://youtu.be/BR3Qx9AVHZE?si=8Owcw2i66APbmkHy)
+
 - - - -
 
 Documentation
