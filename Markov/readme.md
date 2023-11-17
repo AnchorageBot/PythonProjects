@@ -27,6 +27,8 @@ Videos
 
 * [Markov Chains: Simulation in Python | Stationary Distribution Computation | Part - 7 - Normalized Nerd](https://m.youtube.com/watch?v=G7FIQ9fXl6U)
 
+* [Markov Chain Stationary Distribution : Data Science Concepts - RitvikMath](https://youtu.be/4sXiCxZDrTU?si=EJ_iBRh0Rno-VwSk)
+
 - - - -
 
 Documentation
