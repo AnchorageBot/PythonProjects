@@ -31,6 +31,8 @@ Videos
 
 * [Markov Chain Stationary Distribution : Data Science Concepts - RitvikMath](https://youtu.be/4sXiCxZDrTU?si=EJ_iBRh0Rno-VwSk)
 
+* [Code With Me : Monte Carlo Method (My First Real-Time Coding Video!) - Ritvikmath](https://m.youtube.com/watch?v=yA6_V-v3ODo)
+
 * [Vectorization in Python : Data Science Code - Ritvikmath](https://youtu.be/BR3Qx9AVHZE?si=8Owcw2i66APbmkHy)
 
 * [The Unexpected Pure Math You Have to Know as a Data Scientist : Pythagorean Means - Ritvikmath](https://youtu.be/dN3UWN-aNOU?si=tNdggWXp-OSX8a10)
