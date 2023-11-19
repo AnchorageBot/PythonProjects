@@ -41,11 +41,11 @@ Videos
 
 Documentation
 
-[Matplotlib](https://matplotlib.org/stable/)
+* [Matplotlib](https://matplotlib.org/stable/)
 
-[Numpy](https://numpy.org/doc/stable/)
+* [Numpy](https://numpy.org/doc/stable/)
 
-[Random](https://docs.python.org/3/library/random.html)
+* [Random](https://docs.python.org/3/library/random.html)
 
 - - - -
 
