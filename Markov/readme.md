@@ -12,8 +12,6 @@ Books
 
 * [No BS Guide to Linear Algebra - Savov](https://minireference.com)
 
-* [Markov Models - Lazy Programmer](https://www.amazon.com/Markov-Models-Science-Unsupervised-Learning-ebook/dp/B01M1J1Y8C)
-
 * [Understanding Markov Chains
 Examples and Applications - Privault](https://link.springer.com/book/10.1007/978-981-13-0659-4)
 
@@ -30,6 +28,8 @@ Videos
 * [Markov Chains : Data Science Basics - Ritvikmath](https://youtu.be/EaR3C4e600k?si=sk1rvUwNJT3HX_pg)
 
 * [Markov Chain Stationary Distribution : Data Science Concepts - RitvikMath](https://youtu.be/4sXiCxZDrTU?si=EJ_iBRh0Rno-VwSk)
+
+* [Monte Carlo Methods : Data Science Basics -Ritvikmath](https://youtu.be/EaR3C4e600k?si=RYDj-MqzTdBlkXok)
 
 * [Code With Me : Monte Carlo Method (My First Real-Time Coding Video!) - Ritvikmath](https://m.youtube.com/watch?v=yA6_V-v3ODo)
 
