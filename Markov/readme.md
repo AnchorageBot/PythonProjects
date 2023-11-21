@@ -54,3 +54,5 @@ Documentation
 Interactive Development Environment (IDE)
 
 * [Google Colab](https://colab.research.google.com)
+
+* [Jupyter](https://jupyter.org)
