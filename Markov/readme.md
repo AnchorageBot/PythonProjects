@@ -33,6 +33,8 @@ Videos
 
 * [Code With Me : Monte Carlo Method (My First Real-Time Coding Video!) - Ritvikmath](https://m.youtube.com/watch?v=yA6_V-v3ODo)
 
+* [A Simple Solution for Really Hard Problems: Monte Carlo Simulation - RiskByNumbers](https://youtu.be/slbZ-SLpIgg?si=0mszxc7f-bcmRfDa)
+
 * [Eigenvalues & Eigenvectors : Data Science Basics - Ritvikmath](https://m.youtube.com/watch?v=glaiP222JWA)
 
 * [Vectorization in Python : Data Science Code - Ritvikmath](https://youtu.be/BR3Qx9AVHZE?si=8Owcw2i66APbmkHy)
