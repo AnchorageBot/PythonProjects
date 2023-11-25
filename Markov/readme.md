@@ -51,6 +51,8 @@ Documentation
 
 * [Random](https://docs.python.org/3/library/random.html)
 
+* [Scipy](https://docs.scipy.org/doc/scipy/index.html)
+
 - - - -
 
 Interactive Development Environment (IDE)
