@@ -49,6 +49,8 @@ Documentation
 
 * [Numpy](https://numpy.org/doc/stable/)
 
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+
 * [Random](https://docs.python.org/3/library/random.html)
 
 * [Scipy](https://docs.scipy.org/doc/scipy/index.html)
