@@ -55,6 +55,8 @@ Documentation
 
 * [Scipy](https://docs.scipy.org/doc/scipy/index.html)
 
+* [Seaborn](https://seaborn.pydata.org)
+
 - - - -
 
 Interactive Development Environment (IDE)
