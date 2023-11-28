@@ -8,6 +8,12 @@ Markov chain (CTMC). It is named after the Russian mathematician Andrey Markov.'
 
 - - - -
 
+Articles
+
+* [Markov Chains - Explained Visually](https://setosa.io/ev/markov-chains/)
+
+* [Eigenvectors and Eigenvalues - Explained Visually](https://setosa.io/ev/eigenvectors-and-eigenvalues/)
+
 Books
 
 * [No BS Guide to Linear Algebra - Savov](https://minireference.com)
