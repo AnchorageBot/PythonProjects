@@ -1,6 +1,6 @@
 Books
 
-* [
+* [Elementary Differential Equations with Boundary Value Problems - William F. Trench - Trinity University](https://digitalcommons.trinity.edu/mono/9/)
 
 Courses
 
