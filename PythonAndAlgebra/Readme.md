@@ -9,6 +9,10 @@ Sponsor: FreeCodeCamp<br>
 
 - [Python IDE: Google Colab](https://colab.research.google.com)
  
+Books
+
+* [Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence](https://www.cambridge.org/core/books/mathematical-methods-for-physics-and-engineering/911A43AE1CF224743D32707FCC4AE0EB)
+
 Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
 - Zero configuration required
 - Access to GPUs free of charge
