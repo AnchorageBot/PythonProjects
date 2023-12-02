@@ -25,3 +25,7 @@ Courses
 * [Multivariable Calculus - MIT Open Courseware](https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/)
 
 * [Stochastic Processes - MIT Open Courseware](https://ocw.mit.edu/courses/15-070j-advanced-stochastic-processes-fall-2013/)
+
+Videos
+
+* [The Essence of Calculus - 3 Blue, 1 Brown](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=QoeIj4TEmHCTNSQB)
