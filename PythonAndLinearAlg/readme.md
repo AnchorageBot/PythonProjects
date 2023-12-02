@@ -1,3 +1,9 @@
+'Linear algebra is a branch of mathematics concerned with linear equations and linear maps and how to represent them in vector spaces and matricies'
+
+Wikipedia
+
+- - - -
+
 Books
 
 * [No BS Guide to Linear Algebra - Savov](https://nobsmath.com)
