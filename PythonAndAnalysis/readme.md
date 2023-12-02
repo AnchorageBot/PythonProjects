@@ -1,3 +1,5 @@
+"Analysis I covers fundamentals of mathematical analysis: metric spaces, convergence of sequences and series, continuity, differentiability, Riemann integral, sequences and series of functions, uniformity, interchange of limit operations"
+
 Books
 
 * [Princples of Mathematical Analysis - Walter Rudin - 3rd Edition](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
