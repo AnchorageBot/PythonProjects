@@ -1,6 +1,6 @@
 Books
 
-* [Princples of Mathematical Analysis - Martin, Spainer, Springer, Davis](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
+* [Princples of Mathematical Analysis - Walter Rudin - 3rd Edition](https://web.math.ucsb.edu/~agboola/teaching/2021/winter/122A/rudin.pdf)
 
 Courses
 
