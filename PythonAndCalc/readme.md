@@ -11,7 +11,7 @@ Make explanations ADEPT:
 * Diagram
 * Example
 * Plain-English description
-* Technical description.
+* Technical description (include a glossary of terms)
 
 - - - -
 
