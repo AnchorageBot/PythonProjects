@@ -6,7 +6,7 @@ Azad, Kalid. Calculus, Better Explained: A Guide To Developing Lasting Intuition
 
 _ _ _ _ 
 
-Make explanations ADEPT: Use an 
+Make explanations ADEPT:
 * Analogy
 * Diagram
 * Example
