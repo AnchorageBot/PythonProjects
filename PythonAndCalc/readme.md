@@ -6,6 +6,15 @@ Azad, Kalid. Calculus, Better Explained: A Guide To Developing Lasting Intuition
 
 _ _ _ _ 
 
+Make explanations ADEPT: Use an 
+* Analogy
+* Diagram
+* Example
+* Plain-English description
+* Technical description.
+
+- - - -
+
 Books
 
 * [Calculus Better Explained - Kalid Azad](https://betterexplained.com/guides/calculus/)
