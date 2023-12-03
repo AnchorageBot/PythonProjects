@@ -1,6 +1,6 @@
 "Calculus began when Archimedes realized shapes could be split into parts and rearranged.​ After a lifetime of effort, he discovered connections between spheres, circles and other shapes that were later etched onto his tomb."
 
-"Calculus is the art of splitting patterns apart (X-rays, derivatives) and gluing patterns together (Time-lapses, integrals)."
+"Calculus is the art of splitting patterns apart (X-rays, derivatives) and gluing patterns together (Time-lapses, integrals). Numbers and equations describe what we have, but Calculus explains the steps that got us there."
 
 Azad, Kalid. Calculus, Better Explained: A Guide To Developing Lasting Intuition 
 
