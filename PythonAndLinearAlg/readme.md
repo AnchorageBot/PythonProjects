@@ -22,4 +22,4 @@ Courses
 
 Videos
 
-* 
+* [The Essence of Linear Algebra - 3 Blue 1 Brown](https://youtu.be/fNk_zzaMoSs?si=bvIoAZbDwG1lhkhR)
