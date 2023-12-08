@@ -4,8 +4,6 @@ Specifically, a differential equation is an equation involving a function (which
 
 The [Laplace Transform](https://mathworld.wolfram.com/LaplaceTransform.html) may be thought of as a 'swiss army knife' for solving many (but not all) ODEs. 
 
-- - - - 
-
 _ _ _ _ 
 
 Make explanations ADEPT:
