@@ -38,7 +38,7 @@ Study Guides
 
 Videos
 
-* [3 Blue, 1 Brown - A tour of differential equations](https://www.3blue1brown.com/topics/differential-equations)
+* [A tour of differential equations - 3 Blue, 1 Brown](https://www.3blue1brown.com/topics/differential-equations)
 
 - - - -
 
