@@ -34,7 +34,7 @@ Courses
 
 Study Guides
 
-* [Stanford's CME 102 - Ordinary Differential Equations for Engineers - Shervine Amidi, Afshine Amidi](https://stanford.edu/~shervine/teaching/cme-102/)
+* [Ordinary Differential Equations for Engineers - Stanford's CME 102 - Afshine Amidi, Shervine Amidi](https://stanford.edu/~shervine/teaching/cme-102/)
 
 Videos
 
