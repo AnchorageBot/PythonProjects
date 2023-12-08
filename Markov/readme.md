@@ -10,9 +10,9 @@ Markov chain (CTMC). It is named after the Russian mathematician Andrey Markov.'
 
 Articles
 
-* [Markov Chains - Explained Visually - Victor Powell, Lewis Lehe](https://setosa.io/ev/markov-chains/)
+* [Markov Chains - Explained Visually - Victor Powell, Lewis Lehe - Setosa](https://setosa.io/ev/markov-chains/)
 
-* [Eigenvectors and Eigenvalues - Explained Visually - Victor Powell, Lewis Lehe](https://setosa.io/ev/eigenvectors-and-eigenvalues/)
+* [Eigenvectors and Eigenvalues - Explained Visually - Victor Powell, Lewis Lehe - Setosa](https://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 Books
 
