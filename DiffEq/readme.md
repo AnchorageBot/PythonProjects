@@ -1,3 +1,10 @@
+Differential equations comprise methods for studying dynamic systems.
+
+
+Specifically, a differential equation is an equation involving a function (which generally represents physical quantities) and its derivatives (generally represent the rates of change of physical quantities). They may be classified as an ordinary differential equation (ODE) or a partial differential equation (PDE).
+
+- - - - 
+
 Books
 
 * [Elementary Differential Equations with Boundary Value Problems - William F. Trench - Trinity University](https://digitalcommons.trinity.edu/mono/9/)
@@ -15,3 +22,16 @@ Courses
 * [Differential Equations - MIT Open Courseware](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 
 Videos
+
+* [3 Blue, 1 Brown - A tour of differential equations](https://www.3blue1brown.com/topics/differential-equations)
+
+- - - -
+
+Interactive Development Environment (IDE)
+
+* [Google Colab](https://colab.research.google.com)
+
+* [Jupyter](https://jupyter.org)
+
+* [Wolfram Alpha](https://www.wolframalpha.com)
+
