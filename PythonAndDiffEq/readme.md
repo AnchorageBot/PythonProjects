@@ -2,6 +2,8 @@ Differential equations comprise methods for studying dynamic systems.
 
 Specifically, a differential equation is an equation involving a function (which generally represents physical quantities) and its derivatives (generally represent the rates of change of physical quantities). They may be classified as an ordinary differential equation (ODE) or a partial differential equation (PDE).
 
+The [Laplace Transform](https://mathworld.wolfram.com/LaplaceTransform.html) might be thought of as a 'swiss army knife' for ODEs. 
+
 - - - - 
 
 Books
@@ -23,5 +25,15 @@ Courses
 Videos
 
 * [3 Blue, 1 Brown - A tour of differential equations](https://www.3blue1brown.com/topics/differential-equations)
+
+- - - -
+
+Interactive Development Environment (IDE)
+
+* [Google Colab](https://colab.research.google.com)
+
+* [Jupyter](https://jupyter.org)
+
+* [Wolfram Alpha](https://www.wolframalpha.com)
 
 
