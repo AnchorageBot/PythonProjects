@@ -42,3 +42,13 @@ Courses
 Videos
 
 * [The Essence of Calculus - 3 Blue, 1 Brown](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=QoeIj4TEmHCTNSQB)
+
+- - - -
+
+Interactive Development Environment (IDE)
+
+* [Google Colab](https://colab.research.google.com)
+
+* [Jupyter](https://jupyter.org)
+
+* [Wolfram Alpha](
