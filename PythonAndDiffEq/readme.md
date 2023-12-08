@@ -22,6 +22,10 @@ Courses
 
 * [Differential Equations - MIT Open Courseware](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 
+Study Guides
+
+* [CME 102 Ordinary Differential Equations for Engineers - Servine Amidi, Afshine Amidi](https://stanford.edu/~shervine/teaching/cme-102/)
+
 Videos
 
 * [3 Blue, 1 Brown - A tour of differential equations](https://www.3blue1brown.com/topics/differential-equations)
