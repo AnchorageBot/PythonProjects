@@ -2,7 +2,7 @@ Differential equations comprise methods for studying dynamic systems.
 
 Specifically, a differential equation is an equation involving a function (which generally represents physical quantities) and its derivatives (which generally represent the rates of change of physical quantities). They may be classified as an ordinary differential equation (ODE) or a partial differential equation (PDE).
 
-The [Laplace Transform](https://mathworld.wolfram.com/LaplaceTransform.html) might be thought of as a 'swiss army knife' for ODEs. 
+The [Laplace Transform](https://mathworld.wolfram.com/LaplaceTransform.html) might be thought of as a 'swiss army knife' for solving ODEs. 
 
 - - - - 
 
