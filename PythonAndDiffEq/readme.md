@@ -6,6 +6,18 @@ The [Laplace Transform](https://mathworld.wolfram.com/LaplaceTransform.html) may
 
 - - - - 
 
+_ _ _ _ 
+
+Make explanations ADEPT:
+* Analogy
+* Diagram
+* Example
+* Plain-English description
+* Technical description (include a glossary of terms)
+
+- - - -
+
+
 Books
 
 * [Elementary Differential Equations with Boundary Value Problems - William F. Trench - Trinity University](https://digitalcommons.trinity.edu/mono/9/)
