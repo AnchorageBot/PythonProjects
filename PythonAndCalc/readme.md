@@ -51,4 +51,4 @@ Interactive Development Environment (IDE)
 
 * [Jupyter](https://jupyter.org)
 
-* [Wolfram Alpha](
+* [Wolfram Alpha](https://www.wolframalpha.com)
