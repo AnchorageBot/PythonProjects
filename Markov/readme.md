@@ -18,7 +18,7 @@ Books
 
 * [No BS Guide to Linear Algebra - Savov](https://minireference.com)
 
-* [Probability for Data Science - Ani Adhikari, Jim Pitman - Markov Chains Chapters 10, 11](http://prob140.org/fa18/textbook/chapters/Chapter_10/00_Markov_Chains)
+* [Probability for Data Science - Ani Adhikari, Jim Pitman - Markov Chains - Chapters 10 & 11](http://prob140.org/fa18/textbook/chapters/Chapter_10/00_Markov_Chains)
 
 * [Understanding Markov Chains
 Examples and Applications - Privault](https://link.springer.com/book/10.1007/978-981-13-0659-4)
