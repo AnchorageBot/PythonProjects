@@ -28,6 +28,8 @@ Books
 
 * [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
+* [REA's Problem Solvers - Differential Equations](https://books.google.com/books/about/The_Differential_Equations_Problem_Solve.html?id=fROsQofvBzAC)
+
 Courses
 
 * [Differential Equations - MIT Open Courseware](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
