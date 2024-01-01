@@ -14,6 +14,8 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Google Colab](https://colab.research.google.com)
 
+* [Google Project IDX](https://idx.dev)
+
 * [Anaconda](https://www.anaconda.com)
 
 Videos
