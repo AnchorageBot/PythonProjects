@@ -53,5 +53,7 @@ ML (Machine Learning) Resources
 
 IDEs
 
+* [Google Colab](https://colab.research.google.com)
+
 * [Google Project IDX](https://idx.dev)
 
