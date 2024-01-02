@@ -4,7 +4,7 @@ Data resulting from Moka Port experiments - SI units
 
 Brew Variables
 * Grind type (dark, light)
-* Grind size
+* Grind size (coarse, fine)
 * Grind mass
 * Water mass
 * Water temp in
