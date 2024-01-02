@@ -35,5 +35,5 @@ Inspirational Video
 
 ML Tutorials 
 
-[Kaggle](https://www.kaggle.com/learn)
+* [Kaggle ML](https://www.kaggle.com/learn)
 
