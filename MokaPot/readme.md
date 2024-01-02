@@ -39,7 +39,7 @@ Inspirational Video
 
 - - - - 
 
-ML Tutorials 
+ML (Machine Learning) Tutorials 
 
 * [Kaggle ML](https://www.kaggle.com/learn)
 
