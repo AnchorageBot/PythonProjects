@@ -43,7 +43,9 @@ Inspirational Video
 
 - - - - 
 
-ML (Machine Learning) Tutorials 
+ML (Machine Learning) Resources
+
+* [ChatGPT](https://chat.openai.com/auth/login)
 
 * [Kaggle ML](https://www.kaggle.com/learn)
 
