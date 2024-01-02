@@ -21,8 +21,6 @@ Coffee Videos
 
 * [Coffee Hack: The Best Blade Grinder Results - James Hoffman](https://youtu.be/3y7d-5KWHCU?si=mSif-CU3OL0GSQQn)
 
-* [Understanding Espresso - Grind Size (Episode #4) - James Hoffman](https://youtu.be/er2voEn8ZDU?si=FPLVcRA9lni-6mlI)
-
 * [Understanding the Moka Pot (Episode #2) - James Hoffman](https://youtu.be/zK0F5PqJ1Gk?si=23Q-qekkprYDm0vH)
 
 * [The Ultimate Moka Pot Technique (Episode #3) - James Hoffman](https://youtu.be/BfDLoIvb0w4?si=TKowq1YcokCUCmWJ)
