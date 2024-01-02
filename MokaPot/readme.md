@@ -1,4 +1,4 @@
-References and scripts for gathering data & making predictions for coffee experiments usong Moka Pots - SI units
+References and scripts for gathering data & making predictions for coffee experiments using Moka Pots - SI units
 
 - - - -
 
