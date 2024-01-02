@@ -4,6 +4,8 @@ Data resulting from Moka Port experiments
 
 Brew Variables
 * Grind size
+* Grind weight
+* Water weight
 * Water temp in
 * Water temp out
 * Brewing Time
