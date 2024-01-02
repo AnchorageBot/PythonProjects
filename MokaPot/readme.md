@@ -7,7 +7,7 @@ Brew Variables & Targets
 * Grind size (coarse, fine - 550 microns)
 * Grind mass (20g target)
 * Water mass in (130g target)
-* Water temp in (25C, 80C)
+* Water temp in (25C, 80C target)
 * Water temp out (65C target)
 * Coffee mass out (110g target)
 * Brewing time (4:30, 2:30 min target)
