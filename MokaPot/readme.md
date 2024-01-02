@@ -2,12 +2,12 @@ Data, predictions, & results resulting from Moka Port experiments - SI units
 
 - - - -
 
-Brew Variables
+Brew Variables & Targets
 * Roast type (dark, medium-light)
 * Grind size (coarse, fine)
 * Grind mass (20g target)
 * Water mass in (130g target)
-* Water temp in
+* Water temp in (80C target)
 * Water temp out (60C target)
 * Coffee mass out
 * Brewing time
