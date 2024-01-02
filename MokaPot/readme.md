@@ -1,4 +1,4 @@
-Scrits for references, data, predictions, & results resulting from Moka Port experiments - SI units
+References and scripts for gathering data & making predictions from Moka Port experiments - SI units
 
 - - - -
 
