@@ -4,7 +4,7 @@ Scrits for references, data, predictions, & results resulting from Moka Port exp
 
 Brew Variables & Targets
 * Roast type (dark, medium-dark)
-* Grind size (coarse - 700 microns, Moka - 550 microns, fine - 300 microns)
+* Grind size (Coarse/French Press - 700 microns, Medium/Moka - 550 microns, Espresso/Fine - 300 microns)
 * Grind mass (20g target)
 * Water mass in (130g target)
 * Water temp in (25C, 80C target)
