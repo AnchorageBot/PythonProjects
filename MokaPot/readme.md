@@ -19,6 +19,8 @@ Brew Variables & Targets
 
 Coffee Videos
 
+* [Crema Explained - James Hoffman](https://youtu.be/j5rygXblZJU?si=Y1zY4mdtPjx6Q71X)
+
 * [Understanding the Moka Pot (Episode #2) - James Hoffman](https://youtu.be/zK0F5PqJ1Gk?si=23Q-qekkprYDm0vH)
 
 * [The Ultimate Moka Pot Technique (Episode #3) - James Hoffman](https://youtu.be/BfDLoIvb0w4?si=TKowq1YcokCUCmWJ)
