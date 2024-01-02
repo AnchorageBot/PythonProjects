@@ -49,3 +49,9 @@ ML (Machine Learning) Resources
 
 * [Kaggle ML](https://www.kaggle.com/learn)
 
+- - - - 
+
+IDE
+
+* [Google Project IDX](https://idx.dev)
+
