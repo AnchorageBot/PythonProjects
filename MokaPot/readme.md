@@ -4,7 +4,7 @@ Data, predictions, & results resulting from Moka Port experiments - SI units
 
 Brew Variables & Targets
 * Roast type (dark, medium-dark)
-* Grind size (coarse, fine - 550 microns)
+* Grind size (coarse, Moka - 550 microns, fine)
 * Grind mass (20g target)
 * Water mass in (130g target)
 * Water temp in (25C, 80C target)
