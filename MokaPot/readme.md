@@ -12,6 +12,7 @@ Brew Variables & Targets
 * Coffee mass out
 * Brewing time (2:00 min target)
 * Atmospheric pressure
+* Total dissolved solids
 * Flavor (sweet, sour, bitter)
 
 - - - -
