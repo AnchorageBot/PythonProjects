@@ -17,6 +17,8 @@ Brew Variables
 
 Coffee Videos
 
+* [Coffee Hack: The Best Blade Grinder Results - James Hoffman](https://youtu.be/3y7d-5KWHCU?si=mSif-CU3OL0GSQQn)
+
 * [The Ultimate MOKA POT Technique - How To Make Coffee With #mokapot - 2022 - Matteo D'Ottavio](https://youtu.be/qr4eYpttE2Q?si=BWiR2CI9_B_Fcu6S)
 
 * [Understanding the Moka Pot (Episode #2) - James Hoffman](https://youtu.be/zK0F5PqJ1Gk?si=23Q-qekkprYDm0vH)
