@@ -8,7 +8,7 @@ Brew Variables
 * Grind mass
 * Water mass
 * Water temp in
-* Water temp out
+* Water temp out (60C target)
 * Brewing time
 * Atmospheric pressure
 * Flavor (sweet, sour, bitter)
