@@ -31,6 +31,8 @@ Coffee Videos
 
 * [Cocinaré ESSENCE 2-IN-1 ELECTRIC GRINDER Review - Matteo D'Ottavio](https://youtu.be/HEdZwGAkNCo?si=uyGpyxKESEz7joVH)
 
+* [Coffee Grind Sizes For Popular Brew Methods | Stay Roasted](https://youtu.be/5BCDIas33y0?si=AvimICO_N013eRGQ)
+
 - - - -
 
 Inspirational Video
