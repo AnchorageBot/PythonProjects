@@ -51,7 +51,7 @@ ML (Machine Learning) Resources
 
 - - - - 
 
-IDEs
+IDEs (Integrated Development Environment)
 
 * [Google Colab](https://colab.research.google.com)
 
