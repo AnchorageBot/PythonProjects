@@ -6,7 +6,7 @@ Brew Variables
 * Roast type (dark, medium-light)
 * Grind size (coarse, fine)
 * Grind mass (20g target)
-* Water mass in (130 g target)
+* Water mass in (130g target)
 * Water temp in
 * Water temp out (60C target)
 * Coffee mass out
