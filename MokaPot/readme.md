@@ -30,3 +30,10 @@ Coffee Videos
 Inspirational Video
 
 * [Silicon Valley: Not Hotdog (Season 4 Episode 4 Clip)](https://youtu.be/ACmydtFDTGs?si=Qk5ytL8mAOAk0_kE)
+
+- - - - 
+
+ML Tutorials 
+
+[Kaggle](https://www.kaggle.com/learn)
+
