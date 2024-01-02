@@ -11,7 +11,7 @@ Brew Variables
 * Water temp out
 * Brewing time
 * Atmospheric pressure
-* Flavor (sour, sweet, bitter)
+* Flavor (sweet, sour, bitter)
 
 - - - -
 
