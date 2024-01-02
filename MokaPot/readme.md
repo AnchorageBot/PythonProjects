@@ -10,7 +10,7 @@ Brew Variables & Targets
 * Water temp in (80C target)
 * Water temp out (60C target)
 * Coffee mass out
-* Brewing time
+* Brewing time (2:00 min)
 * Atmospheric pressure
 * Flavor (sweet, sour, bitter)
 
