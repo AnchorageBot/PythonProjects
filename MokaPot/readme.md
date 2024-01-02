@@ -51,7 +51,7 @@ ML (Machine Learning) Resources
 
 - - - - 
 
-IDE
+IDEs
 
 * [Google Project IDX](https://idx.dev)
 
