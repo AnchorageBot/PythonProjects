@@ -9,7 +9,7 @@ Brew Variables & Targets
 * Water mass in (130g target)
 * Water temp in (80C target)
 * Water temp out (65C target)
-* Coffee mass out
+* Coffee mass out (110g target)
 * Brewing time (4:00 min target)
 * Atmospheric pressure
 * Total dissolved solids
