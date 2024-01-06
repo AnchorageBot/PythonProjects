@@ -13,7 +13,7 @@ Brew Variables & Targets
 * Brewing time (0:40 min (sec) target)
 * Atmospheric pressure (varies by day & geographic location)
 * Total dissolved solids (4%)
-* Flavor (sweet, sour, bitter)
+* First Flavor (sour, sweet, bitter)
 
 - - - -
 
