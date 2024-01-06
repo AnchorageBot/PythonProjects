@@ -3,7 +3,7 @@ References and scripts for gathering data & making predictions for coffee experi
 - - - -
 
 Brew Variables & Targets
-* Roast type (dark, medium-dark)
+* Roast type (arabica - dark, medium-dark)
 * Grind size (Coarse/French Press - 700 microns, Medium/Moka - 550 microns, Espresso/Fine - 300 microns)
 * Grind mass (12g target)
 * Water mass in (120g target)
