@@ -7,7 +7,7 @@ Brew Variables & Targets
 * Grind size (Coarse/French Press - 700 microns, Medium/Moka - 550 microns, Espresso/Fine - 300 microns)
 * Grind mass (12g)
 * Water mass in (120g)
-* Water temp in (85C target)
+* Water temp in (85C)
 * Coffee temp out (60C start - 70C finish)
 * Coffee mass out (80g)
 * Brewing time (0:40 sec)
