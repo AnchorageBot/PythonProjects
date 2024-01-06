@@ -8,7 +8,7 @@ Brew Variables & Targets
 * Grind mass (12g target)
 * Water mass in (120g target)
 * Water temp in (85C target)
-* Coffee temp out (60C - 70C target)
+* Coffee temp out (60C start - 70C finish target)
 * Coffee mass out (80g target)
 * Brewing time (0:40 sec target)
 * Atmospheric pressure (varies by day & geographic location)
