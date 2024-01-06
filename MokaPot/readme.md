@@ -37,9 +37,11 @@ Coffee Videos
 
 - - - -
 
-Inspirational Video
+Inspirational Videos
 
 * [Silicon Valley: Not Hotdog (Season 4 Episode 4 Clip)](https://youtu.be/ACmydtFDTGs?si=Qk5ytL8mAOAk0_kE)
+
+* [Taylor Swift PROVES Euclid's Division Lemma](https://youtu.be/nllxjfVBL7Y?si=TpHfbmA9MJDq2jxv)
 
 - - - - 
 
