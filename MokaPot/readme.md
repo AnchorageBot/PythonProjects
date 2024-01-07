@@ -19,6 +19,8 @@ Brew Variables & Targets
 
 Coffee Videos
 
+* [How to Brew with the Moka Pot - Down and Dirty | Quick and Easy - Rob Pirie](https://youtu.be/2AJ6PXxQfTo?si=HgYKWjJoNcM7kdAv)
+
 * [Crema Explained - James Hoffman](https://youtu.be/j5rygXblZJU?si=Y1zY4mdtPjx6Q71X)
 
 * [Understanding the Moka Pot (Episode #2) - James Hoffman](https://youtu.be/zK0F5PqJ1Gk?si=23Q-qekkprYDm0vH)
