@@ -6,6 +6,9 @@
 # including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications on the World Wide Web.
 # https://en.wikipedia.org/wiki/Web_framework
 
+# Django website
+# https://www.djangoproject.com
+
 name: Django CI
 
 #on:
