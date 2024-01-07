@@ -1,0 +1,37 @@
+# Django (/ˈdʒæŋɡoʊ/ JANG-goh; sometimes stylized as django)[6] is a free and open-source, Python-based web framework that runs on a web server.
+# https://en.wikipedia.org/wiki/Django_(web_framework)
+
+# A web framework (WF) or web application framework (WAF) is a software framework that is designed to support the development of web applications
+# including web services, web resources, and web APIs. Web frameworks provide a standard way to build and deploy web applications on the World Wide Web.
+# https://en.wikipedia.org/wiki/Web_framework
+
+name: Django CI
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 4
+      matrix:
+        python-version: [3.7, 3.8, 3.9]
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run Tests
+      run: |
+        python manage.py test
