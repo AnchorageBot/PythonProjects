@@ -17,4 +17,4 @@ IDEs (Integrated Development Environments)
 - - - -
 Tunes
 
-* Luttrell - Intergalactic Plastic (the remixes)
+* DJ Luttrell - Intergalactic Plastic (the remixes)
