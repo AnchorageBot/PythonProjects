@@ -17,6 +17,4 @@ IDEs (Integrated Development Environments)
 - - - -
 Tunes
 
-* DJ Luttrell - Intergalactic Plastic (the remixes)
-
 * Parra for Cuva - Burning Man
