@@ -18,7 +18,7 @@ IDEs (Integrated Development Environments)
 
 References
 
-* [Pandas Cookbook 1.x](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
+* [Pandas 1.x Cookbook](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
 
 - - - - 
 Tunes
