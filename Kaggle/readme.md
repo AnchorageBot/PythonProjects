@@ -15,6 +15,12 @@ IDEs (Integrated Development Environments)
 * [Google Project IDX](https://idx.dev)
 
 - - - -
+
+References
+
+* [Pandas Cookbook 1.x](https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106)
+
+- - - - 
 Tunes
 
 * Parra for Cuva - Burning Man
