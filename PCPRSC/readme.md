@@ -7,3 +7,9 @@ The pandas library is massive, and it's common for frequent users to be unaware 
 - - - -
 
 [Pandas website](https://pandas.pydata.org)
+
+- - - -
+
+Interactive Development Environment
+
+* [Google Colab](https://colab.research.google.com/)
