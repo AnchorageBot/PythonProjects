@@ -16,6 +16,10 @@ Books
 
 * [Think Bayes, 2nd Edition - Allen B. Downey](https://www.oreilly.com/library/view/think-bayes-2nd/9781492089452/)
 
+* [Bayesian Analysis with Python, 2nd Edition, by Osvaldo Martin](https://www.packtpub.com/product/bayesian-analysis-with-python-second-edition/9781789341652)
+
+* [Bayesian Methods for Hackers, by Cam Davidson Pilon](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+
 Videos
 
 * [Naive Bayes, Clearly Explained!!! - StatQuest with Josh Starmer](https://youtu.be/O2L2Uv9pdDA?si=-Rz2SFiM4SekiDdt)
