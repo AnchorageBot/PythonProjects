@@ -68,6 +68,14 @@ Books
 
 * [Data Visualization with Python and JavaScript, 2nd Edition - Kyran Dale](https://www.oreilly.com/library/view/data-visualization-with/9781098111861/)
 
+* [Bayesian Statistics The Fun Way - Will Kurt](https://nostarch.com/learnbayes)
+
+* [Think Bayes: Bayesian Statistics in Python, 2nd Edition - Allen B. Downey](https://www.oreilly.com/library/view/think-bayes-2nd/9781492089452/)
+
+* [Bayesian Analysis with Python, 2nd Edition, by Osvaldo Martin](https://www.packtpub.com/product/bayesian-analysis-with-python-second-edition/9781789341652)
+
+* [Bayesian Methods for Hackers, by Cam Davidson Pilon](https://dataorigami.net/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+
 * [Object-Oriented Python - Irv Kalb](https://nostarch.com/object-oriented-python)
 
 * [The Recursive Book of Recursion - Al Sweigart](https://nostarch.com/recursive-book-recursion)
