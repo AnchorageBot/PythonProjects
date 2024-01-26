@@ -3,3 +3,6 @@ V1
 
 V2
 * Bankers and probability
+
+V3
+* Market segmentation
