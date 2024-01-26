@@ -1,4 +1,4 @@
-Kaggle lessons/sections for the First ML Tutorial
+Kaggle lessons/sections for the First ML Model Tutorial
 
 * [Your First Machine Learning Model](https://www.kaggle.com/code/dansbecker/your-first-machine-learning-model/tutorial)
 
