@@ -14,7 +14,7 @@ Books
 
 * [Bayesian Statistics The Fun Way - Will Kurt](https://nostarch.com/learnbayes)
 
-* [Think Bayes, 2nd Edition - Allen B. Downey](https://www.oreilly.com/library/view/think-bayes-2nd/9781492089452/)
+* [Think Bayes: Bayesian Statistics in Python, 2nd Edition - Allen B. Downey](https://www.oreilly.com/library/view/think-bayes-2nd/9781492089452/)
 
 * [Bayesian Analysis with Python, 2nd Edition, by Osvaldo Martin](https://www.packtpub.com/product/bayesian-analysis-with-python-second-edition/9781789341652)
 
