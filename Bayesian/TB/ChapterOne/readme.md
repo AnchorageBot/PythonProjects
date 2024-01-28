@@ -1,7 +1,7 @@
 Notebooks
 
 * V1: Download dataset
-* V2: Bankers and probability
+* V2: Bankers
 * V3: Market segmentation
 
 - - - - 
