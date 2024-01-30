@@ -58,6 +58,8 @@ Books
 
 * [Foundations for Analytics with Python - Clinton W. Brownley](https://www.oreilly.com/library/view/foundations-for-analytics/9781491922521/)
 
+* [Mathematical Foundations for Data Analysis - Jeff M. Phillips](https://link.springer.com/book/10.1007/978-3-030-62341-8)
+
 * [Data Science from Scratch by Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 
 * [Dive Into Data Science - Bradford Tuckfield](https://nostarch.com/dive-data-science)
