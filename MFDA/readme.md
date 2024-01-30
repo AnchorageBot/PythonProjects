@@ -6,4 +6,4 @@ Addresses topics in locality sensitive hashing, graph-structured data, and big d
 
 [Mathematical Foundations for Data Analysis - Jeff M. Phillips - Github](https://mathfordata.github.io)
 
-[U of Utah Data Science - YouTube](https://www.youtube.com/channel/UCDUS80bdunpmvWVPyFRPqFQ)
+[Lecture Playlist - YouTube - U of Utah Data Science](https://youtube.com/playlist?list=PLbuogVdPnkCqwPNYh6kX3TiTbu3WyoXcV&si=NA5KHd0Zqc_5-6j0)
