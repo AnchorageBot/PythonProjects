@@ -7,3 +7,4 @@ Includes perspectives on ethics in data
 
 [Mathematical Foundations for Data Analysis - Jeff M. Phillips - Github](https://mathfordata.github.io)
 
+[U of Utah Data Science - YouTube](https://www.youtube.com/channel/UCDUS80bdunpmvWVPyFRPqFQ)
