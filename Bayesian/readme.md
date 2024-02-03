@@ -23,3 +23,11 @@ Books
 Videos
 
 * [Naive Bayes, Clearly Explained!!! - StatQuest with Josh Starmer](https://youtu.be/O2L2Uv9pdDA?si=-Rz2SFiM4SekiDdt)
+
+- - - - 
+
+IDEs (Integrated Development Environments)
+
+* [Google Colab](https://colab.research.google.com)
+
+* [Google Project IDX](https://idx.dev)
