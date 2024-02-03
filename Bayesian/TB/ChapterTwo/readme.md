@@ -1,6 +1,6 @@
 Notebooks
 
 * V1: Definitions
-* V2: Symbology
+* V2: Venn Diagrams
 
 - - - -
