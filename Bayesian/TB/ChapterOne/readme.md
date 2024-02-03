@@ -1,7 +1,7 @@
 Notebooks
 
-* V1: Download dataset
-* V2: Search for/Count Bankers
+* V1: Download a dataset
+* V2: Search for/count Bankers
 
 - - - - 
 
