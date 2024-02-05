@@ -1,4 +1,6 @@
-[Mathematical Foundations for Data Analysis - Jeff M. Phillips](https://link.springer.com/book/10.1007/978-3-030-62341-8)
+[Mathematical Foundations for Data Analysis - Jeff M. Phillips - Springer Book](https://link.springer.com/book/10.1007/978-3-030-62341-8)
+
+[Mathematical Foundations for Data Analysis - Jeff M. Phillips - Online Book](https://mathfordata.github.io/versions/M4D-v0.6.pdf)
 
 Provides accessible, simplified introduction to core mathematical language and concepts.
 Integrates examples of key concepts through geometric illustrations and Python coding.
