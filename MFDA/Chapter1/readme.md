@@ -1,6 +1,6 @@
 Notebooks
 
-* V1: Probability Spaces
+* V1: Sample Spaces
 * V2: 
 
 - - - - 
