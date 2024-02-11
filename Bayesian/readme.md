@@ -33,6 +33,6 @@ IDEs (Integrated Development Environments)
 * [Google Project IDX](https://idx.dev)
 
 - - - -
-AI (Aritificial Intelligence)
+AI (Artificial Intelligence)
 
 * [Google Gemini](https://gemini.google.com)
