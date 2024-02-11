@@ -18,6 +18,13 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Anaconda](https://www.anaconda.com)
 
+- - - -
+AI (Aritificial Intelligence)
+
+* [Google Gemini](https://gemini.google.com)
+
+- - - -
+
 YouTube Videos
 
 * [Python for IT Beginners | Google IT Support Certificate](https://youtu.be/PiLh7ohFltc?si=l-f8OmnaF9w9UgKL)
