@@ -31,3 +31,8 @@ IDEs (Integrated Development Environments)
 * [Google Colab](https://colab.research.google.com)
 
 * [Google Project IDX](https://idx.dev)
+
+- - - -
+AI (Aritificial Intelligence)
+
+* [Google Gemini](https://gemini.google.com)
