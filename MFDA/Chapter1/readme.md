@@ -1,6 +1,6 @@
 Notebooks
 
-* V1: Sample Spaces
-* V2: 
+* V1: Discrete Sample Spaces
+* V2: Continuous Sample Spaces
 
 - - - - 
