@@ -20,6 +20,8 @@ Text Editors and Integrated Development Environments (IDEs)
 
 AI (Artificial Intelligence)
 
+* [ChatGPT](https://openai.com/blog/chatgpt)
+
 * [Google Gemini](https://gemini.google.com)
 
 - - - -
