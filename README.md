@@ -18,7 +18,6 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Anaconda](https://www.anaconda.com)
 
-- - - -
 AI (Aritificial Intelligence)
 
 * [Google Gemini](https://gemini.google.com)
