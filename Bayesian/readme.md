@@ -35,4 +35,8 @@ IDEs (Integrated Development Environments)
 - - - -
 AI (Artificial Intelligence)
 
+* [ChatGPT](https://openai.com/blog/chatgpt)
+
+* Google Colab AI
+
 * [Google Gemini](https://gemini.google.com)
