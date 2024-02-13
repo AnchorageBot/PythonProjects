@@ -16,6 +16,8 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Google Project IDX](https://idx.dev)
 
+* [VIM](https://www.vim.org)
+
 * [Anaconda](https://www.anaconda.com)
 
 AI (Artificial Intelligence)
