@@ -30,6 +30,8 @@ AI (Artificial Intelligence)
 
 YouTube Videos
 
+* [Python in 100 Seconds - Fireship](https://youtu.be/x7X9w_GIm1s?si=JY-n6um4eH74k2dX)
+
 * [Python for IT Beginners | Google IT Support Certificate](https://youtu.be/PiLh7ohFltc?si=l-f8OmnaF9w9UgKL)
 
 Papers
