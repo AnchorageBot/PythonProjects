@@ -72,3 +72,12 @@ Interactive Development Environment (IDE)
 * [Google Colab](https://colab.research.google.com)
 
 * [Jupyter](https://jupyter.org)
+
+- - - - 
+AI (Artificial Intelligence)
+
+* [ChatGPT](https://openai.com/blog/chatgpt)
+
+* Google Colab AI
+
+* [Google Gemini](https://gemini.google.com)
