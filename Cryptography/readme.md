@@ -11,3 +11,9 @@ Books
 * [Cracking Codes with Python: An Introduction to Building and Breaking Ciphers - Al Sweigart - No Starch Press](https://nostarch.com/crackingcodes)
 
 * [Serious Cryptography: A Practical Introduction to Modern Encryption -  Aumasson, Jean-Philippe - No Starch Press](https://nostarch.com/seriouscrypto)
+
+- - - -
+
+Videos
+
+* [7 Cryptography Concepts EVERY Developer Should Know - Fireship](https://youtu.be/NuyzuNBFWxQ?si=-_xYxFR2EI9RPH6n)
