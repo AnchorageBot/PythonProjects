@@ -1,1 +1,3 @@
+Wiki
 
+A [hash function](https://en.wikipedia.org/wiki/Hash_function) is any function that can be used to map data of arbitrary size to fixed-size values, though there are some hash functions that support variable length output. The values returned by a hash function are called hash values, hash codes, hash digests, digests, or simply hashes.
