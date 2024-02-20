@@ -1,3 +1,3 @@
 Notebooks
 
-* V1: Cesar Cipher
+* V1: Caesar Cipher
