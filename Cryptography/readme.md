@@ -8,4 +8,6 @@ Modern cryptography exists at the intersection of the disciplines of mathematics
 
 Books
 
+* [Cracking Codes with Python: An Introduction to Building and Breaking Ciphers - Al Sweigart - No Starch Press](https://nostarch.com/crackingcodes)
+
 * [Serious Cryptography: A Practical Introduction to Modern Encryption -  Aumasson, Jean-Philippe - No Starch Press](https://nostarch.com/seriouscrypto)
