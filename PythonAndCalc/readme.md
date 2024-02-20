@@ -31,6 +31,9 @@ Books
 
 * [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
+* [Stochastic Calculus for Finance I
+The Binomial Asset Pricing Model - Steven E. Shreve](https://link.springer.com/book/10.1007/978-0-387-22527-2)
+
 Courses
 
 * [Calculus I: Single Variable Calculus - MIT Open Courseware](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/)
