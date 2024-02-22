@@ -1,4 +1,4 @@
-Hadelin de Ponteves
+Hadelin de Ponteves and Kirill Eremenko
 
 - - - -
 
