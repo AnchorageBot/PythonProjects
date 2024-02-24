@@ -12,13 +12,13 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Mu](https://codewith.mu)
 
-* [Google Colab](https://colab.research.google.com)
-
-* [Google Project IDX](https://idx.dev)
-
 * [Vim](https://www.vim.org)
 
 * [Anaconda](https://www.anaconda.com)
+
+* [Google Colab](https://colab.research.google.com)
+
+* [Google Project IDX](https://idx.dev)
 
 AI (Artificial Intelligence)
 
