@@ -32,7 +32,7 @@ AI (Artificial Intelligence)
 
 YouTube Videos
 
-* [Vim in 100 Seconds](https://youtu.be/-txKSRn0qeA?si=kMeNoYAmI3IGMYpG)
+* [Vim in 100 Seconds - Fireship](https://youtu.be/-txKSRn0qeA?si=kMeNoYAmI3IGMYpG)
 
 * [Python in 100 Seconds - Fireship](https://youtu.be/x7X9w_GIm1s?si=JY-n6um4eH74k2dX)
 
