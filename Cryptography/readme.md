@@ -12,7 +12,7 @@ Books
 
 * [Serious Cryptography: A Practical Introduction to Modern Encryption -  Aumasson, Jean-Philippe - No Starch Press](https://nostarch.com/seriouscrypto)
 
-* [The Code Book - Simon Singh](https://simonsingh.net/books/the-code-book/)
+* [The Code Book - The Secret History of Codes and Code Breaking - Simon Singh](https://simonsingh.net/books/the-code-book/)
 
 - - - -
 
