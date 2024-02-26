@@ -20,6 +20,8 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Google Project IDX](https://idx.dev)
 
+* [Lightning AI](https://lightning.ai)
+
 AI (Artificial Intelligence)
 
 * [ChatGPT](https://openai.com/blog/chatgpt)
@@ -27,8 +29,6 @@ AI (Artificial Intelligence)
 * Google Colab AI
 
 * [Google Gemini](https://gemini.google.com)
-
-* [Lightning AI](https://lightning.ai)
 
 - - - -
 
