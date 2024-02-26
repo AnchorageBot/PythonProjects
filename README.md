@@ -24,6 +24,8 @@ Text Editors and Integrated Development Environments (IDEs)
 
 Software Agents
 
+* Frameworks with: agents, tasks, & tools
+
 AI (Artificial Intelligence)
 
 * [ChatGPT](https://openai.com/blog/chatgpt)
