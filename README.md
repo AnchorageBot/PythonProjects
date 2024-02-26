@@ -28,6 +28,8 @@ AI (Artificial Intelligence)
 
 * [Google Gemini](https://gemini.google.com)
 
+* [Lightning AI](https://lightning.ai)
+
 - - - -
 
 YouTube Videos
