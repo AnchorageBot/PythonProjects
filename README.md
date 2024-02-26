@@ -22,6 +22,8 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Lightning AI](https://lightning.ai)
 
+Software Agents
+
 AI (Artificial Intelligence)
 
 * [ChatGPT](https://openai.com/blog/chatgpt)
