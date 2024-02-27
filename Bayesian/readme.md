@@ -22,6 +22,8 @@ Books
 
 Videos
 
+* [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM?si=hrW3Q94s9w5wh2We)
+
 * [Naive Bayes, Clearly Explained!!! - StatQuest with Josh Starmer](https://youtu.be/O2L2Uv9pdDA?si=-Rz2SFiM4SekiDdt)
 
 - - - - 
