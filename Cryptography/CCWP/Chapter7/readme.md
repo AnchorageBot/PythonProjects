@@ -1,3 +1,3 @@
 Notebooks
 
-* V1:
+* V1: Encrypting with the Transposition Cipher - minimal comments
