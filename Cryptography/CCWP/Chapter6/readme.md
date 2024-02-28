@@ -5,8 +5,8 @@ Notebooks
 
 - - - -
 
-message = 'guv6Jv6Jz!J6rp5r7Jzr66ntrM'
-SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'
+* message = 'guv6Jv6Jz!J6rp5r7Jzr66ntrM'
+* SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'
 
 - - - -
 
