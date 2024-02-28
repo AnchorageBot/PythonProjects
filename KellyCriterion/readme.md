@@ -12,4 +12,4 @@ Books
 
 Tunes
 
-* Tinlicker, Perfect Mistake (Extended Version)
+* Tinlicker, Perfect Mistake (Extended Mix)
