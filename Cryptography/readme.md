@@ -19,3 +19,7 @@ Books
 Videos
 
 * [7 Cryptography Concepts EVERY Developer Should Know - Fireship](https://youtu.be/NuyzuNBFWxQ?si=-_xYxFR2EI9RPH6n)
+
+- - - - 
+
+Shannon’s maxim: “The enemy knows the system.”
