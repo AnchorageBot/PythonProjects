@@ -7,3 +7,9 @@ In probability theory, the Kelly criterion (or Kelly strategy or Kelly bet) is a
 Books
 
 * [The Kelly capital growth investment criterion : theory and practice / edited by Leonard C. MacLean](https://www.worldscientific.com/worldscibooks/10.1142/7598#t=aboutBook)
+
+- - - - 
+
+Tunes
+
+* Tinlicker, Perfect Mistake (Extended Version)
