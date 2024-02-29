@@ -1,7 +1,7 @@
 Notebooks
 
-* V1: Brute Force Hack - Hacking the Caesar Cipher - minimal code comments
-* V2: Brute Force Hack - Hacking the Caesar Cipher - more code comments
+* V1: Brute Force Hacking the Caesar Cipher - minimal code comments
+* V2: Brute Force Hacking the Caesar Cipher - more code comments
 
 - - - -
 
