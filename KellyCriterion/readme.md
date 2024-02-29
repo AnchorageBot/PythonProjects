@@ -10,6 +10,8 @@ In probability theory, the Kelly criterion (or Kelly strategy or Kelly bet) is a
 
 Books
 
+* [Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street - William Poundstone](https://www.goodreads.com/en/book/show/186124)
+
 * [The Kelly capital growth investment criterion : theory and practice / edited by Leonard C. MacLean](https://www.worldscientific.com/worldscibooks/10.1142/7598#t=aboutBook)
 
 - - - - 
