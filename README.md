@@ -34,7 +34,7 @@ AI (Artificial Intelligence)
 
 * [Google Gemini](https://gemini.google.com)
 
-* [Mistral AI Le Chat](https://mistral.ai/)
+* [Mistral AI](https://mistral.ai/)
 
 - - - -
 
