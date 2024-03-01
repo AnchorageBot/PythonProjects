@@ -42,6 +42,8 @@ Videos
 
 * [A tour of differential equations - 3 Blue, 1 Brown](https://www.3blue1brown.com/topics/differential-equations)
 
+* [Differential Equations and Dynamical Systems - Steve Brunton](https://youtu.be/9fQkLQZe3u8?si=TU4_Y4qRCxtlB3WB)
+
 - - - -
 
 Interactive Development Environment (IDE)
