@@ -42,7 +42,7 @@ Videos
 
 * [A tour of differential equations - 3 Blue, 1 Brown](https://www.3blue1brown.com/topics/differential-equations)
 
-* [Differential Equations and Dynamical Systems - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
+* [Differential Equations and Dynamical Systems - Dr Steven L Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
 
 - - - -
 
