@@ -46,8 +46,6 @@ YouTube Videos
 
 * [Python for IT Beginners | Google IT Support Certificate](https://youtu.be/PiLh7ohFltc?si=l-f8OmnaF9w9UgKL)
 
-Papers
-
 Books
 
 * [Python Crash Course - Eric Matthes](https://nostarch.com/pythoncrashcourse2e)
