@@ -22,7 +22,7 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Lightning AI](https://lightning.ai)
 
-Software Agents
+[Software Agents](https://en.m.wikipedia.org/wiki/Software_agent)
 
 * Frameworks with: agents, tasks, & tools
 
