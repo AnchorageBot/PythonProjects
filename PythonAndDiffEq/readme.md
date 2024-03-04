@@ -44,6 +44,8 @@ Videos
 
 * [Differential Equations and Dynamical Systems - Dr Steven L Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
 
+* [Chaos Theory: the language of (in)stability - Gonkee](https://youtu.be/uzJXeluCKMs?si=9QfPoEloXSgbQn3r)
+
 - - - -
 
 Interactive Development Environment (IDE)
