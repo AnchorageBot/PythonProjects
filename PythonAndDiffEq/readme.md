@@ -26,6 +26,8 @@ Books
 
 * [Mathematical Methods for Physics and Engineering - Student Solutions Manual - Riley, Hobson, Bence](https://www.cambridge.org/highereducation/books/student-solution-manual-for-mathematical-methods-for-physics-and-engineering-third-edition/1D37BB529AEA8F3DA59E31EC7C7039C0?chapterId=CBO9780511816130A009#contents)
 
+* [No BS Guide to Math & Physics](https://minireference.com)
+
 * [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
 * [REA's Problem Solvers - Differential Equations](https://books.google.com/books/about/The_Differential_Equations_Problem_Solve.html?id=fROsQofvBzAC)
