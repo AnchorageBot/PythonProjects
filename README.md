@@ -26,7 +26,9 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * Frameworks with: agents, tasks, & tools
 
-AI (Artificial Intelligence)
+AI (Artificial Intelligence) - It is possible that we are not alone ...
+
+* [Anthropic Claude](https://www.anthropic.com/claude)
 
 * [ChatGPT](https://openai.com/blog/chatgpt)
 
