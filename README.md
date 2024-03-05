@@ -32,6 +32,8 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [ChatGPT](https://openai.com/blog/chatgpt)
 
+* [Cohere RAG AI](https://cohere.com)
+
 * Google Colab AI
 
 * [Google Gemini](https://gemini.google.com)
