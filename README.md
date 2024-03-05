@@ -22,10 +22,6 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Lightning AI](https://lightning.ai)
 
-[Software Agents](https://en.m.wikipedia.org/wiki/Software_agent)
-
-* Frameworks with: agents, tasks, & tools
-
 AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Anthropic Claude](https://www.anthropic.com/claude)
@@ -39,6 +35,10 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 * [Google Gemini](https://gemini.google.com)
 
 * [Mistral Le Chat AI](https://mistral.ai/)
+
+[Software Agents](https://en.m.wikipedia.org/wiki/Software_agent)
+
+* Frameworks with: agents, tasks, & tools
 
 - - - -
 
