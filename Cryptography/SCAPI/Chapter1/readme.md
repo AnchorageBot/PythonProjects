@@ -5,3 +5,4 @@ Notebooks
 * V3: Encrypting with the Casear Cipher - Script comparisons
 * V4: Encrypting with the Vigenère Cipher - With comments & script comparisons - scripts do not use techniques that map 1:1
 * V5: Encrypting with the Vigenère Cipher - With comments & script comparisons - better mapping but still not 1:1
+* V6: Encrypting with the Vigenère Cipher - With comments & script comparisons - the why of the current mapping
