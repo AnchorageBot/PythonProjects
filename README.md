@@ -38,7 +38,7 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Google Gemini](https://gemini.google.com)
 
-* [Mistral AI](https://mistral.ai/)
+* [Mistral Le Chat AI](https://mistral.ai/)
 
 - - - -
 
