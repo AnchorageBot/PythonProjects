@@ -34,6 +34,8 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Google Gemini](https://gemini.google.com)
 
+* [Hugging Face Blog](https://huggingface.co/blog)
+
 * [Mistral Le Chat AI](https://mistral.ai/)
 
 [Software Agents](https://en.m.wikipedia.org/wiki/Software_agent)
