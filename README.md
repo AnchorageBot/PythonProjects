@@ -38,9 +38,9 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Mistral Le Chat](https://mistral.ai/)
 
-[Software Agents](https://en.m.wikipedia.org/wiki/Software_agent)
+Software Agents
 
-* Frameworks with: agents, tasks, & tools
+* [Frameworks with: agents, tasks, & tools](https://en.m.wikipedia.org/wiki/Software_agent)
 
 - - - -
 
