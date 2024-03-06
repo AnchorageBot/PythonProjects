@@ -28,7 +28,7 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [ChatGPT](https://openai.com/blog/chatgpt)
 
-* [Cohere RAG AI](https://cohere.com)
+* [Cohere RAG](https://cohere.com)
 
 * Google Colab AI
 
@@ -36,7 +36,7 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Hugging Face Blog](https://huggingface.co/blog)
 
-* [Mistral Le Chat AI](https://mistral.ai/)
+* [Mistral Le Chat](https://mistral.ai/)
 
 [Software Agents](https://en.m.wikipedia.org/wiki/Software_agent)
 
