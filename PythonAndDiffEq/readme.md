@@ -48,7 +48,7 @@ Videos
 
 * [Chaos Theory: the language of (in)stability - Gonkee](https://youtu.be/uzJXeluCKMs?si=9QfPoEloXSgbQn3r)
 
-* [Ordinary Differential Equations (ODEs) - Dr. Trefor Bazett](https://youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw&si=4jmJGatJeu4eLAgD)
+* [Ordinary Differential Equations (ODEs) - Dr. Trefor Bazett - YouTube Lectures](https://youtube.com/playlist?list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw&si=4jmJGatJeu4eLAgD)
 
 - - - -
 
