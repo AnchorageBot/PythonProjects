@@ -1,4 +1,4 @@
 Notebooks
 
-V1: Encrypting with the xxxxx Cipher - three scripts with comments
-V2: Encrypting with the xxxxx Cipher - script comparisons
+* V1: Decrypting with the Transposition Cipher - scripts with comments
+* V2: Decrypting with the Transposition Cipher - script comparisons
