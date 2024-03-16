@@ -20,6 +20,8 @@ Videos
 
 * [7 Cryptography Concepts EVERY Developer Should Know - Fireship](https://youtu.be/NuyzuNBFWxQ?si=-_xYxFR2EI9RPH6n)
 
+* [This Obscure Maths Will Revolutionize Data Privacy - Sabine Hossenfelder](https://youtu.be/1BI0FDeN-Sg?si=5uJYIXYQjbdG0YBc)
+
 - - - - 
 
 Shannon’s maxim: “The enemy knows the system.”
