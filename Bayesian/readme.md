@@ -37,6 +37,8 @@ IDEs (Integrated Development Environments)
 - - - -
 AI (Artificial Intelligence)
 
+* [Anthropic Claude](https://www.anthropic.com)
+
 * [ChatGPT](https://openai.com/blog/chatgpt)
 
 * Google Colab AI
