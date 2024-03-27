@@ -22,6 +22,8 @@ Videos
 
 * [This Obscure Maths Will Revolutionize Data Privacy - Sabine Hossenfelder](https://youtu.be/1BI0FDeN-Sg?si=5uJYIXYQjbdG0YBc)
 
+* [Understanding Cryptography With These Five Worlds - Russell Impagliazzo - Quanta Magazine](https://youtu.be/RjzSFa03i2U?si=d4PEG802d6qaOTuT)
+
 - - - - 
 
 Shannon’s maxim: “The enemy knows the system.”
