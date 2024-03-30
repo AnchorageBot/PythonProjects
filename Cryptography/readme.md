@@ -20,6 +20,8 @@ Videos
 
 * [7 Cryptography Concepts EVERY Developer Should Know - Fireship](https://youtu.be/NuyzuNBFWxQ?si=-_xYxFR2EI9RPH6n)
 
+* [Improving Cryptography to Protect the Internet - Yael Kalai - Quanta Magazine](https://youtu.be/EMrpHQehRmY?si=dZ7CBvV0PGOZfvB5) 
+
 * [This Obscure Maths Will Revolutionize Data Privacy - Sabine Hossenfelder](https://youtu.be/1BI0FDeN-Sg?si=5uJYIXYQjbdG0YBc)
 
 * [Understanding Cryptography With These Five Worlds - Russell Impagliazzo - Quanta Magazine](https://youtu.be/RjzSFa03i2U?si=d4PEG802d6qaOTuT)
