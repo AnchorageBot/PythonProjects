@@ -38,6 +38,8 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Mistral Le Chat](https://mistral.ai/)
 
+* [Perplexity AI](https://www.perplexity.ai)
+  
 Software Agents
 
 * [Frameworks with: agents, tasks, & tools - Wiki](https://en.m.wikipedia.org/wiki/Software_agent)
