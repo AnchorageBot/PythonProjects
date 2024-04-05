@@ -44,6 +44,8 @@ Software Agents
 
 * [Frameworks with: agents, tasks, & tools - Wiki](https://en.m.wikipedia.org/wiki/Software_agent)
 
+* [AI Data Agent with Gemini API | Build with Google AI](https://youtu.be/pj5mRDy9lG8?si=Ud0F_n-gLVtmmoM-)
+
 - - - -
 
 YouTube Videos
