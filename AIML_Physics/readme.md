@@ -1,4 +1,8 @@
 AI/ML Physics
+- - - -
+Communities
+
+[AI Institute in Dynamic Systems](https://dynamicsai.org)
 
 - - - -
 Books
