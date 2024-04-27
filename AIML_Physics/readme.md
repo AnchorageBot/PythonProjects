@@ -1,1 +1,7 @@
+AI/ML Physics
 
+- - - -
+
+- - - -
+
+* [Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering - Dr Steve Brunton](https://youtu.be/JoFW2uSd3Uo?si=JTk2nIiXFg4x5Lhl)
