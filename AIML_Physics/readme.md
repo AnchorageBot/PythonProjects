@@ -3,7 +3,7 @@ AI/ML Physics
 - - - -
 Books
 
-* [Data Driven Science & Engineering - Steven Brunton, J. Nathan Kutz](https://faculty.washington.edu/sbrunton/databookRL.pdf)
+* [Data Driven Science & Engineering - Steven Brunton, J. Nathan Kutz](https://www.cambridge.org/highereducation/books/data-driven-science-and-engineering/6F9A730B7A9A9F43F68CF21A24BEC339#overview)
 
 - - - -
 Videos
