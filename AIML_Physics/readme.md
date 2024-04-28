@@ -25,7 +25,7 @@ Videos
 - - - -
 Glossary
 
-* [Anisotropy Wiki](https://en.wikipedia.org/wiki/Anisotropy)
+* [Anisotropy - Wiki](https://en.wikipedia.org/wiki/Anisotropy)
   * * 'The structural property of non-uniformity in different directions'
 
 * [Galilean Invariance - Wiki](https://en.wikipedia.org/wiki/Galilean_invariance)
