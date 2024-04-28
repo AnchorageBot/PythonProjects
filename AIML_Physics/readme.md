@@ -17,3 +17,5 @@ Videos
 * [Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering - Dr Steve Brunton](https://youtu.be/JoFW2uSd3Uo?si=JTk2nIiXFg4x5Lhl)
 
 * [AI/ML+Physics Part 1: Choosing what to model, Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/ARMk955pGbg?si=9egyxoNBUotVpqoC)
+
+* [AI/ML+Physics Part 2: Curating Training Data Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/g-S0m2zcKUg?si=27ozhf2xYCR9J9zD)
