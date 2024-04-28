@@ -32,4 +32,4 @@ Glossary
   * * 'The laws of motion are the same in all inertial frames of reference.'
    
 * [Lie group - Wiki](https://en.wikipedia.org/wiki/Lie_group)
- *  * 'A group that is also a differentiable manifold, such that group multiplication and taking inverses are both differentiable.'
+  * * 'A group that is also a differentiable manifold, such that group multiplication and taking inverses are both differentiable.'
