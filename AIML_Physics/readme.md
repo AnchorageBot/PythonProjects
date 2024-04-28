@@ -26,3 +26,4 @@ Videos
 Glossary
 
 * [Galilean Invariance - Wiki](https://en.wikipedia.org/wiki/Galilean_invariance)
+* * 'The laws of motion are the same in all inertial frames of reference.' 
