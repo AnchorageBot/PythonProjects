@@ -27,7 +27,7 @@ Videos
 - - - -
 Glossary
 
-* [Anamorphosis - Wiki]([https://en.wikipedia.org/wiki/Anamorphosis)
+* [Anamorphosis - Wiki](https://en.wikipedia.org/wiki/Anamorphosis)
   * * 'Anamorphosis is a distorted projection that requires the viewer to occupy a specific vantage point, use special devices, or both to view a recognizable image'
 
 * [Anisotropy - Wiki](https://en.wikipedia.org/wiki/Anisotropy)
