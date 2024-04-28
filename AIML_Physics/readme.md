@@ -18,4 +18,6 @@ Videos
 
 * [AI/ML+Physics Part 1: Choosing what to model, Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/ARMk955pGbg?si=9egyxoNBUotVpqoC)
 
-* [AI/ML+Physics Part 2: Curating Training Data Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/g-S0m2zcKUg?si=27ozhf2xYCR9J9zD)
+* [AI/ML+Physics Part 2: Curating Training Data, Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/g-S0m2zcKUg?si=27ozhf2xYCR9J9zD)
+
+* [AI/ML+Physics Part 3: Designing an Architecture, Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/fiX8c-4K0-Q?si=XaGCKDgJAZezJMay)
