@@ -22,7 +22,11 @@ Videos
 
 * [AI/ML+Physics Part 3: Designing an Architecture, Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/fiX8c-4K0-Q?si=XaGCKDgJAZezJMay)
 
-* [AI/ML+Physics Part 4: Crafting a Loss Function, Physics Informed Machine Learning - Dr Steve Drunton](https://youtu.be/3SNkQ8jhKXc?si=wxyudqGq9umVHiO3)
+* [AI/ML+Physics Part 4: Crafting a Loss Function, Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/3SNkQ8jhKXc?si=wxyudqGq9umVHiO3)
+
+* [AI/ML+Physics Part 5: Employing an Optimization Algorithm, Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/T4iJ10TAIMg?si=LU4bmxDJrSbIK7LQ)
+
+* [AI/ML+Physics: Recap and Summary, Physics Informed Machine Learning - Dr Steve Brunton](https://youtu.be/GCz6afDVy5Y?si=Yewn8g0SoZeYyd5a)
 
 - - - -
 Glossary
