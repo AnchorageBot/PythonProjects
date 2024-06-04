@@ -122,6 +122,8 @@ Books
 
 * [Genetic Algorithms with Python - Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 
+* [Tree-Based Machine Learning Algorithms - Clinton Sheppard](https://github.com/handcraftsman/TreeBasedMachineLearningAlgorithms)
+
 * [Math for Deep Learning - Ronald T. Kneusel](https://nostarch.com/math-deep-learning)
 
 * [Practical Deep Learning - Ronald T. Kneusel](https://nostarch.com/practical-deep-learning-python)
