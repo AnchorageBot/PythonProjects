@@ -8,7 +8,7 @@ Creators of Python Knowledge
 
 Text Editors and Integrated Development Environments (IDEs)
 
-* [Atom](https://atom.io)
+* [Atom](https://atom.io) - Official sunset on December 15, 2022
 
 * [Mu](https://codewith.mu)
 
