@@ -20,8 +20,6 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Google Project IDX](https://idx.dev)
 
-* [Lightning AI](https://lightning.ai)
-
 AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Anthropic Claude](https://www.anthropic.com/claude)
