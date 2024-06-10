@@ -30,6 +30,8 @@ Additional background:
   * Newton's notation
   * Partial derivatives
 
+* [Partial differential equation -wiki](
+
 * [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
 
   * [Ben Moseley Github](https://github.com/benmoseley)
