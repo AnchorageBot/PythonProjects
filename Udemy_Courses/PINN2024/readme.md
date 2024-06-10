@@ -31,7 +31,7 @@ Additional background:
   * Partial derivatives
 
 * [Partial differential equation -wiki](https://en.wikipedia.org/wiki/Partial_differential_equation)
-* An equation which computes a function between various partial derivatives of a multivariable function.
+  * An equation which computes a function between various partial derivatives of a multivariable function.
 
 * [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
 
