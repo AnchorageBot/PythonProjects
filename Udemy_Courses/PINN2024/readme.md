@@ -15,3 +15,6 @@ Additional background:
 * [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
 
   * [Ben Moseley Github](https://github.com/benmoseley)
+ 
+* [Discretization - wiki](https://en.wikipedia.org/wiki/Discretization)
+   * In applied mathematics, discretization is the process of transferring continuous    functions, models, variables, and equations into discrete counterparts. 
