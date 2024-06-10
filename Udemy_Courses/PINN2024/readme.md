@@ -17,6 +17,8 @@ Additional background:
 
 * [Finite difference - wiki](https://en.wikipedia.org/wiki/Finite_difference)
   * A finite difference is a mathematical expression of the form f (x + b) − f (x + a). If a finite difference is divided by b − a, one gets a difference quotient. The approximation of derivatives by finite differences plays a central role in finite difference methods for the numerical solution of differential equations, especially boundary value problems.
+  * Three basic types are commonly considered: forward, backward, and central finite differences.
+  * 
 
 * [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
 
