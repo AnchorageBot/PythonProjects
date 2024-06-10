@@ -10,6 +10,8 @@ We will cover the fundamentals of Solving partial differential equations (PDEs) 
 
 - - - -
 
-[ETH Zürich DLSC: Physics-Informed Neural Networks - Applications](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
+Additional background:
 
-[Ben Moseley Github](https://github.com/benmoseley)
+* [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
+
+  * [Ben Moseley Github](https://github.com/benmoseley)
