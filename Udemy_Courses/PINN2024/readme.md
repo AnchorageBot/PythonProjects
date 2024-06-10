@@ -2,7 +2,7 @@ Dr. Mohammad Samara
 
 - - - -
 
-Physics-Informed Neural Networks (PINNs)
+[Physics-Informed Neural Networks (PINNs)](https://www.udemy.com/course/physics-informed-neural-network-pinns/?couponCode=OF53124)
 
 - - - -
 
