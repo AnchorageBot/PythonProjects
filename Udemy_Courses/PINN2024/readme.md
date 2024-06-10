@@ -13,7 +13,7 @@ We will cover the fundamentals of Solving partial differential equations (PDEs) 
 Additional background:
 
 * [Boundary value problem](https://en.wikipedia.org/wiki/Boundary_value_problem)
-  * In the study of differential equations, a boundary-value problem is a differential equation subjected to constraints called boundary conditions.[1] A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions.
+  * In the study of differential equations, a boundary-value problem is a differential equation subjected to constraints called boundary conditions. A solution to a boundary value problem is a solution to the differential equation which also satisfies the boundary conditions.
  
 * [Discretization - wiki](https://en.wikipedia.org/wiki/Discretization)
    * In applied mathematics, discretization is the process of transferring continuous    functions, models, variables, and equations into discrete counterparts. 
