@@ -48,3 +48,9 @@ Additional background:
 * [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
 
   * [Ben Moseley Github](https://github.com/benmoseley)
+
+- - - -
+ 
+Integrated Development Environment
+
+* [Google Colab](https://colab.research.google.com)
