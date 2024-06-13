@@ -12,9 +12,9 @@ We will cover the fundamentals of Solving partial differential equations (PDEs) 
 
 Equations:
 
-* [1D Heat Equation](https://en.wikipedia.org/wiki/Heat_equation)
+* [1D Heat Equation - wiki](https://en.wikipedia.org/wiki/Heat_equation)
 
-* [Burgers Equation](https://en.wikipedia.org/wiki/Burgers%27_equation)
+* [Burgers Equation - wiki](https://en.wikipedia.org/wiki/Burgers%27_equation)
 
 - - - -
 
@@ -30,6 +30,8 @@ Additional background:
   * A finite difference is a mathematical expression of the form f (x + b) − f (x + a). If a finite difference is divided by b − a, one gets a difference quotient. The approximation of derivatives by finite differences plays a central role in finite difference methods for the numerical solution of differential equations, especially boundary value problems.
   * Three basic types are commonly considered: forward, backward, and central finite differences.
   * Finite differences were introduced by Brook Taylor in 1715 and have also been studied as abstract self-standing mathematical objects in works by George Boole (1860), L. M. Milne-Thomson (1933), and Károly Jordan (1939). Finite differences trace their origins back to one of Jost Bürgi's algorithms (c. 1592) and work by others including Isaac Newton. The formal calculus of finite differences can be viewed as an alternative to the calculus of infinitesimals.
+
+* [Glossary of Mathematical Symbols - wiki](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
  
 * [Notation for differentiation - wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation)
   * Leibniz's notation
