@@ -10,6 +10,14 @@ We will cover the fundamentals of Solving partial differential equations (PDEs) 
 
 - - - -
 
+Equations:
+
+* [1D Heat Equation](https://en.wikipedia.org/wiki/Heat_equation)
+
+* [Burgers Equation](https://en.wikipedia.org/wiki/Burgers%27_equation)
+
+- - - -
+
 Additional background:
 
 * [Boundary value problem - wiki](https://en.wikipedia.org/wiki/Boundary_value_problem)
