@@ -33,6 +33,8 @@ Additional background:
   * Finite differences were introduced by Brook Taylor in 1715 and have also been studied as abstract self-standing mathematical objects in works by George Boole (1860), L. M. Milne-Thomson (1933), and Károly Jordan (1939). Finite differences trace their origins back to one of Jost Bürgi's algorithms (c. 1592) and work by others including Isaac Newton. The formal calculus of finite differences can be viewed as an alternative to the calculus of infinitesimals.
 
 * [Glossary of Mathematical Symbols - wiki](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+
+* [Greek Alphabet - wiki](https://en.wikipedia.org/wiki/Greek_alphabet)
  
 * [Notation for differentiation - wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation)
   * Leibniz's notation
