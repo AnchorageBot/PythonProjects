@@ -48,6 +48,8 @@ Additional background:
 
 - - - -
 
+Additional examples:
+
 * [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications - YouTube](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
 
   * [Ben Moseley - Github](https://github.com/benmoseley)
