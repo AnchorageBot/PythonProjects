@@ -46,10 +46,16 @@ Additional background:
 * [Partial differential equation -wiki](https://en.wikipedia.org/wiki/Partial_differential_equation)
   * An equation which computes a function between various partial derivatives of a multivariable function.
 
-* [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
+- - - -
 
-  * [Ben Moseley Github](https://github.com/benmoseley)
+* [ETH Zürich DLSC: Physics-Informed Neural Networks - Applications - YouTube](https://youtu.be/IDIv92Z6Qvc?si=EUGCvYt7zPQbjaJ0)
 
+  * [Ben Moseley - Github](https://github.com/benmoseley)
+
+* [Physics-informed neural networks for fluid mechanics - Ricardo Vinuesa - YouTube](https://youtu.be/EHrgSPHZG3Y?si=MHxGJSb_TyKUImm1)
+
+  * [KTH-FlowAI - Github](https://github.com/KTH-FlowAI)
+    
 - - - -
  
 Integrated Development Environment
