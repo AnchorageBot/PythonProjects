@@ -4,5 +4,5 @@
 
 Tutors
 
-Dr Keenan Crane
-Anthropic's AI Claude
+* Dr Keenan Crane
+* Anthropic's AI Claude
