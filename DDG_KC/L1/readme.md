@@ -9,4 +9,4 @@ Tutors
 
 - - - -
 
-Notes from the lecture
+Digital notes from the lecture
