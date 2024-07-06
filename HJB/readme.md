@@ -8,9 +8,11 @@ the maximizer (or minimizer) of the Hamiltonian involved in the HJB equation.
 
 [Nonlinear Control: Hamilton Jacobi Bellman (HJB) and Dynamic Programming - Dr. Steven Brunton - YouTube](https://youtu.be/-hO-AnFYm6M?si=HzCkFTTSYdTZt3af)
 
-[Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control  by Brunton and Kutz](http://databookuw.com)
+* [Reinforcement Learning Series - Dr. Steven Brunton - YouTube](https://youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74&si=IgmZi9mmGs8kSnUc)
 
-[Q Learning - Wiki](https://en.wikipedia.org/wiki/Q-learning)
+* [Q Learning - Wiki](https://en.wikipedia.org/wiki/Q-learning)
+
+[Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control  by Brunton and Kutz](http://databookuw.com)
 
 - - - -
 
