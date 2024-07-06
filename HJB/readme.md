@@ -9,3 +9,7 @@ the maximizer (or minimizer) of the Hamiltonian involved in the HJB equation.
 [Nonlinear Control: Hamilton Jacobi Bellman (HJB) and Dynamic Programming - Dr. Steve Brunton - YouTube](https://youtu.be/-hO-AnFYm6M?si=HzCkFTTSYdTZt3af)
 
 [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control  by Brunton and Kutz](http://databookuw.com)
+
+- - - -
+
+[Data-driven initialization of deep learning solvers for Hamilton-Jacobi-Bellman PDEs - Anastasia Borovykh, Dante Kalise, Alexis Laignelet, Panos Parpas](https://arxiv.org/abs/2207.09299) - arXiv:2207.09299 [math.OC] - [Submitted on 19 Jul 2022]
