@@ -6,7 +6,7 @@ the maximizer (or minimizer) of the Hamiltonian involved in the HJB equation.
 
 - - - -
 
-[Nonlinear Control: Hamilton Jacobi Bellman (HJB) and Dynamic Programming - Dr. Steve Brunton - YouTube](https://youtu.be/-hO-AnFYm6M?si=HzCkFTTSYdTZt3af)
+[Nonlinear Control: Hamilton Jacobi Bellman (HJB) and Dynamic Programming - Dr. Steven Brunton - YouTube](https://youtu.be/-hO-AnFYm6M?si=HzCkFTTSYdTZt3af)
 
 [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control  by Brunton and Kutz](http://databookuw.com)
 
