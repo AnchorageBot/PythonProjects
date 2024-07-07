@@ -1,9 +1,3 @@
-[Tutorial - Optimization, Optimal Control, Trajectory Optimization, and Splines - Dr. Jesus Tordesillas - YouTube](https://youtu.be/j82Ia436DYY?si=-oYNAPWkHqzdC5Iw)
-
-* [Github - Dr. Jesus Tordesillas Torres](https://github.com/jtorde)
-
-- - - -
-
 [Optimization Problems - Wiki](https://en.wikipedia.org/wiki/Optimization_problem)
 
 In mathematics, engineering, computer science and economics, an optimization problem is the problem of finding the best solution from all feasible solutions.
