@@ -6,3 +6,6 @@ Summary
 * Independent columns = basis for the column space
 * Rank = number of independent columns
 * A = CR leads to: Row rank equals column rank
+
+Notes
+* [A = CR](https://www.norbertwiener.umd.edu/FFT/2020/Faraway%20Slides/Faraway%20Strang.pdf)
