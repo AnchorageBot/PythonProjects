@@ -62,7 +62,7 @@ Additional examples:
 
 Fun tangents:
 
-* [Differential Equations - 3Blue1Brown - 6 videos - YouTube](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=axcbeHA80YDMALhz)
+* [Differential Equations Series - 3Blue1Brown - 6 videos - YouTube](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=axcbeHA80YDMALhz)
 
 * [Partial Differential Equations Series - Dr. Christopher Lum - YouTube](https://youtube.com/playlist?list=PLxdnSsBqCrrFvek-n1MKhFaDARSdKWPnx&si=MzTnzjGgu_DkYgP0)
 
