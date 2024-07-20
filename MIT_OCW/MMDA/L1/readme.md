@@ -1,4 +1,4 @@
-
+Lecture 1: The Column Space of A Contains All Vectors Ax
 - - - -
 Description
 * In this first lecture, Professor Strang introduces the linear algebra principles critical for understanding
