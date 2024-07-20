@@ -1,3 +1,5 @@
+Video Lectures
+- - - -
 Lecture 1: The Column Space of A Contains All Vectors Ax
 - - - -
 Description
