@@ -43,7 +43,7 @@ Glossary for Euler's Sine Product Formula
 | π      | Pi (approximately 3.14159) |
 
 - - - -
-Jigh-level summary of how Euler's Sine Product Formula and Riemann's Zeta Function Formula are related.
+High-level summary of how Euler's Sine Product Formula and Riemann's Zeta Function Formula are related.
 
 In essence, these formulas exemplify how fundamental mathematical functions can be represented as infinite products, revealing deep structures and connections within mathematics. They both play crucial roles in complex analysis, number theory, and our understanding of the interplay between continuous and discrete mathematics.
 
