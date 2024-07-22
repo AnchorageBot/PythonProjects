@@ -8,15 +8,10 @@ Posits that the zeta function is only zero for negative even integers and at som
 [Riemann Hypothesis - Dr. Edward Frenkel - Numberphile - YouTube](https://youtu.be/d6c6uIyieoo?si=gcDPAMUE7LsEy7O2)
 
 - - - -
-### Glossary for Euler's Sine Product Formula
 
-| Symbol | Meaning |
-|--------|---------|
-| sin(x) | Sine function of x |
-| x      | Input variable (angle in radians) |
-| ∏      | Product notation |
-| n      | Index of multiplication, from 1 to infinity |
-| π      | Pi (approximately 3.14159) |
+## Riemann's Zeta Function Formula
+
+ζ(s) = (e^(a+bs))/(s-1) · ∏(ζ(α)=0) (1 - s/α) e^(s/α)
 
 ### Glossary for Riemann's Zeta Function Formula
 
@@ -28,3 +23,19 @@ Posits that the zeta function is only zero for negative even integers and at som
 | a, b   | Constants |
 | ∏      | Product notation |
 | α      | Non-trivial zeros of the zeta function |
+
+- - - -
+
+## Euler's Sine Product Formula
+
+sin(x) = x · ∏(n=1 to ∞) (1 - x²/(n²π²))
+
+### Glossary for Euler's Sine Product Formula
+
+| Symbol | Meaning |
+|--------|---------|
+| sin(x) | Sine function of x |
+| x      | Input variable (angle in radians) |
+| ∏      | Product notation |
+| n      | Index of multiplication, from 1 to infinity |
+| π      | Pi (approximately 3.14159) |
