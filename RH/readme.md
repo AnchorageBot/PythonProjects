@@ -9,6 +9,8 @@ Posits that the zeta function is only zero for negative even integers and at som
 
 - - - -
 
+(Made with Anthropic's AI Claude)
+
 Riemann's Zeta Function Formula
 
 ζ(s) = (e^(a+bs))/(s-1) · ∏(ζ(α)=0) (1 - s/α) e^(s/α)
