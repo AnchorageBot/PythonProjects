@@ -9,11 +9,11 @@ Posits that the zeta function is only zero for negative even integers and at som
 
 - - - -
 
-## Riemann's Zeta Function Formula
+Riemann's Zeta Function Formula
 
 ζ(s) = (e^(a+bs))/(s-1) · ∏(ζ(α)=0) (1 - s/α) e^(s/α)
 
-### Glossary for Riemann's Zeta Function Formula
+Glossary for Riemann's Zeta Function Formula
 
 | Symbol | Meaning |
 |--------|---------|
@@ -26,11 +26,11 @@ Posits that the zeta function is only zero for negative even integers and at som
 
 - - - -
 
-## Euler's Sine Product Formula
+Euler's Sine Product Formula
 
 sin(x) = x · ∏(n=1 to ∞) (1 - x²/(n²π²))
 
-### Glossary for Euler's Sine Product Formula
+Glossary for Euler's Sine Product Formula
 
 | Symbol | Meaning |
 |--------|---------|
