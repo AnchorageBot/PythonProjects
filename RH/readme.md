@@ -26,8 +26,6 @@ Glossary for Riemann's Zeta Function Formula
 | ∏      | Product notation |
 | α      | Non-trivial zeros of the zeta function |
 
-- - - -
-
 Euler's Sine Product Formula
 
 sin(x) = x · ∏(n=1 to ∞) (1 - x²/(n²π²))
@@ -43,6 +41,9 @@ Glossary for Euler's Sine Product Formula
 | π      | Pi (approximately 3.14159) |
 
 - - - -
+
+(Made with Anthropic's AI Claude)
+
 High-level summary of how Euler's Sine Product Formula and Riemann's Zeta Function Formula are related.
 
 In essence, these formulas exemplify how fundamental mathematical functions can be represented as infinite products, revealing deep structures and connections within mathematics. They both play crucial roles in complex analysis, number theory, and our understanding of the interplay between continuous and discrete mathematics.
