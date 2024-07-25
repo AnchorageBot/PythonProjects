@@ -4,11 +4,13 @@ Posits that the zeta function is only zero for negative even integers and at som
 - - - -
 Tutors
 
+* [Anthropic's AI Claude](https://claude.ai/login)
+
+References
+
 * [Bernhard Riemann - Wiki](https://en.wikipedia.org/wiki/Bernhard_Riemann)
 
 * [Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics - John Derbyshire](https://www.goodreads.com/book/show/218392.Prime_Obsession)
-
-* [Anthropic's AI Claude](https://claude.ai/login)
 
 * [The Riemann Hypothesis, Explained - Dr. Alex Kontorovich - Quanta - YouTube](https://youtu.be/zlm1aajH6gY?si=qWrzLEK5SmoNeMjo)
 
