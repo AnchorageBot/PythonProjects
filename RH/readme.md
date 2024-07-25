@@ -4,6 +4,8 @@ Posits that the zeta function is only zero for negative even integers and at som
 - - - -
 Tutors
 
+* [Bernhard Riemann - Wiki](https://en.wikipedia.org/wiki/Bernhard_Riemann)
+
 * [Anthropic's AI Claude](https://claude.ai/login)
 
 * [The Riemann Hypothesis, Explained - Dr. Alex Kontorovich - Quanta - YouTube](https://youtu.be/zlm1aajH6gY?si=qWrzLEK5SmoNeMjo)
