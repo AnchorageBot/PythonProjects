@@ -1,1 +1,3 @@
 [Modeling with Differential and Difference Equations - Glenn Fulford, Peter Forrester, Arthur Jones](https://doi.org/10.1017/CBO9781139172660)
+
+The real world can be modelled using mathematics, and the construction of such models is the theme of this book. The authors concentrate on the techniques used to set up mathematical models and describe many systems in full detail, covering both differential and difference equations in depth. Amongst the broad spectrum of topics studied in this book are: mechanics, genetics, thermal physics, economics and population studies. Any student wishing to solve problems via mathematical modelling will find that this book provides an excellent introduction to the subject.
