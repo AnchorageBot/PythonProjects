@@ -1,1 +1,1 @@
-
+"The system of mechanics devised by Newton in the seventeenth century made it possible to explain, for the first time, motion of both celestial and terrestial objects with the one set of postulates, or laws."
