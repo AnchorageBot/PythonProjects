@@ -1,3 +1,7 @@
+Chapter 1
+
+- - - -
+
 "The aim of mechanics is to explain and predict the motion of bodies. Early in the history of mankind the motion of celestial objects — sun, moon, stars, planets, comets — became a source of curiosity and wonder. At the terrestrial level, questions arising from the motion of falling bodies and of projectiles — whether stones or arrows — attracted the interest of some of the greatest thinkers of antiquity.
 
 The system of mechanics devised by Newton in the seventeenth century made it possible to explain, for the first time, motion of both celestial and terrestrial objects with the one set of postulates, or laws. Newtonian mechanics proved to be one of the most successful mathematical models ever devised and it showed conclusively the value of mathematics in understanding nature. For these reasons, its advent is generally regarded as one of the turning points in the history of human thought.
