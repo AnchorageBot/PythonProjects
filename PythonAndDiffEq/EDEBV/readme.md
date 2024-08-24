@@ -10,7 +10,7 @@ In calculus, Leibniz's notation, named in honor of the 17th-century German philo
 
 - - - -
 
-Leibniz meets [Lagrange -wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation#Lagrange's_notation)
+Leibniz notation meets [Lagrange notation -wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation#Lagrange's_notation)
 
 $\frac{dy}{dx} = f'(x)$
 
