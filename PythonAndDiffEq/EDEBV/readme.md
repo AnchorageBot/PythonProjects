@@ -8,5 +8,8 @@
 
 In calculus, Leibniz's notation, named in honor of the 17th-century German philosopher and mathematician Gottfried Wilhelm Leibniz, uses the symbols dx and dy to represent infinitely small (or infinitesimal) increments of x and y, respectively, just as Δx and Δy represent finite increments of x and y, respectively
 
+- - - -
+
+Leibniz meets [Lagrange -wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation#Lagrange's_notation)
 
 $\frac{dy}{dx} = f'(x)$
