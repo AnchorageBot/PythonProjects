@@ -13,3 +13,7 @@ In calculus, Leibniz's notation, named in honor of the 17th-century German philo
 Leibniz meets [Lagrange -wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation#Lagrange's_notation)
 
 $\frac{dy}{dx} = f'(x)$
+
+- - - -
+
+Joseph-Louis Lagrange (born Giuseppe Luigi Lagrangia or Giuseppe Ludovico De la Grange Tournier; 25 January 1736 – 10 April 1813), also reported as Giuseppe Luigi Lagrange or Lagrangia was an Italian mathematician, physicist and astronomer, later naturalized French. He made significant contributions to the fields of analysis, number theory, and both classical and celestial mechanics.
