@@ -46,6 +46,8 @@ Videos
 
 * [The Essence of Calculus - 3 Blue, 1 Brown](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=QoeIj4TEmHCTNSQB)
 
+* [History of Calculus - Animated - CodeEmporium - YouTube](https://youtu.be/IMj5dgGWxSM?si=nLDMWSSfiPK151Zd)
+
 - - - -
 
 Interactive Development Environment (IDE)
