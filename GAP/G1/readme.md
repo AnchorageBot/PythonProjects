@@ -7,6 +7,9 @@ Hello World
 * [datetime.now(tz=None)](https://docs.python.org/3/library/datetime.html#datetime.datetime.now)
   * Return the current local date and time
 
+* [len(s)](https://docs.python.org/3/library/functions.html#len)
+  * Return the length (the number of items) of an object
+
 * [list.extend(iterable)](https://docs.python.org/3/tutorial/datastructures.html)
   * Add an item to the end of the list. Equivalent to a[len(a):] = [x] 
 
