@@ -9,6 +9,7 @@ Hello World
 * [random.sample(population, k, *, counts=None)](https://docs.python.org/3/library/random.html#random.sample)
 
 * [str.join(iterable)](https://docs.python.org/3/library/stdtypes.html#str.join)
+  * Return a string which is the concatenation of the strings in iterable.
 
 * [zip(*iterables)](https://docs.python.org/3.3/library/functions.html#zip)
   * Make an iterator that aggregates elements from each of the iterables
