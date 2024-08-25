@@ -13,6 +13,9 @@ Hello World
 * [list.extend(iterable)](https://docs.python.org/3/tutorial/datastructures.html)
   * Add an item to the end of the list. Equivalent to a[len(a):] = [x] 
 
+* [random.randrange(start, stop[, step])](https://docs.python.org/3/library/random.html#random.randrange)
+  * Return a randomly selected element from range(start, stop, step) 
+
 * [random.sample(population, k, *, counts=None)](https://docs.python.org/3/library/random.html#random.sample)
   * Return a k length list of unique elements chosen from the population sequence 
 
