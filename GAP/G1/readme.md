@@ -7,6 +7,7 @@ Hello World
 * [list.extend(iterable)](https://docs.python.org/3/tutorial/datastructures.html)
 
 * [random.sample(population, k, *, counts=None)](https://docs.python.org/3/library/random.html#random.sample)
+  * Return a k length list of unique elements chosen from the population sequence 
 
 * [str.join(iterable)](https://docs.python.org/3/library/stdtypes.html#str.join)
   * Return a string which is the concatenation of the strings in iterable.
