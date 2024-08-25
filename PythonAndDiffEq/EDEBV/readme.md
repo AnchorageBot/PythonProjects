@@ -10,7 +10,7 @@ Lagrange notation meets Leibniz notation
 
 - - - -
 
-Joseph-Louis Lagrange (born Giuseppe Luigi Lagrangia or Giuseppe Ludovico De la Grange Tournier; 25 January 1736 – 10 April 1813), also reported as Giuseppe Luigi Lagrange or Lagrangia was an Italian mathematician, physicist and astronomer, later naturalized French. He made significant contributions to the fields of analysis, number theory, and both classical and celestial mechanics.
+[Joseph-Louis Lagrange -wiki](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) (born Giuseppe Luigi Lagrangia or Giuseppe Ludovico De la Grange Tournier; 25 January 1736 – 10 April 1813), also reported as Giuseppe Luigi Lagrange or Lagrangia was an Italian mathematician, physicist and astronomer, later naturalized French. He made significant contributions to the fields of analysis, number theory, and both classical and celestial mechanics.
 
 [Lagrange notation -wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation#Lagrange's_notation)
 
