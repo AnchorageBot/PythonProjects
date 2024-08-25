@@ -13,7 +13,7 @@ Hello World
 * [random.sample(population, k, *, counts=None)](https://docs.python.org/3/library/random.html#random.sample)
   * Return a k length list of unique elements chosen from the population sequence 
 
-* [random.seed(a=None, version=2](https://docs.python.org/3/library/random.html#random.seed)
+* [random.seed(a=None, version=2)](https://docs.python.org/3/library/random.html#random.seed)
   * Initialize the random number generator
 
 * [str.join(iterable)](https://docs.python.org/3/library/stdtypes.html#str.join)
