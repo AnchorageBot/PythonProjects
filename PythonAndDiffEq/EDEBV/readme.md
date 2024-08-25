@@ -6,7 +6,7 @@
 
 [Lagrange notation -wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation#Lagrange's_notation) meets Leibniz notation
 
- f'(x)$ = $\frac{dy}{dx}
+ f'(x) = $\frac{dy}{dx}$
 
 - - - -
 
