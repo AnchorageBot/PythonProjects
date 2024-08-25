@@ -4,9 +4,9 @@
 
 - - - -
 
-Leibniz notation meets [Lagrange notation -wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation#Lagrange's_notation)
+[Lagrange notation -wiki](https://en.wikipedia.org/wiki/Notation_for_differentiation#Lagrange's_notation) meets Leibniz notation
 
-$\frac{dy}{dx} = f'(x)$
+ f'(x)$ = $\frac{dy}{dx}
 
 - - - -
 
