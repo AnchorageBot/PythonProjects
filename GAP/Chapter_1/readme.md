@@ -1,6 +1,7 @@
-Hello World Strategy
+Hello World V1 Strategy
 
-* Define starting gene set
-* Starting guess
-* Evaluate fitness
-* Mutation guess
+* Gene set - define 
+* Guess - random selection
+* Fitness - evalute
+* Guess - mutation initial guess
+* Loop - until target is reached
