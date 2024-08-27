@@ -2,7 +2,7 @@ Glossary
 
 - - - -
 
-Chapter 1 - Hello World 
+Chapter 1 - Hello World - 1st Draft
 
 * [datetime.now(tz=None)](https://docs.python.org/3/library/datetime.html#datetime.datetime.now)
   * Return the current local date and time
