@@ -5,4 +5,4 @@ Hello World - 1st Draft - Strategy
 * Guess - random selection
 * Fitness - evalute
 * Guess - mutate initial guess
-* Loop - until target is reached
+* Loop - stop when target is reached
