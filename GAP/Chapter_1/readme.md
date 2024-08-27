@@ -1,4 +1,4 @@
-Hello World V1 Strategy
+Hello World - 1st Draft - Strategy
 
 * Gene set - define 
 * Guess - random selection
