@@ -28,9 +28,9 @@ AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Cohere RAG](https://cohere.com)
 
-* [Google PaLM2](https://ai.google/discover/palm2/)
-
 * [Google Gemini](https://gemini.google.com)
+
+* [Google PaLM2](https://ai.google/discover/palm2/)
 
 * [Hugging Face Blog](https://huggingface.co/blog)
 
