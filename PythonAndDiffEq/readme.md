@@ -18,9 +18,11 @@ Make explanations ADEPT:
 
 Books
 
-* [Elementary Differential Equations with Boundary Value Problems - William F. Trench - Trinity University](https://digitalcommons.trinity.edu/mono/9/)
+* [Differential Equations, Essential Skills Practice Workbook with Answers - Dr. Chris McMullen](https://www.goodreads.com/book/show/63317661-differential-equations-essential-skills-practice-workbook-with-answers)
 
-* [Student Solutions Manual for Elementary Differential Equations and Elementary Differential Equations with Boundary Value Problems - William F. Trench - Trinity University](https://digitalcommons.trinity.edu/mono/10/)
+* [Elementary Differential Equations with Boundary Value Problems - Dr. William F. Trench - Trinity University](https://digitalcommons.trinity.edu/mono/9/)
+
+  * [Student Solutions Manual for Elementary Differential Equations and Elementary Differential Equations with Boundary Value Problems - William F. Trench - Trinity University](https://digitalcommons.trinity.edu/mono/10/)
 
 * [Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence](https://www.cambridge.org/core/books/mathematical-methods-for-physics-and-engineering/911A43AE1CF224743D32707FCC4AE0EB)
 
