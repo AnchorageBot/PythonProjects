@@ -15,6 +15,13 @@ Make explanations ADEPT:
 
 - - - -
 
+Lagrange notation meets Leibniz notation
+
+ f'(x) = $\frac{dy}{dx}$
+
+ $f^n(x)$ = $\frac{d^ny}{dx^n}$
+
+- - - -
 
 Books
 
