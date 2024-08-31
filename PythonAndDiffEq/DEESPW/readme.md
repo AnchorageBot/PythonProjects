@@ -4,8 +4,10 @@
 
 Lagrange notation meets Leibniz notation
 
+ $f^n(x)$ = $\frac{d^ny}{dx^n}$
+
  f'(x) = $\frac{dy}{dx}$
 
- $f^n(x)$ = $\frac{d^ny}{dx^n}$
+$f"(x)$ = $\frac{d^2y}{dx^2}$
 
 - - - -
