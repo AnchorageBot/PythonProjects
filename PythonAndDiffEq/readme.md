@@ -1,6 +1,6 @@
 Differential equations provide methods for studying dynamic systems (ecology, hydraulics & hydrology, weather, etc.)
 
-Specifically, a differential equation is an equation involving a function (which generally represents physical quantities) and its derivatives (which generally represent the rates of change of the physical quantities). They may be classified as an ordinary differential equation (ODE) or a partial differential equation (PDE) depending upon the number of indepent variables involved in the system.
+Specifically, a differential equation is an equation involving a function (which generally represents physical quantities) and its derivatives (which generally represent the rates of change of the physical quantities). They may be classified as an ordinary differential equation (ODE) or a partial differential equation (PDE) depending upon the number of independent variables involved in the system.
 
 The [Laplace Transform](https://mathworld.wolfram.com/LaplaceTransform.html) may be thought of as a 'swiss army knife' for solving many (but not all) ODEs. 
 
