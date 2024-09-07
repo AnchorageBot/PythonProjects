@@ -15,13 +15,25 @@ Make explanations ADEPT:
 
 - - - -
 
-Lagrange notation meets Leibniz notation
+Lagrange notation meets Leibniz notation for derivatives
 
  $f^n(x)$ = $\frac{d^ny}{dx^n}$
 
  f'(x) = $\frac{dy}{dx}$
 
 $f"(x)$ = $\frac{d^2y}{dx^2}$
+
+Lagrange notation for derivatives of functions with two indepent variables f(x,y)
+
+f' = \frac{\partial f}{\partial x} = f_x
+
+f_t = \frac{\partial f}{\partial y} = f_y
+
+f'' = \frac{\partial^2 f}{\partial x^2} = f_{xx}
+
+f_t' = \frac{\partial^2 f}{\partial y\partial x} = f_{xy}
+
+f_{tt} = \frac{\partial^2 f}{\partial y^2} = f_{yy}
 
 - - - -
 
