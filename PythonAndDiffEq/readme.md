@@ -37,15 +37,15 @@ f_'' = $\frac{\partial^2 f}{\partial y^2}$ = $f_{yy}$
 
 - - - -
 
-f' = $\frac{\partial f}{\partial x}$ = $f_x$
+f<sub>′</sub> = $\frac{\partial f}{\partial x}$ = $f_x$
 
-f'_y = $\frac{\partial f}{\partial y}$ = $f_y$
+f<sub>y</sub> = $\frac{\partial f}{\partial y}$ = $f_y$
 
-f'' = $\frac{\partial^2 f}{\partial x^2}$ = $f_{xx}$
+f<sub>′′</sub> = $\frac{\partial^2 f}{\partial x^2}$ = $f_{xx}$
 
-f'_y = $\frac{\partial^2 f}{\partial y\partial x}$ = $f_{xy}$
+f<sub>xy</sub> = $\frac{\partial^2 f}{\partial y\partial x}$ = $f_{xy}$
 
-f''_y = $\frac{\partial^2 f}{\partial y^2}$ = $f_{yy}$
+f<sub>yy</sub> = $\frac{\partial^2 f}{\partial y^2}$ = $f_{yy}$
 
 - - - -
 
