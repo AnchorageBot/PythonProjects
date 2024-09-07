@@ -15,7 +15,7 @@ Make explanations ADEPT:
 
 - - - -
 
-Lagrange notation meets Leibniz notation for derivatives
+Lagrange notation meets Leibniz notation for derivatives of functions with a single independent variable f(x)
 
  $f^n(x)$ = $\frac{d^ny}{dx^n}$
 
@@ -23,7 +23,7 @@ Lagrange notation meets Leibniz notation for derivatives
 
 $f"(x)$ = $\frac{d^2y}{dx^2}$
 
-Lagrange notation for derivatives of functions with two indepent variables f(x,y)
+Lagrange notation for derivatives of functions with two independent variables f(x,y)
 
 f' = \frac{\partial f}{\partial x} = f_x
 
