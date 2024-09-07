@@ -33,7 +33,7 @@ f<sub>'</sub> = $\frac{\partial f}{\partial y}$ = $f_y$
 
 f<sup>′′</sup> = $\frac{\partial^2 f}{\partial x^2}$ = $f_{xx}$
 
-f<sub>xy</sub> = $\frac{\partial^2 f}{\partial y\partial x}$ = $f_{xy}$
+f<sup>′</sup><sub>'</sub> = $\frac{\partial^2 f}{\partial y\partial x}$ = $f_{xy}$
 
 f<sub>''</sub> = $\frac{\partial^2 f}{\partial y^2}$ = $f_{yy}$
 
