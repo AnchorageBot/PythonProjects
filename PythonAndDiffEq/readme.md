@@ -23,23 +23,11 @@ Lagrange notation meets Leibniz notation for derivatives of functions with a sin
 
 $f"(x)$ = $\frac{d^2y}{dx^2}$
 
-
-
-f' = $\frac{\partial f}{\partial x}$ = $f_x$
-
-f_' = $\frac{\partial f}{\partial y}$ = $f_y$
-
-f'' = $\frac{\partial^2 f}{\partial x^2}$ = $f_{xx}$
-
-f_' ' = $\frac{\partial^2 f}{\partial y\partial x}$ = $f_{xy}$
-
-f_'' = $\frac{\partial^2 f}{\partial y^2}$ = $f_{yy}$
-
 - - - -
 
 Lagrange notation for derivatives of functions with two independent variables f(x,y)
 
-f<sub>′</sub> = $\frac{\partial f}{\partial x}$ = $f_x$
+f<sup>′</sup> = $\frac{\partial f}{\partial x}$ = $f_x$
 
 f<sub>'</sub> = $\frac{\partial f}{\partial y}$ = $f_y$
 
