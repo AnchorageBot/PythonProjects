@@ -31,7 +31,7 @@ f_' = $\frac{\partial f}{\partial y}$ = $f_y$
 
 f'' = $\frac{\partial^2 f}{\partial x^2}$ = $f_{xx}$
 
-f_'_' = $\frac{\partial^2 f}{\partial y\partial x}$ = $f_{xy}$
+f_' ' = $\frac{\partial^2 f}{\partial y\partial x}$ = $f_{xy}$
 
 f_'' = $\frac{\partial^2 f}{\partial y^2}$ = $f_{yy}$
 
