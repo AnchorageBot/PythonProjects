@@ -27,13 +27,13 @@ Lagrange notation for derivatives of functions with two independent variables f(
 
 f' = $\frac{\partial f}{\partial x}$ = f_x
 
-f_t = \frac{\partial f}{\partial y} = f_y
+f_t = $\frac{\partial f}{\partial y}$ = f_y
 
-f'' = \frac{\partial^2 f}{\partial x^2} = f_{xx}
+f'' = $\frac{\partial^2 f}{\partial x^2}$ = f_{xx}
 
-f_t' = \frac{\partial^2 f}{\partial y\partial x} = f_{xy}
+f_t' = $\frac{\partial^2 f}{\partial y\partial x}$ = f_{xy}
 
-f_{tt} = \frac{\partial^2 f}{\partial y^2} = f_{yy}
+f_{tt} = $\frac{\partial^2 f}{\partial y^2}$ = f_{yy}
 
 - - - -
 
