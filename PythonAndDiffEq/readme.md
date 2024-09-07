@@ -25,7 +25,7 @@ $f"(x)$ = $\frac{d^2y}{dx^2}$
 
 Lagrange notation for derivatives of functions with two independent variables f(x,y)
 
-f' = \frac{\partial f}{\partial x} = f_x
+f' = $\frac{\partial f}{\partial x}$ = f_x
 
 f_t = \frac{\partial f}{\partial y} = f_y
 
