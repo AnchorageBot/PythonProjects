@@ -31,7 +31,7 @@ f<sup>′</sup> = $\frac{\partial f}{\partial x}$ = $f_x$
 
 f<sub>'</sub> = $\frac{\partial f}{\partial y}$ = $f_y$
 
-f<sub>′′</sub> = $\frac{\partial^2 f}{\partial x^2}$ = $f_{xx}$
+f<sup>′′</sup> = $\frac{\partial^2 f}{\partial x^2}$ = $f_{xx}$
 
 f<sub>xy</sub> = $\frac{\partial^2 f}{\partial y\partial x}$ = $f_{xy}$
 
