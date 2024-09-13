@@ -17,9 +17,11 @@ Make explanations ADEPT:
 
 Books
 
+* [Calculus: An Intuitive and Physical Approach (Second Edition) - Morris Kline](https://m.doverpublications.com/0486134768.html)
+
 * [Calculus Better Explained - Kalid Azad](https://betterexplained.com/guides/calculus/)
 
-* [Calculus: An Intuitive and Physical Approach (Second Edition) - Morris Kline](https://m.doverpublications.com/0486134768.html)
+* [Calculus with Multiple Variables Essential Skills Workbook: Includes Vector Calculus and Full Solutions - Chris McMullen](https://www.goodreads.com/book/show/58475436-calculus-with-multiple-variables-essential-skills-workbook)
 
 * [Essential Calculus Skills Practice Workbook with Full Solutions - Chris McMullen](https://www.mcleanandeakin.com/book/9781941691243)
 
