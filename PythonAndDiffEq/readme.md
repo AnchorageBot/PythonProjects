@@ -55,6 +55,8 @@ Books
 
 * [Partial Differential Equations in Physics - Arnold Sommerfeld](https://math.unm.edu/~vageli/courses/Ma466/notes1/466/Sommerfeld.pdf)
 
+* [Partial Differential Equations - Victor Ivrii - University of Toronto](https://www.math.utoronto.ca/ivrii/PDE-textbook/contents.html)
+
 * [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
 * [REA's Problem Solvers - Differential Equations](https://books.google.com/books/about/The_Differential_Equations_Problem_Solve.html?id=fROsQofvBzAC)
