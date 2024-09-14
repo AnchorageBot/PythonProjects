@@ -81,7 +81,7 @@ Videos
 
 - - - -
 
-Interactive Development Environment (IDE)
+Interactive Development Environments (IDEs)
 
 * [Google Colab](https://colab.research.google.com)
 
