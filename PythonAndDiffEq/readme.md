@@ -53,9 +53,9 @@ Books
 
 * [No BS Guide to Math & Physics](https://minireference.com)
 
-* [Partial Differential Equations in Physics - Arnold Sommerfeld](https://math.unm.edu/~vageli/courses/Ma466/notes1/466/Sommerfeld.pdf)
+* [Partial Differential Equations - Victor Ivrii - Online Textbook at University of Toronto](https://www.math.utoronto.ca/ivrii/PDE-textbook/contents.html)
 
-* [Partial Differential Equations - Victor Ivrii - University of Toronto](https://www.math.utoronto.ca/ivrii/PDE-textbook/contents.html)
+* [Partial Differential Equations in Physics - Arnold Sommerfeld](https://math.unm.edu/~vageli/courses/Ma466/notes1/466/Sommerfeld.pdf)
 
 * [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
