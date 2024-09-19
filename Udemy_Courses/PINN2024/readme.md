@@ -17,6 +17,8 @@ Equations:
   * [How to solve the heat equation - Tom Rocks Maths - Youtube](https://youtu.be/l6spigOZCOs?si=eVqFOWonBRFnwULo)
  
   * [PDE 101: Separation of Variables! ...or how I learned to stop worrying and solve Laplace's equation - Dr. Steven Brunton - YouTube](https://youtu.be/VjWtMl6vQ3Q?si=d39khuJf8lHKVDXX)
+ 
+  * [Solving the heat equation | DE3 - 3 Blue 1 Brown - YouTube](https://youtu.be/ToIXSwZ1pJU?si=92bOqIUYbk3ljsl0)
 
 * [Burgers Equation - wiki](https://en.wikipedia.org/wiki/Burgers%27_equation)
   * Burgers' equation or Bateman–Burgers equation is a fundamental partial differential equation and convection–diffusion equation occurring in various areas of applied mathematics, such as fluid mechanics, nonlinear acoustics, gas dynamics, and traffic flow.
