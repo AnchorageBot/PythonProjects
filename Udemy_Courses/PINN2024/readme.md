@@ -15,6 +15,8 @@ Equations:
   * As the prototypical parabolic partial differential equation, the heat equation is among the most widely studied topics in pure mathematics, and its analysis is regarded as fundamental to the broader field of partial differential equations. The heat equation can also be considered on Riemannian manifolds, leading to many geometric applications.
  
   * [How to solve the heat equation - Tom Rocks Maths - Youtube](https://youtu.be/l6spigOZCOs?si=eVqFOWonBRFnwULo)
+ 
+  * [PDE 101: Separation of Variables! ...or how I learned to stop worrying and solve Laplace's equation - Dr. Steven Brunton - YouTube](https://youtu.be/VjWtMl6vQ3Q?si=d39khuJf8lHKVDXX)
 
 * [Burgers Equation - wiki](https://en.wikipedia.org/wiki/Burgers%27_equation)
   * Burgers' equation or Bateman–Burgers equation is a fundamental partial differential equation and convection–diffusion equation occurring in various areas of applied mathematics, such as fluid mechanics, nonlinear acoustics, gas dynamics, and traffic flow.
