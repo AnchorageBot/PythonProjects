@@ -68,6 +68,8 @@ Additional examples:
 
 Fun tangents:
 
+* [The Microscopic Trick That Makes Heat Shielding Tiles Work - Scott Manley - YouTube](https://youtu.be/Sm4qoVAgRiw?si=3ccodtrdqgAZCsVP)
+
 * [Differential Equations Series - 3Blue1Brown - 6 videos - YouTube](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=axcbeHA80YDMALhz)
 
 * [Partial Differential Equations Series - Dr. Christopher Lum - YouTube](https://youtube.com/playlist?list=PLxdnSsBqCrrFvek-n1MKhFaDARSdKWPnx&si=MzTnzjGgu_DkYgP0)
