@@ -68,15 +68,15 @@ Additional examples:
 
 Fun tangents:
 
-* [The Microscopic Trick That Makes Heat Shielding Tiles Work - Scott Manley - YouTube](https://youtu.be/Sm4qoVAgRiw?si=3ccodtrdqgAZCsVP)
-
 * [Differential Equations Series - 3Blue1Brown - 6 videos - YouTube](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&si=axcbeHA80YDMALhz)
 
 * [Partial Differential Equations Series - Dr. Christopher Lum - YouTube](https://youtube.com/playlist?list=PLxdnSsBqCrrFvek-n1MKhFaDARSdKWPnx&si=MzTnzjGgu_DkYgP0)
 
 * [Partial Differential Equations Related to Fluid Mechanics - Dr. Eduard Feireisl - YouTube](https://youtu.be/qIxVvecPSbc?si=97Gy2Zw02wJXeDV1)
 
-* [Analysis of open fluid systems with uncertain data - Dr. Eduard Feireisl - YouTube](https://youtu.be/izHpSwQPdVQ?si=jVz9x5HJSBQNI1JU)
+  * [Analysis of open fluid systems with uncertain data - Dr. Eduard Feireisl - YouTube](https://youtu.be/izHpSwQPdVQ?si=jVz9x5HJSBQNI1JU)
+
+* [The Microscopic Trick That Makes Heat Shielding Tiles Work - Scott Manley - YouTube](https://youtu.be/Sm4qoVAgRiw?si=3ccodtrdqgAZCsVP)
 
 - - - -
  
