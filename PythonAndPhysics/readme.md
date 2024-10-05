@@ -16,4 +16,5 @@ YouTube Lectures
 
 [Angles of Inclined Planes - Alex - YouTube](https://youtu.be/yr1B7xNxE0Q?si=KbiP2G8QaBhafHf9)
 
-* 
+* Transversal lines
+* Two angles are considered complementary if their measures add up to 90 degrees.
