@@ -1,5 +1,7 @@
 YouTube Lectures
 
+- - - -
+
 [To Master Physics, First Master the Harmonic Oscillator - Physics with Elliot - YouTube](https://youtu.be/bmGqhM-tUk4?si=O2vY8m2jhTny7gOF)
 
 [Angles: Corresponding, Alternate Interior, Alternate Exterior Angles and Transversal Lines - FerranteMath - YouTube](https://youtu.be/00Mwp2W8jnU?si=a8klJi4xD54f_NN6)
