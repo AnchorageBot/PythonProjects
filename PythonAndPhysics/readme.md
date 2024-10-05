@@ -7,3 +7,13 @@ AI Tutors
 
 The Physics Problem Solver: REA
 * Edited by Dr. M Fogiel
+
+- - - -
+
+YouTube Lectures
+
+[To Master Physics, First Master the Harmonic Oscillator - Physics with Elliot - YouTube](https://youtu.be/bmGqhM-tUk4?si=O2vY8m2jhTny7gOF)
+
+[Angles of Inclined Planes - Alex - YouTube](https://youtu.be/yr1B7xNxE0Q?si=KbiP2G8QaBhafHf9)
+
+* 
