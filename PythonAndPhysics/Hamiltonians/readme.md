@@ -4,4 +4,8 @@ A simple interpretation of Hamiltonian mechanics comes from its application on a
 
 In quantum mechanics, the Hamiltonian of a system is an operator corresponding to the total energy of that system, including both kinetic energy and potential energy. Its spectrum, the system's energy spectrum or its set of energy eigenvalues, is the set of possible outcomes obtainable from a measurement of the system's total energy.
 
+- - - -
 
+YouTube Lectures
+
+[To Master Physics, First Master the Harmonic Oscillator - Physics with Elliot - YouTube](https://youtu.be/bmGqhM-tUk4?si=O2vY8m2jhTny7gOF)
