@@ -13,3 +13,5 @@ YouTube Lectures
 * Supplementary angle adds up to 180 degrees
 
 [Blocks Sliding Down Ramps, and All That: Physics Help Room - Physics with Elliot - YouTube](https://youtu.be/zHSOKywdvjw?si=t7KGdk0bsds18Alh)
+
+[Block on an Incline: Newtonian, Lagrangain and Hamiltonian Solutions - Dot Physics - YouTube](https://youtu.be/MJrnUNwEe4g?si=rzgS2RR191zITTEd)
