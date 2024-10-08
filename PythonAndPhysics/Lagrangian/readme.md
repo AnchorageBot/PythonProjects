@@ -8,3 +8,5 @@ L within that space called a Lagrangian. For many systems, L = T − V, where T 
 YouTube Lectures
 
 [To Master Physics, First Master the Harmonic Oscillator - Physics with Elliot - YouTube](https://youtu.be/bmGqhM-tUk4?si=O2vY8m2jhTny7gOF)
+
+[The Lagrangian - Khan Academy- YouTube](https://youtu.be/hQ4UNu1P2kw?si=wuyil6ENfIhgNj70)
