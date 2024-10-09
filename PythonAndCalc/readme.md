@@ -50,6 +50,8 @@ Videos
 
 * [History of Calculus - Animated - CodeEmporium - YouTube](https://youtu.be/IMj5dgGWxSM?si=nLDMWSSfiPK151Zd)
 
+* [Multi-variable Calculus - Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
+
 - - - -
 
 Interactive Development Environment (IDE)
