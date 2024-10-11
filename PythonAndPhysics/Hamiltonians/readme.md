@@ -9,3 +9,5 @@ In quantum mechanics, the Hamiltonian of a system is an operator corresponding t
 YouTube Lectures
 
 [To Master Physics, First Master the Harmonic Oscillator - Physics with Elliot - YouTube](https://youtu.be/bmGqhM-tUk4?si=O2vY8m2jhTny7gOF)
+
+[Advanced Dynamics - Hamiltonian Systems and Nonlinear Dynamics - Dr. Shane Ross - YouTube](https://youtube.com/playlist?list=PLUeHTafWecAVCauQ541UBrfGqHQwuHq_2&si=ez2KAyoA5Nm-1YbE)
