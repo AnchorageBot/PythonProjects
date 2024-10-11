@@ -25,7 +25,7 @@ $f''(x)$ = $\frac{d^2y}{dx^2}$ (second derivative)
 
 - - - -
 
-Lagrange notation for partial derivatives of functions with two variables f(x,y) - independent and dependent 
+Lagrange notation for partial derivatives of functions with two variables f(x,y)  
 
 f<sup>′</sup> = $\frac{\partial f}{\partial x}$ = $f_x$ (first partial derivative with respect to x)
 
