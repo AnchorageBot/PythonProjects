@@ -70,6 +70,8 @@ Courses
 
 Videos
 
+*[All the TRIG you need for calculus actually explained - Dr. Trefor Bazett - YouTube](https://youtu.be/e7QjCL7lQM4?si=l72sEQjNvdUzAVgQ)
+
 * [The Essence of Calculus - 3 Blue, 1 Brown - YouTube](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=QoeIj4TEmHCTNSQB)
 
 * [History of Calculus - Animated - CodeEmporium - YouTube](https://youtu.be/IMj5dgGWxSM?si=nLDMWSSfiPK151Zd)
