@@ -10,13 +10,6 @@ The PID control algorithm is defined as:
 u(t) = Kp * e(t) + Ki * ∫e(τ)dτ + Kd * de(t)/dt
 ```
 
-Where:
-- `u(t)` is the control signal
-- `e(t)` is the error signal (difference between setpoint and measured process variable)
-- `Kp` is the proportional gain
-- `Ki` is the integral gain
-- `Kd` is the derivative gain
-
 ## Glossary of Terms and Symbols
 
 | Term/Symbol | Description |
