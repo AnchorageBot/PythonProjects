@@ -4,7 +4,9 @@ Control Theory
 
 # PID (Proportional-Integral-Derivative) Control Algorithm
 
-The PID control algorithm is defined as:
+Output ~ Error now + Errors past + Error future
+
+The PID control algorithm is formally defined as:
 
 ```
 u(t) = Kp * e(t) + Ki * ∫e(τ)dτ + Kd * de(t)/dt
