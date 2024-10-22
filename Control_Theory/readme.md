@@ -31,5 +31,8 @@ u(t) = Kp * e(t) + Ki * ∫e(τ)dτ + Kd * de(t)/dt
 | Settling Time | Time taken for the system to reach and stay within a specified range of its final value |
 
 - - - -
+Lectures
 
-[What is a PID Controller? | DigiKey - Shawn Hymel - YouTube](https://youtu.be/tFVAaUcOm4I?si=Z2U_stCSXwVZDC8v)
+* [What is a PID Controller? | DigiKey - Shawn Hymel - YouTube](https://youtu.be/tFVAaUcOm4I?si=Z2U_stCSXwVZDC8v)
+
+* [PID Controller Basics for Beginners - YouTube](https://youtube.com/playlist?list=PLln3BHg93SQ_Ejn6godXbxromegXSMYOl&si=V3rPZRMiMtk2jlkb)
