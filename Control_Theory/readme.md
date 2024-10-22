@@ -41,4 +41,8 @@ Lectures
 
 * [PID Controller Basics for Beginners - RealPars - YouTube](https://youtube.com/playlist?list=PLln3BHg93SQ_Ejn6godXbxromegXSMYOl&si=V3rPZRMiMtk2jlkb)
 
+* [EEVacademy #6 - PID Controllers Explained - EEVBlog - YouTube](https://youtu.be/VVOi2dbtxC0?si=TrsaRtYvVDxNWW4A)
+
 * [PID Math Demystified - Scott Hayes - YouTube](https://youtu.be/JEpWlTl95Tw?si=-HeIVarZ4614TvjI)
+
+* [Process Control - ABB Process Automation - Youtube](https://youtube.com/playlist?list=PLOgEb39vsYlu2WFdWSe5kvOtmJyC-ew2e&si=sVZRDJyVjkxGjApu)
