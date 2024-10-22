@@ -36,3 +36,5 @@ Lectures
 * [What is a PID Controller? | DigiKey - Shawn Hymel - YouTube](https://youtu.be/tFVAaUcOm4I?si=Z2U_stCSXwVZDC8v)
 
 * [PID Controller Basics for Beginners - RealPars - YouTube](https://youtube.com/playlist?list=PLln3BHg93SQ_Ejn6godXbxromegXSMYOl&si=V3rPZRMiMtk2jlkb)
+
+* [PID Math Demystified - Scott Hayes - YouTube](https://youtu.be/JEpWlTl95Tw?si=-HeIVarZ4614TvjI)
