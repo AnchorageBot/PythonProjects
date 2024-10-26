@@ -9,3 +9,5 @@ Software
   * [GNU Octave - Software](https://octave.org)
 
 * [Simulink - Wiki](https://en.wikipedia.org/wiki/Simulink)
+
+  * [Simulink - Software](https://www.mathworks.com/products/simulink.html) 
