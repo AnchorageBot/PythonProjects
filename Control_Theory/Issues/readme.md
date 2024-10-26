@@ -4,4 +4,6 @@ Lectures
 
 Software
 
+* [GNU Octave - Wiki](https://en.wikipedia.org/wiki/GNU_Octave)
+
 * [Simulink - Wiki](https://en.wikipedia.org/wiki/Simulink)
