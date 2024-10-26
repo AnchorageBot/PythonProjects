@@ -45,7 +45,7 @@ Lectures
 
 * [PID Math Demystified - Scott Hayes - YouTube](https://youtu.be/JEpWlTl95Tw?si=-HeIVarZ4614TvjI)
 
-* [Model Predictive Control - Matlab - YouTube](https://youtube.com/playlist?list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8&si=tfHPqkg0x1DLSV03)
+* [Model Predictive Control - Melda Ulusoy - Matlab - YouTube](https://youtube.com/playlist?list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8&si=tfHPqkg0x1DLSV03)
 
 * [Process Control - ABB Process Automation - Youtube](https://youtube.com/playlist?list=PLOgEb39vsYlu2WFdWSe5kvOtmJyC-ew2e&si=sVZRDJyVjkxGjApu)
 
