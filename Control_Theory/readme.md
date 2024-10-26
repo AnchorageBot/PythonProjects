@@ -50,3 +50,5 @@ Lectures
 * [Process Control - ABB Process Automation - Youtube](https://youtube.com/playlist?list=PLOgEb39vsYlu2WFdWSe5kvOtmJyC-ew2e&si=sVZRDJyVjkxGjApu)
 
 * [Control Theory - Dr. Christopher Lum - YouTube Series](https://youtube.com/playlist?list=PLxdnSsBqCrrF9KOQRB9ByfB0EUMwnLO9o&si=YD9heLwmICGmtP7i)
+
+* [Control Bootcamp - Dr. Steve Brunton - YouYube Series](https://youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m&si=sAmqICCVzvLvzMQE)
