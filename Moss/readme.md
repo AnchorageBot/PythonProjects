@@ -2,6 +2,8 @@
 
 Botanically, mosses are non-vascular plants in the land plant division Bryophyta. They are usually small (a few centimeters tall) herbaceous (non-woody) plants that absorb water and nutrients mainly through their leaves and harvest carbon dioxide and sunlight to create food by photosynthesis
 
+Male and female fire moss, for example emit different and complex volatile organic scents
+
 - - - -
 
 Google Search References:
