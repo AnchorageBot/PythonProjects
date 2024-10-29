@@ -9,5 +9,6 @@ Provided References
   * Confirmed reference; [Cambridge University Press, ISBN 9781139171304](
 https://doi.org/10.1017/CBO9781139171304)
 * "Evolution of Land Plants" by J.L. Morris et al. (2018) in PNAS - Details early plant evolution including moss emergence
+  * [The timescale of early land plant evolution, JL Morris et al, February 20, 2018, PNAS 115 (10) E2274-E2283](https://doi.org/10.1073/pnas.171958811)
 * Research on moss chemical signaling by Sarah Eppard and Dale Kruse at Texas A&M University
 * Studies on Arctic/Subarctic moss adaptations by William R. Buck at the New York Botanical Garden
