@@ -16,4 +16,5 @@ https://doi.org/10.1017/CBO9781139171304)
     * Mosses, liverworts, and hornworts (bryophytes)
     * [Texas Bryology Website](https://www.texasbryology.com)
 * Studies on Arctic/Subarctic moss adaptations by William R. Buck at the New York Botanical Garden
-  * [William R. Buck PhD, Curator Emeritus, New York Botanical Garden](https://www.nybg.org/person/william-buck/) 
+  * [William R. Buck PhD, New York Botanical Garden](https://www.nybg.org/person/william-buck/)
+    * Curator Emeritus, New York Botanical Garden 
