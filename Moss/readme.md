@@ -19,3 +19,4 @@ https://doi.org/10.1017/CBO9781139171304)
   * [William R. Buck PhD, New York Botanical Garden](https://www.nybg.org/person/william-buck/)
     * Curator Emeritus, New York Botanical Garden
     * Pleurocarpus mosses
+    * The Bryologist, JSTOR
