@@ -4,6 +4,8 @@ Cross Checked References:
 
 Provided References
 * "Bryophyte Biology" by Bernard Goffinet and A. Jonathan Shaw - This comprehensive text covers moss evolution, physiology, and ecology
+  * Confirmed reference; [Cambridge University Press, ISBN 9781139171304](
+https://doi.org/10.1017/CBO9781139171304)
 * "Evolution of Land Plants" by J.L. Morris et al. (2018) in PNAS - Details early plant evolution including moss emergence
 * Research on moss chemical signaling by Sarah Eppard and Dale Kruse at Texas A&M University
 * Studies on Arctic/Subarctic moss adaptations by William R. Buck at the New York Botanical Garden
