@@ -2,6 +2,8 @@ The Laplace Transform converts time-domain functions into frequency-domain funct
 
 F(s) = ∫[0 to ∞] f(t)e^(-st)dt
 
+$$F(s) = \int_{0}^{\infty} f(t)e^{-st}dt$$
+
 - - - -
 * V1 Notebooks: Control Systems: Essential for analyzing system stability, frequency response, and transfer functions
 * V2 Notebooks: Electrical Circuit Analysis: Converting complex circuits with inductors and capacitors into simpler algebraic problems
