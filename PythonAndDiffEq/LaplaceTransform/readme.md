@@ -1,7 +1,5 @@
 The Laplace Transform converts time-domain functions into frequency-domain functions, simplifying differential equations into algebraic equations.
 
-F(s) = ∫[0 to ∞] f(t)e^(-st)dt
-
 $$F(s) = \int_{0}^{\infty} f(t)e^{-st}dt$$
 
 - - - -
