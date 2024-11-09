@@ -69,7 +69,7 @@ Study Guides
 
 * [Ordinary Differential Equations for Engineers - Stanford's CME 102 - Afshine Amidi, Shervine Amidi](https://stanford.edu/~shervine/teaching/cme-102/)
 
-Videos
+Video Lectures - YouTube
 
 * [A tour of differential equations - 3 Blue, 1 Brown](https://www.3blue1brown.com/topics/differential-equations)
 
