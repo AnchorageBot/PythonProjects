@@ -2,6 +2,16 @@ The Laplace Transform converts time-domain functions into frequency-domain funct
 
 $$F(s) = \int_{0}^{\infty} f(t)e^{-st}dt$$
 
+
+| Symbol/Term | Description |
+|------------|-------------|
+| F(s) | Output function in frequency/complex domain (transform result) |
+| f(t) | Input function in time domain |
+| s | Complex frequency parameter (s = σ + jω) |
+| t | Time variable |
+| e | Euler's number (≈ 2.71828) |
+| ∫[0 to ∞] | Definite integral from 0 to infinity |
+| e^(-st) | Exponential kernel/transformation factor |
 - - - -
 
 Tutor: Anthropic's AI, Claude
