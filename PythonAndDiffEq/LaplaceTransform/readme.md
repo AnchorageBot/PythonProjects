@@ -12,3 +12,12 @@ Tutor: Anthropic's AI, Claude
 * V2 Notebooks: Electrical Circuit Analysis: Converting complex circuits with inductors and capacitors into simpler algebraic problems
 * V3 Notebooks: Signal Processing: Handling input signals, especially discontinuous or periodic functions
 * V4 Notebooks: Feedback Systems: Analyzing system response to different inputs and disturbances
+
+- - - -
+
+Equation formating:
+
+* GitHub markdown: Uses single $ for inline and double $$ for display math, but not all GitHub views render it
+* Google Colab: Fully supports LaTeX in markdown cells with $ and $$
+* Jupyter notebooks: Same as Colab
+* GitHub README files: Often people include an SVG or PNG of the equation since LaTeX isn't consistently rendered
