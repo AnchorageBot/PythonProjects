@@ -57,6 +57,8 @@ Books
 
 * [Python Programming and Numerical Methods: A Guide For Engineers and Scientists - Kong, et al](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
+* [REA's Problem Solvers - Calculus](https://www.librarything.com/nseries/27494/REA-Problem-Solvers)
+
 * [Stochastic Calculus for Finance I
 The Binomial Asset Pricing Model - Steven E. Shreve](https://link.springer.com/book/10.1007/978-0-387-22527-2)
 
