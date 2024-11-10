@@ -5,7 +5,7 @@ AI Tutors
 
 - - - -
 
-The Physics Problem Solver: REA
+[The Physics Problem Solver: REA](https://www.librarything.com/nseries/27494/REA-Problem-Solvers)
 * Edited by Dr. M Fogiel
 
 - - - -
