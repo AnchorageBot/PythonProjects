@@ -9,4 +9,8 @@ Day 1
   * The transformer architecture is the basis for all modern-day LLMs. Across the various
     architectures mentioned in this whitepaper we see that it’s important not only to add more
     parameters to the model, but the composition of the dataset is equally important.
-  * 
+  * The order and strategies used for fine-tuning is important and may include multiple steps
+    such as Instruction Tuning, Safety Tuning, etc. Supervised Fine Tuning (SFT) is important
+    in capturing the essence of a task. RLHF, and potentially RLAIF, can be used to shift the
+    distribution from the pretraining distribution to a more desired one through the power of
+    the reward function, that can reward desirable behaviors and penalize undesirable ones.
