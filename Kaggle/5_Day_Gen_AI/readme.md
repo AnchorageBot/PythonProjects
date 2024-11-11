@@ -1,4 +1,4 @@
-5-Day Gen AI Intensive Course
+[5-Day Gen AI Intensive Course](https://rsvp.withgoogle.com/events/google-generative-ai-intensive)
 
 - - - -
 
