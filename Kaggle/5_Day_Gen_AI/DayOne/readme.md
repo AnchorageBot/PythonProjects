@@ -14,3 +14,7 @@ Day 1
     in capturing the essence of a task. RLHF, and potentially RLAIF, can be used to shift the
     distribution from the pretraining distribution to a more desired one through the power of
     the reward function, that can reward desirable behaviors and penalize undesirable ones.
+  * Making inference from neural models efficient is an important problem and an active
+    field of research. Many methods exist to reduce serving costs and latency with minimal
+    impact to model performance, and some exact acceleration methods guarantee identical
+    model outputs.
