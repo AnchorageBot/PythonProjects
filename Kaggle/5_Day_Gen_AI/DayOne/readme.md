@@ -31,3 +31,7 @@ Day 1
     Top-K, Top-P, and Max decoding steps to find the optimum mix of correctness, diversity,
     and creativity required for the task at hand.
   * [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+
+- - - -
+An enum, or enumerated type, is a data type that consists of a set of named values, or elements, that are used to represent a choice from a set of mutually exclusive values.
+* enum Season { Spring, Summer, Autumn, Winter }
