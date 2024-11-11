@@ -33,5 +33,9 @@ Day 1
   * [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
 
 - - - -
+
+Attention is a machine learning method that determines the relative importance of each component in a sequence relative to the other components in that sequence. In natural language processing, importance is represented by "soft" weights assigned to each word in a sentence. More generally, attention encodes vectors called token embeddings across a fixed-width sequence that can range from tens to millions of tokens in size.
+
+- - - -
 An enum, or enumerated type, is a data type that consists of a set of named values, or elements, that are used to represent a choice from a set of mutually exclusive values.
 * enum Season { Spring, Summer, Autumn, Winter }
