@@ -18,3 +18,13 @@ Day 1
     field of research. Many methods exist to reduce serving costs and latency with minimal
     impact to model performance, and some exact acceleration methods guarantee identical
     model outputs.
+  * Large language models can be used for a variety of tasks including summarization,
+    translation, question answering, chat, code generation, and many more. You can
+    create your own tasks using the Vertex and Makersuite text generation services which
+    leverage Google’s latest language models. After the model has been trained and tuned,
+    it is important to experiment with engineering prompts. You should use the technique
+    most appropriate for the task-at-hand because LLMs can be sensitive to prompts k.
+    Furthermore, it is also possible to enhance task specific performance or creativity and
+    diversity by tweaking the parameters corresponding to sampling techniques such as
+    Top-K, Top-P, and Max decoding steps to find the optimum mix of correctness, diversity,
+    and creativity required for the task at hand.
