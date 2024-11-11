@@ -1,6 +1,6 @@
 Day 1
 
-* [[Testing LIVE] 5-Day Gen AI Intensive Course with Google](https://www.youtube.com/live/LBZWDiZU8H4?si=GaFQAhNwyFccUBaC)
+* [[Testing LIVE] 5-Day Gen AI Intensive Course with Google - YouTube](https://www.youtube.com/live/LBZWDiZU8H4?si=GaFQAhNwyFccUBaC)
 
 * Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
 
