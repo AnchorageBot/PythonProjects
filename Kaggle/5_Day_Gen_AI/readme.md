@@ -7,6 +7,7 @@ Tools
 * [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 * Google's OpenAI Model, Gemma
 * Google Cloud Vertex AI
+* TensorFlow Hub
 
 - - - -
 
