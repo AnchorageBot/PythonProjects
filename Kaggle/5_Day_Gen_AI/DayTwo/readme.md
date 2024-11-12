@@ -9,3 +9,8 @@ Day 2
 Readings
 
 * [Embeddings & Vector Stores](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
+  * Understanding Embeddings: Why they are essential for handling multimodal data and their diverse applications.
+  * Embedding Techniques: Methods for mapping different data types into a common vector space.
+Efficient Management: Techniques for storing, retrieving, and searching vast collections of embeddings.
+Vector Databases: Specialized systems for managing and querying embeddings, including practical considerations for production deployment.
+Real-World Applications: Concrete examples of how embeddings and vector databases are combined with large language models (LLMs) to solve real-world problems.
