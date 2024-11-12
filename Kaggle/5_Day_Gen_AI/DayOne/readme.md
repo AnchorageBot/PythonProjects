@@ -31,6 +31,7 @@ Day 1
     Top-K, Top-P, and Max decoding steps to find the optimum mix of correctness, diversity,
     and creativity required for the task at hand.
   * [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
+    * [Whitepaper Companion Podcast - Prompt Engineering](https://youtu.be/F_hJ2Ey4BNc?si=wMn_Z0a7KZaUvxZV) 
 
 - - - -
 
