@@ -8,6 +8,7 @@ Tools
 * Google's OpenAI Model, Gemma
 * Google Cloud Vertex AI
 * TensorFlow Hub
+* Word2Vec family of model architectures
 
 - - - -
 
