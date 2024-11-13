@@ -1,6 +1,6 @@
 Day 1
 
-* [Day 2 Livestream with Paige Bailey – 5-Day Gen AI Intensive Course | Kaggle](https://www.youtube.com/live/86GZC56rQCc?si=DbYJe8mzo4YwS_r4)
+* 
 
 * Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction.
 
