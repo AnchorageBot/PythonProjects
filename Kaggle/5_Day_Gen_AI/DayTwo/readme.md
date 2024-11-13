@@ -9,6 +9,7 @@ Day 2
 Code lab assignments
 * Day 2 - Document Q&A with RAG
 * Day 2 - Embeddings and similarity scores
+* Day 2 - Classifying embeddings with Keras
 
 - - - -
 
