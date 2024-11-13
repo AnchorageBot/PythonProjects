@@ -6,6 +6,10 @@ Day 2
 
 - - - -
 
+Code lab assignments
+
+- - - -
+
 Readings
 
 * [Embeddings & Vector Stores](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)
