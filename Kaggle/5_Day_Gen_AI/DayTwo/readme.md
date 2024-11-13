@@ -7,6 +7,7 @@ Day 2
 - - - -
 
 Code lab assignments
+* Day 2 - Document Q&A with RAG
 
 - - - -
 
