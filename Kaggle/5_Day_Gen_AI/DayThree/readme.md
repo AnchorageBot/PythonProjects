@@ -10,13 +10,13 @@ Day 3 - “Generative AI Agents”
 
 Code labs
 * Talk to a database with function calling
-  * Build an agentic ordering system in LangGraph
-  * In its most fundamental form, a Generative AI agent can be defined as an application that
-    attempts to achieve a goal by observing the world and acting upon it using the tools that it
-    has at its disposal.
+* Build an agentic ordering system in LangGraph
 
 - - - -
 
 Reading
 * [Agents](https://www.kaggle.com/whitepaper-agents)
-* [Whitepaper Companion Podcast - Agents | 5-Day Gen AI Intensive Course with Google](https://youtu.be/H4gZd4BCrDQ?si=L-11Mj9PdYYQKoao)
+  * [Whitepaper Companion Podcast - Agents | 5-Day Gen AI Intensive Course with Google](https://youtu.be/H4gZd4BCrDQ?si=L-11Mj9PdYYQKoao)
+  * In its most fundamental form, a Generative AI agent can be defined as an application that
+    attempts to achieve a goal by observing the world and acting upon it using the tools that it
+    has at its disposal.
