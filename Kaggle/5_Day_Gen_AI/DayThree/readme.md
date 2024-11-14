@@ -20,5 +20,10 @@ Reading
   * In its most fundamental form, a Generative AI agent can be defined as an application that
     attempts to achieve a goal by observing the world and acting upon it using the tools that it
     has at its disposal.
+  * In the scope of an agent, a model refers to the language model (LM) that will be utilized as
+    the centralized decision maker for agent processes.
   * The model used by an agent can be one or multiple LM’s of any size (small / large) that are capable of following instruction based
     reasoning and logic frameworks, like ReAct, Chain-of-Thought, or Tree-of-Thoughts.
+  * Tools can take a variety of forms and have varying depths of complexity, but typically align with common web API methods like GET, POST,
+    PATCH, and DELETE. For example, a tool could update customer information in a database or fetch weather data to influence a travel
+    recommendation that the agent is providing to the user.
