@@ -10,6 +10,7 @@ Tools
 * TensorFlow Hub
 * Word2Vec family of model architectures
 * Chroma vector database
+* LangChain
 
 - - - -
 
