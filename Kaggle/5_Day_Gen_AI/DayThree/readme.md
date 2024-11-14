@@ -20,3 +20,5 @@ Reading
   * In its most fundamental form, a Generative AI agent can be defined as an application that
     attempts to achieve a goal by observing the world and acting upon it using the tools that it
     has at its disposal.
+  * The model used by an agent can be one or multiple LM’s of any size (small / large) that are capable of following instruction based
+    reasoning and logic frameworks, like ReAct, Chain-of-Thought, or Tree-of-Thoughts.
