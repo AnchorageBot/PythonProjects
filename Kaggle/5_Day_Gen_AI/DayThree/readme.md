@@ -26,7 +26,7 @@ Reading
     reasoning and logic frameworks, like ReAct, Chain-of-Thought, or Tree-of-Thoughts.
   * Tools can take a variety of forms and have varying depths of complexity, but typically align with common web API methods like GET, POST,
     PATCH, and DELETE. For example, a tool could update customer information in a database or fetch weather data to influence a travel
-    recommendation that the agent is providing to the user.
+    recommendation that the agent is providing to the user. Functions, Extensions, Data Stores and Plugins are additional examples.
   * The orchestration layer describes a cyclical process that governs how the agent takes in
     information, performs some internal reasoning, and uses that reasoning to inform its next
     action or decision.
