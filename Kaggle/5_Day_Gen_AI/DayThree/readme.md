@@ -9,6 +9,8 @@ Day 3 - “Generative AI Agents”
 - - - -
 
 Code labs
+* Talk to a database with function calling
+* Build an agentic ordering system in LangGraph
 
 - - - -
 
