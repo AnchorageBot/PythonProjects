@@ -7,8 +7,8 @@ Day 2
 - - - -
 
 Code lab assignments
-* Document Q&A with RAG
-* Embeddings and similarity scores
+* Document Q&A with RAG (.ipynb file in this folder)
+* Embeddings and similarity scores (.ipynb file in this folder)
 * Classifying embeddings with Keras
 
 - - - -
