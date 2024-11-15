@@ -55,6 +55,8 @@ ML (Machine Learning) Resources
 
 * [scikit-learn](https://scikit-learn.org/0.19/index.html)
 
+* [scikit-learn cheatsheet](https://scikit-learn.org/stable/machine_learning_map.html)
+
 - - - - 
 
 IDEs (Integrated Development Environments)
