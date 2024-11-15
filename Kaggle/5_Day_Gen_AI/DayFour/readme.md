@@ -6,3 +6,9 @@ Day 4 - Domain-Specific LLM
 * In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
 
 - - - -
+
+Code labs
+
+- - - -
+
+Reading
