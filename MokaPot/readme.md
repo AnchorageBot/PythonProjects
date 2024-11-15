@@ -53,6 +53,8 @@ ML (Machine Learning) Resources
 
 * [Kaggle ML](https://www.kaggle.com/learn)
 
+* [scikit-learn](https://scikit-learn.org/0.19/index.html)
+
 - - - - 
 
 IDEs (Integrated Development Environments)
