@@ -15,3 +15,4 @@ Code labs
 
 Reading
 * [Solving Domain-Specific Problems Using LLMs](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
+  * [Whitepaper Companion Podcast - Solving Domain-Specific Problems Using LLMs](https://youtu.be/b1a4ZOQ8XdI?si=X_p_ygPOz0j8Kvef) 
