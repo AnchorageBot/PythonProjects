@@ -8,6 +8,8 @@ Day 4 - Domain-Specific LLM
 - - - -
 
 Code labs
+ * Use Google Search data in generation
+ * Tune a Gemini model for a custom task
 
 - - - -
 
