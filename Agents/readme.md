@@ -2,6 +2,8 @@ Agents
 
 - - - -
 Examples
+* Data-mining agents
+  * Finds trends and patterns 
 * Monitoring and predicting agents
   * Monitors inventory, plans, and schedules equipment orders to keep costs down
 * Personal agents
