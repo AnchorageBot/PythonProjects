@@ -20,3 +20,8 @@ Concepts (thank you wikipedia)
 
 - - - -
 How-to
+* Function calls
+
+- - - -
+
+Dire straits- telegraph road
