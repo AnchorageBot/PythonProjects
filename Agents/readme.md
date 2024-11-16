@@ -22,7 +22,7 @@ Concepts (thank you wikipedia)
 How-to
 * Adapt foundation models (FMs) to specific use case(s)
   * Anthropic Claude 3 Haiku
-  * Google Gemma, Gemmini
+  * Google Gemma, Gemini
   * OpenAI GPT-4o mini
 * Function calls
   * Allow models to connect to external tools, such as APIs or user defined functions 
