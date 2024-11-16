@@ -21,6 +21,8 @@ Concepts (thank you wikipedia)
 - - - -
 How-to
 * Adapt foundation models (FMs) to specific use case(s)
+  * Anthropic Claude 3 Haiku
+  * Google Gemma 
 * Function calls
 
 - - - -
