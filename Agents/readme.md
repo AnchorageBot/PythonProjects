@@ -4,7 +4,7 @@ Agents (bots)
 * May be described schematically as an abstract functional system similar to a computer program
 
 - - - -
-Examples
+Examples - Concepts
 * Data-mining agents
   * Find trends and patterns 
 * Monitoring and predicting agents
@@ -17,3 +17,6 @@ Examples
 * Shopping agents
   * Retrive information about goods and services and are optimized to allow for digital payment services
 * Software dev agents 
+
+- - - -
+How-to
