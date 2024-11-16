@@ -10,7 +10,7 @@ Day 3 - “Generative AI Agents”
 
 Code labs
 * Talk to a database with function calling (.ipynb file in this folder)
-* Build an agentic ordering system in LangGraph
+* Build an agentic ordering system in LangGraph (.ipynb file in this folder)
 
 - - - -
 
