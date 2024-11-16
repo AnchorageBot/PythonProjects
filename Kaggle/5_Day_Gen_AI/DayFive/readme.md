@@ -4,6 +4,7 @@ Day 5 - MLOps for Generative AI
 - - - -
 
 Code labs
+* [End-to-End Gen AI App Starter Pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack)
 
 - - - -
 
