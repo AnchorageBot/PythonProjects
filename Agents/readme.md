@@ -2,6 +2,8 @@ Agents
 
 - - - -
 Examples
+* Monitoring and predicting agents
+  * Monitors inventory, plans, and schedules equipment orders to keep costs down
 * Personal agents
   * Assemble customized news reports for you
   * Check your e-mail, sort it according to the user's order of preference, and alert you when important emails arrive
