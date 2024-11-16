@@ -8,7 +8,7 @@ Examples
 * Data-mining agents
   * Finds trends and patterns 
 * Monitoring and predicting agents
-  * Monitors inventory, plans, and schedules equipment orders to keep costs down
+  * Monitor inventory, plan, and schedule equipment orders to keep costs down
 * Networking agents
   * Spam filtering, server monitoring, telecom device management   
 * Personal agents
