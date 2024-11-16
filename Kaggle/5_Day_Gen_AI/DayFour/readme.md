@@ -15,4 +15,9 @@ Code labs
 
 Reading
 * [Solving Domain-Specific Problems Using LLMs](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)
-  * [Whitepaper Companion Podcast - Solving Domain-Specific Problems Using LLMs](https://youtu.be/b1a4ZOQ8XdI?si=X_p_ygPOz0j8Kvef) 
+  * [Whitepaper Companion Podcast - Solving Domain-Specific Problems Using LLMs](https://youtu.be/b1a4ZOQ8XdI?si=X_p_ygPOz0j8Kvef)
+  * Likewise, some data sources are
+particularly sensitive or proprietary and should not be included in generalized training of
+the model. Instead, these data sources should be incorporated into a specialized derivative
+model (using a lightweight, parameter-efficient process) that does not degrade the overall
+performance of the core security-specialized model.
