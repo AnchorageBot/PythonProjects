@@ -24,4 +24,4 @@ How-to
 
 - - - -
 
-Dire straits- telegraph road
+Dire Straits- telegraph road
