@@ -20,6 +20,7 @@ Concepts (thank you wikipedia)
 
 - - - -
 How-to
+* Adapt foundation models (FMs) to specific use case(s)
 * Function calls
 
 - - - -
