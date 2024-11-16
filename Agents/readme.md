@@ -6,7 +6,7 @@ Agents (bots)
 - - - -
 Examples
 * Data-mining agents
-  * Finds trends and patterns 
+  * Find trends and patterns 
 * Monitoring and predicting agents
   * Monitor inventory, plan, and schedule equipment orders to keep costs down
 * Networking agents
