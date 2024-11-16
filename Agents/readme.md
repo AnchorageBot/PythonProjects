@@ -1,5 +1,7 @@
 Agents (bots)
 
+* Perceive their environment, takes actions autonomously in order to achieve goals, and may improve performance with learning or acquiring knowledge
+
 - - - -
 Examples
 * Data-mining agents
