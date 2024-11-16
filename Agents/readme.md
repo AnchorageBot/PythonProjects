@@ -25,6 +25,7 @@ How-to
   * Google Gemma
   * OpenAI GPT-4o mini
 * Function calls
+  * Allow models to connect to external tools, such as APIs or user defined functions 
 
 - - - -
 Tunes
