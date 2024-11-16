@@ -1,6 +1,6 @@
 Agents (bots)
 
-* Perceive their environment, take actions autonomously in order to achieve goals, and may improve performance with learning or acquiring knowledge
+* Perceive their environment, take actions autonomously in order to achieve goals, and improve performance with learning or acquiring knowledge
 * May be described schematically as an abstract functional system similar to a computer program
 
 - - - -
