@@ -8,3 +8,4 @@ Code labs
 - - - -
 
 Reading
+* [Operationalizing Generative AI on Vertex AI using MLOps](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
