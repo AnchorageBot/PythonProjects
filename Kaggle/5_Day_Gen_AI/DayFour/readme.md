@@ -9,7 +9,7 @@ Day 4 - Domain-Specific LLM
 
 Code labs
  * Use Google Search data in generation (Day 4 - Google Search grounding .ipynb file in this folder)
- * Tune a Gemini model for a custom task
+ * Tune a Gemini model for a custom task (Day 4 - Fine tuning a custom model)
 
 - - - -
 
