@@ -18,3 +18,6 @@ Lists
 
 Loops and List Comprehensions
 * For and while loops, and a much-loved Python feature: list comprehensions
+
+Strings and Dictionaries
+* Working with strings and dictionaries, two fundamental Python data types
