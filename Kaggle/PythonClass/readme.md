@@ -28,3 +28,8 @@ Learn the most important language for data science.
 - - - -
 
 Tip: In the kernel editor, you can highlight several lines and press ctrl+/ to toggle commenting
+
+- - - -
+
+[Formated string literals](https://docs.python.org/3/tutorial/inputoutput.html#tut-f-strings)
+* print(f'The value of pi is approximately {math.pi:.3f}.')
