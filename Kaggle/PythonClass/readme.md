@@ -21,3 +21,6 @@ Loops and List Comprehensions
 
 Strings and Dictionaries
 * Working with strings and dictionaries, two fundamental Python data types
+
+Working with External Libraries
+* Imports, operator overloading, and survival tips for venturing into the world of external libraries
