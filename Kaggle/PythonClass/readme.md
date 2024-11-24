@@ -24,3 +24,7 @@ Strings and Dictionaries
 
 Working with External Libraries
 * Imports, operator overloading, and survival tips for venturing into the world of external libraries
+
+- - - -
+
+Tip: In the kernel editor, you can highlight several lines and press ctrl+/ to toggle commenting
