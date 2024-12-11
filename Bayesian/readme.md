@@ -28,6 +28,8 @@ Videos
 
 * [What the Heck is Bayesian Stats ?? : Data Science Basics - ritvikmath](https://youtu.be/-1dYY43DRMA?si=ndcXyssfNPWsTiqn)
 
+* Bayesian Treasure Hunt : Data Science Code ritvikmath
+
 - - - - 
 
 IDEs (Integrated Development Environments)
