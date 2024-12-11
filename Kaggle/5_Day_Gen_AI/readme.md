@@ -1,5 +1,6 @@
 [5-Day Gen AI Intensive Course](https://rsvp.withgoogle.com/events/google-generative-ai-intensive)
 
+[Self-paced Gen-AI Course](https://www.kaggle.com/learn-guide/5-day-genai)
 - - - -
 
 Tools
