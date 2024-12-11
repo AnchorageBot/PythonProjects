@@ -26,6 +26,8 @@ Videos
 
 * [Naive Bayes, Clearly Explained!!! - StatQuest with Josh Starmer](https://youtu.be/O2L2Uv9pdDA?si=-Rz2SFiM4SekiDdt)
 
+* [What the Heck is Bayesian Stats ?? : Data Science Basics - ritvikmath](https://youtu.be/-1dYY43DRMA?si=ndcXyssfNPWsTiqn)
+
 - - - - 
 
 IDEs (Integrated Development Environments)
