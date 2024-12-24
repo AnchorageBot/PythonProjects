@@ -10,6 +10,25 @@ Pierre-Simon Laplace pioneered and popularized what is now called Bayesian proba
 
 - - - -
 
+P(A|B) = P(B|A) × P(A) / P(B)
+
+* P(A|B) is the posterior probability
+* P(B|A) is the likelihood
+* P(A) is the prior probability
+* P(B) is the evidence
+
+- - - -
+
+Probability is a number between 0 and 1 (including both) that represents a degree of belief in a fact or prediction - Future events
+
+*  [In common usage, the word "probability" is used to mean the chance that a particular event (or set of events) will occur expressed on a linear scale from 0 (impossibility) to 1 (certainty), also expressed as a percentage between 0 and 100%. - Wolfram Mathworld](https://mathworld.wolfram.com/Probability.html)
+
+Likelihood is the probability of the data under the hypothesis - Past events
+
+* [Likelihood is the hypothetical probability that an event that has already occurred would yield a specific outcome. The concept differs from that of a probability in that a probability refers to the occurrence of future events, while a likelihood refers to past events with known outcomes. - Wolfram Mathworld](https://mathworld.wolfram.com/Likelihood.html)
+
+- - - -
+
 Books
 
 * [Bayesian Statistics The Fun Way - Will Kurt](https://nostarch.com/learnbayes)
