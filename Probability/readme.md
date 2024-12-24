@@ -23,6 +23,12 @@ of the other events. Events A and B are independent if probability of A given B 
 * De Morgan’s Rule (one form): Via a double complement, A or B = (Ac and Bc)c = “not [ (not A) and (not B) ]”. For
 example, “I want A, B, or both to work” (Reliability) equates to “I do not want both A and B not to work” (Safety).
 
+- - - -
+
 Books
 
 * [Fifty Challenging Problems in Probability with Solutions - Frederick Mosteller - Dover](https://store.doverpublications.com/products/9780486653556?srsltid=AfmBOoqTq25PzBNjRLb4DdBFVKu3-nixrTLp-gyKcBjO34ELsyAo8cy6)
+
+- - - -
+
+Videos
