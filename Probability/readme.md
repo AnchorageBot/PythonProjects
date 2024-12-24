@@ -33,4 +33,4 @@ Books
 
 Videos
 
-* [Probability Formulas, Symbols & Notations - Marginal, Joint, & Conditional Probabilities - Organic Chemistry Tutor - YouTube](https://youtu.be/bddckR734aM?si=3utOb4B4hcPgkVet)
+* [Probability Formulas, Symbols & Notations - Marginal, Joint, & Conditional Probabilities - The Organic Chemistry Tutor - YouTube](https://youtu.be/bddckR734aM?si=3utOb4B4hcPgkVet)
