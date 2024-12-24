@@ -12,6 +12,17 @@ Likelihood is the probability of the data under the hypothesis - Past events
 
 - - - -
 
+[Probability Formulas - NASA](https://www.nasa.gov/wp-content/uploads/2023/11/210624-probability-formulas.pdf)
+
+* Complementary events: The complement of event A is everything not in A. Complementary events are mutually
+exclusive events and together make up the sample space. The probability of the sample space is one.
+* Independent events: The occurrence of any one of the events does not affect the probabilities of the occurrences
+of the other events. Events A and B are independent if probability of A given B equals probability of A.
+* Dependent events (or non-independent events): Events that are not independent, i.e., P(A given B) ≠ P(A).
+* Mutually exclusive events (or disjoint events): If event A occurs, then event B cannot occur, and conversely.
+* De Morgan’s Rule (one form): Via a double complement, A or B = (Ac and Bc)c = “not [ (not A) and (not B) ]”. For
+example, “I want A, B, or both to work” (Reliability) equates to “I do not want both A and B not to work” (Safety).
+
 Books
 
 * [Fifty Challenging Problems in Probability with Solutions - Frederick Mosteller - Dover](https://store.doverpublications.com/products/9780486653556?srsltid=AfmBOoqTq25PzBNjRLb4DdBFVKu3-nixrTLp-gyKcBjO34ELsyAo8cy6)
