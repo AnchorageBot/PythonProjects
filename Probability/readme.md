@@ -27,6 +27,8 @@ example, “I want A, B, or both to work” (Reliability) equates to “I do not
 
 Books
 
+* [Essential Probability Practice Workbook with Answers - Dr. Chris McMullen](https://www.goodreads.com/book/show/212931091-essential-probability-practice-workbook-with-answers)
+
 * [Fifty Challenging Problems in Probability with Solutions - Frederick Mosteller - Dover](https://store.doverpublications.com/products/9780486653556?srsltid=AfmBOoqTq25PzBNjRLb4DdBFVKu3-nixrTLp-gyKcBjO34ELsyAo8cy6)
 
 - - - -
@@ -34,3 +36,5 @@ Books
 Videos
 
 * [Probability Formulas, Symbols & Notations - Marginal, Joint, & Conditional Probabilities - The Organic Chemistry Tutor - YouTube](https://youtu.be/bddckR734aM?si=3utOb4B4hcPgkVet)
+
+* [Stochastik Grundlagen fürs Mathe-Abi - Mathe - simpleclub - YouTube](https://youtu.be/mygSTraEAkU?si=eNfizTMJrs9KlLk5)
