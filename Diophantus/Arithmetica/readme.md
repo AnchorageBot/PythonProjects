@@ -2,12 +2,4 @@
 
 - - - -
 
-| Ancient Egyptian | Modern Notation |
-|---|---|
-| unknown square | x^2 |
-| unknown cube | x^3 |
-| reciprocal | 1/x |
-| fraction | γ/β |
-| units | M |
-| equals | = |
-| subtract | - |
+
