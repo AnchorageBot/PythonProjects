@@ -1,3 +1,7 @@
+Diophantus of Alexandria (born c. AD 200 – c. 214; died c. AD 284 – c. 298) was a Greek mathematician
+
+- - - -
+
 [Diophantus's Arithmetica problems & solutions - Cataloged by Dr. Joseph Muscat](https://staff.um.edu.mt/jmus1/Diophantus.pdf)
 
 - - - -
