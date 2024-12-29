@@ -9,3 +9,4 @@ Books
 - - - -
 
 Videos
+ * [Diophantus' Identity | Olympiad Math Training - YouTube](https://youtu.be/ag5VVIpDTEk?si=INgIHPZGgq2-Asqu)
