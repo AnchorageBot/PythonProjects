@@ -35,6 +35,8 @@ Books
 
 Videos
 
+*[Conditional Probability With Venn Diagrams & Contingency Tables - The Organic Chemistry Tutor - YouTube](https://youtu.be/sqDVrXq_eh0?si=K3KJjEj_801jA6-c)
+
 * [Probability Formulas, Symbols & Notations - Marginal, Joint, & Conditional Probabilities - The Organic Chemistry Tutor - YouTube](https://youtu.be/bddckR734aM?si=3utOb4B4hcPgkVet)
 
 * [Stochastik Grundlagen fürs Mathe-Abi - Mathe - simpleclub - YouTube](https://youtu.be/mygSTraEAkU?si=eNfizTMJrs9KlLk5)
