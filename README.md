@@ -20,6 +20,8 @@ Text Editors and Integrated Development Environments (IDEs)
 
 * [Google Project IDX](https://idx.dev)
 
+* [Visual Studio Code for the Web](https://vscode.dev)
+
 AI (Artificial Intelligence) - It is possible that we are not alone ...
 
 * [Anthropic Claude](https://www.anthropic.com/claude)
