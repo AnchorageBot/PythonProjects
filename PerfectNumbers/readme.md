@@ -4,6 +4,8 @@ Perfect Numbers
 
 In number theory, a perfect number is a positive integer that is equal to the sum of its positive proper divisors, that is, divisors excluding the number itself.
 
+It is not known whether there are any odd perfect numbers, nor whether infinitely many perfect numbers exist.
+
 * Euclid's Elements (VII.22)
 
 * Wiki
