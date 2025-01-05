@@ -6,7 +6,7 @@ In number theory, a perfect number is a positive integer that is equal to the su
 
 It is not known whether there are any odd perfect numbers, nor whether infinitely many perfect numbers exist.
 
-Theorem: If 2<sup>p</sup> − 1 is prime, then (2<sup>(p−1)</sup>)((2<sup>p</sup>) − 1) is perfect.
+Theorem: If 2<sup>p</sup> − 1 is prime, then (2<sup>(p−1)</sup>)(2<sup>p</sup> − 1) is perfect.
 
 * (6, 28, 496, 8128, ...)
 
