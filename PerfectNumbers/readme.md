@@ -13,6 +13,8 @@ Theorem: If 2<sup>p</sup> − 1 is prime, then (2<sup>(p−1)</sup>)(2<sup>p</su
 * Euclid's Elements (VII.22)
   
 * Nicomachus
+  
+* Mersenne
 
 * Euler
 
