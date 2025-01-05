@@ -2,6 +2,12 @@ Perfect Numbers
 
 - - - -
 
+In number theory, a perfect number is a positive integer that is equal to the sum of its positive proper divisors, that is, divisors excluding the number itself.
+
+- Wiki
+
+- - - -
+
 Books
 
 - - - - 
