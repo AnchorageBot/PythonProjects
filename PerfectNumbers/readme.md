@@ -8,6 +8,8 @@ It is not known whether there are any odd perfect numbers, nor whether infinitel
 
 If 2p − 1 is prime, then (2^(p−1))((2^p) − 1) is perfect
 
+* (6, 28, 496, 8128, ...)
+
 * Euclid's Elements (VII.22)
   
 * Nicomachus
