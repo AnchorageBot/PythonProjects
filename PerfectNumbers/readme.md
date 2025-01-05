@@ -6,7 +6,7 @@ In number theory, a perfect number is a positive integer that is equal to the su
 
 It is not known whether there are any odd perfect numbers, nor whether infinitely many perfect numbers exist.
 
-(2^(p−1))((2^p) − 1)
+If 2p − 1 is prime, then (2^(p−1))((2^p) − 1) is perfect
 
 * Euclid's Elements (VII.22)
   
