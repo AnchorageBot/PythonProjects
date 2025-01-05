@@ -9,6 +9,8 @@ It is not known whether there are any odd perfect numbers, nor whether infinitel
 (2^(p−1))((2^p) − 1)
 
 * Euclid's Elements (VII.22)
+  
+* Nicomachus
 
 * Wiki
 
