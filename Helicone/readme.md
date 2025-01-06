@@ -7,4 +7,4 @@ Fibonacci Numbers (1, 2, 3, 5, 8 ... )
 
 Golden Ratio  φ = 1.618...
 
-Lucas Numbers (1, 3, 4, 7, 11 ... )
+Lucas Numbers (2, 1, 3, 4, 7, 11 ... )
