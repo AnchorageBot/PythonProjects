@@ -8,3 +8,7 @@ Fibonacci Numbers (0, 1, 1, 2, 3, 5, 8 ... )
 Golden Ratio  φ = 1.618...
 
 Lucas Numbers (2, 1, 3, 4, 7, 11 ... )
+
+- - - -
+
+On-Line Encyclopedia of Integer Sequences
