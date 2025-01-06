@@ -2,3 +2,7 @@
 * Each arm is constrained to rotate a maximum of 68.75° (1/2 the Golden Angle) relative to its neighboring layer
 
 - - - -
+
+Fibonacci Numbers
+
+Golden Ratio
