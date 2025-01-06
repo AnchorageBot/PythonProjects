@@ -5,4 +5,4 @@
 
 Fibonacci Numbers
 
-Golden Ratio
+Golden Ratio  φ
