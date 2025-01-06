@@ -11,6 +11,6 @@ Lucas Numbers (2, 1, 3, 4, 7, 11 ... )
 
 - - - -
 
-NIST Digital Library of Mathematical Functions
+]NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov)
 
 On-Line Encyclopedia of Integer Sequences
