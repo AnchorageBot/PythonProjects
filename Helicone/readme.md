@@ -3,6 +3,10 @@
 
 - - - -
 
+[The Helicone Numberscope: Mathematical Superpowers Hidden in a Simple Toy - Mathologer - YouTube](https://youtu.be/_YjNEfZ0VqU?si=qhTlgrJJYQCxU337)
+
+- - - -
+
 Fibonacci Numbers (0, 1, 1, 2, 3, 5, 8 ... )
 
 Golden Ratio  φ = 1.618...
