@@ -43,6 +43,8 @@ Videos
 
 * [Bayes theorem, the geometry of changing beliefs - 3Blue1Brown](https://youtu.be/HZGCoVF3YvM?si=hrW3Q94s9w5wh2We)
 
+* [How to systematically approach truth - Bayes' rule - Rational Animations](https://youtu.be/4hHA-oqpNig?si=2jx2YqCOyxfoZQlJ)
+
 * [The better way to do statistics - Very Normal - YouTube](https://youtu.be/3jP4H0kjtng?si=n7N31Vpzak0g9vYK)
 
 * [Naive Bayes, Clearly Explained!!! - StatQuest with Josh Starmer](https://youtu.be/O2L2Uv9pdDA?si=-Rz2SFiM4SekiDdt)
