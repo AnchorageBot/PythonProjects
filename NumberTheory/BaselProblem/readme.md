@@ -1,6 +1,9 @@
 Tutor: Anthropic's AI Claude
+* 
 
 - - - -
+
+Tutor: Anthropic's AI Claude
 
 Leonhard Euler's 1734 proof of the irrationality of ζ(2) = z(2) is also know as the Basel problem. The Basel problem is named after Basel, Switzerland - the hometown of the Bernoulli family. Jakob Bernoulli was working on this problem in Basel when he made significant attempts to solve it in the late 17th century, though he wasn't able to find the exact sum.
 
