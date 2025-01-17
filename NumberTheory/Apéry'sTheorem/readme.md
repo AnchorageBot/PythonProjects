@@ -19,3 +19,4 @@ Tutor: Google's AI, Gemini 2.0 Experimental
 Tutor: OpenAI's ChatGPT
 * Apery_VA.ipynb
 * Apery_VB.ipynb
+* Apery_VC.ipynb
