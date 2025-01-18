@@ -22,3 +22,4 @@ Tutor: OpenAI's ChatGPT
 * Apery_VC.ipynb
 * Apery_VD.ipynb
 * Apery_VE.ipynb
+* Apery_VF.ipynb
