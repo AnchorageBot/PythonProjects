@@ -10,12 +10,6 @@ Roger Apéry's proof of the irrationality of ζ(3) (the Riemann zeta function ev
 
 - - - -
 
-Tutor: Anthropic's AI Claude
-
-
-Tutor: Google's AI, Gemini 2.0 Experimental
-
-
 Tutor: OpenAI's ChatGPT
 * Apery_VA.ipynb
 * Apery_VB.ipynb
@@ -23,3 +17,12 @@ Tutor: OpenAI's ChatGPT
 * Apery_VD.ipynb
 * Apery_VE.ipynb
 * Apery_VF.ipynb
+* Apery_VG.ipynb
+
+Tutor: Anthropic's AI Claude
+
+
+Tutor: Google's AI, Gemini 2.0 Experimental
+
+
+
