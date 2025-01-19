@@ -8,7 +8,7 @@ Roger Apéry's proof of the irrationality of ζ(3) (the Riemann zeta function ev
 * Apéry's proof was surprising and elegant, combining methods from analysis, number theory, and linear algebra.
 * The proof inspired further research into the irrationality and transcendence of values of the Riemann zeta function at other points.
 
-# Glossary of Symbols, Formulas, and Concepts
+Glossary of Symbols, Formulas, and Concepts
 
 | **Symbol/Formula**               | **Meaning/Description**                                                                                 |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------|
