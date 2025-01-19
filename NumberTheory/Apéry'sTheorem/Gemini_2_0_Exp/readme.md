@@ -1,3 +1,7 @@
+Tutor: Google's AI Gemini 2.0 Experimental
+
+- - - -
+
 Apéry's Proof
 
 In 1978, Roger Apéry surprisingly proved that ζ(3) is indeed irrational. His proof was quite complex and didn't initially gain widespread acceptance due to its unconventional nature. However, it was eventually recognized as correct and ingenious.
