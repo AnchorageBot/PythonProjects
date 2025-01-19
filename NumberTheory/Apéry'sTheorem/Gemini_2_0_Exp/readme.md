@@ -17,3 +17,9 @@ Here's a simplified summary of the key ideas behind Apéry's proof:
 * Diophantine approximation: Apéry showed that the approximations aₙ/bₙ are "too good" to be consistent with ζ(3) being a rational number. In other words, if ζ(3) were rational, these approximations would converge too rapidly, contradicting known results in Diophantine approximation (the study of approximating real numbers by rational numbers).
 
 * Contradiction: By demonstrating this contradiction, Apéry concluded that ζ(3) must be irrational.
+
+Tutor: Google's AI, Gemini 2.0 Experimental
+* Apery_VA_A.ipynb
+* Apery_VA_B.ipynb
+* Apery_VA_C.ipynb
+* Apery_VA_D.ipynb
