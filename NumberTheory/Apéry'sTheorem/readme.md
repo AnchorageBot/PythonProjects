@@ -14,6 +14,10 @@ Astérisque, tome 61 (1979), p. 11-13
 
 
 
-Tutor: Anthropic's AI Claude
+Tutors: 
+
+* Anthropic's AI Claude
+* Google's AI Gemini 2.0 Experimental
+* OpenAI's ChatGPT
 
 
