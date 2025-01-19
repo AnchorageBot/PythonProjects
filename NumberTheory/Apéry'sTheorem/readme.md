@@ -2,6 +2,12 @@
 
 - - - -
 
+ROGER APÉRY
+Irrationalité de ζ2 et ζ3
+Astérisque, tome 61 (1979), p. 11-13
+<http://www.numdam.org/item?id=AST_1979__61__11_0>
+
+- - - -
 Tutor: OpenAI's Chat GPT
 
 Roger Apéry's proof of the irrationality of ζ(3) (the Riemann zeta function evaluated at 3) is a landmark result in mathematics, presented in 1978. 
