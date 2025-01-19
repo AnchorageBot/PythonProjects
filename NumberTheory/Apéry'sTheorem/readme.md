@@ -12,8 +12,7 @@ Astérisque, tome 61 (1979), p. 11-13
 
 - - - -
 
-Tutor: Google's AI, Gemini 2.0 Experimental
-* Apery_VA_A.ipynb
+
 
 Tutor: Anthropic's AI Claude
 
