@@ -1,4 +1,4 @@
-[States that Apéry's constant ζ(3) is irrational - Wiki](https://en.wikipedia.org/wiki/Apéry%27s_theorem)
+[Apéry's constant ζ(3) is irrational - Wiki](https://en.wikipedia.org/wiki/Apéry%27s_theorem)
 
 - - - -
 
