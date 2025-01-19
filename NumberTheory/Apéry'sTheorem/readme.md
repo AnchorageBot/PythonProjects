@@ -20,6 +20,8 @@ Tutor: OpenAI's ChatGPT
 * Apery_VG.ipynb
 * Apery_VH.ipynb
 * Apery_VI.ipynb
+* Apery_VJ.ipynb
+* Apery_VK.ipynb
 
 Tutor: Anthropic's AI Claude
 
