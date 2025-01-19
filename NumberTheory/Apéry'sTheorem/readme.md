@@ -46,11 +46,11 @@ Tutor: OpenAI's ChatGPT
 * Apery_VI.ipynb
 * Apery_VJ.ipynb
 * Apery_VK.ipynb
-
-Tutor: Anthropic's AI Claude
-
+* Apery_VL.ipynb
 
 Tutor: Google's AI, Gemini 2.0 Experimental
+* Apery_VAA.ipynb
 
+Tutor: Anthropic's AI Claude
 
 
