@@ -10,9 +10,11 @@ Astérisque, tome 61 (1979), p. 11-13
 
 <http://www.numdam.org/item?id=AST_1979__61__11_0>
 
-espalande de la paix
+Departement Math
 
+Espalande de la Paix
 
+14032 Caen 
 
 [University of Caen Normandy](https://www.unicaen.fr/en/international-en/welcome-to-unicaen/)
 
