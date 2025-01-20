@@ -10,11 +10,11 @@ Astérisque, tome 61 (1979), p. 11-13
 
 <http://www.numdam.org/item?id=AST_1979__61__11_0>
 
-Departement Math
+Département de Mathématiques
 
 Espalande de la Paix
 
-14032 Caen 
+14032 Caen Cedex
 
 [University of Caen Normandy](https://www.unicaen.fr/en/international-en/welcome-to-unicaen/)
 
