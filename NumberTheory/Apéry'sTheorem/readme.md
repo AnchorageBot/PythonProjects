@@ -4,26 +4,18 @@
 
 ROGER APÉRY
 
-Département de Mathématiques
-
-Espalande de la Paix
-
-14032 Caen Cedex
-
-[University of Caen Normandy](https://www.unicaen.fr/en/international-en/welcome-to-unicaen/)
+* Département de Mathématiques
+* Espalande de la Paix
+* 14032 Caen Cedex
+* [University of Caen Normandy](https://www.unicaen.fr/en/international-en/welcome-to-unicaen/)
 
 Irrationalité de ζ2 et ζ3
 
-Astérisque, tome 61 (1979), p. 11-13
-
-<http://www.numdam.org/item?id=AST_1979__61__11_0>
-
-NUMDAM is the reference French digital mathematics library set up by MathDoc with the assistance of a network of partners
-
-
+* Astérisque, tome 61 (1979), p. 11-13
+* <http://www.numdam.org/item?id=AST_1979__61__11_0>
+* NUMDAM is the reference French digital mathematics library set up by MathDoc with the assistance of a network of partners
 
 - - - -
-
 
 
 Tutors: 
