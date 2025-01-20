@@ -23,3 +23,4 @@ Tutor: Google's AI, Gemini 2.0 Experimental
 * Apery_VA_B.ipynb
 * Apery_VA_C.ipynb
 * Apery_VA_D.ipynb
+* Apery_VA_F.ipynb
