@@ -39,3 +39,9 @@ Historical Context:
 - Opened new directions in the study of values of the Riemann zeta function
 
 The brilliance of Apéry's work lies in combining elementary tools (recurrence relations, combinatorial identities) to solve a deep problem that had resisted more sophisticated approaches. While the original proof was considered somewhat mysterious, subsequent work has clarified and extended his methods, leading to a better understanding of the nature of important mathematical constants.
+
+- - - -
+
+Tutor: Anthropic's AI, Claude
+
+Apery_VA_AA.ipynb
