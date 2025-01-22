@@ -47,3 +47,4 @@ Tutor: Anthropic's AI, Claude
 * Apery_VA_AA.ipynb
 * Apery_VA_AB.ipynb
 * Apery_VA_AC.ipynb
+* Apery_VA_AD.ipynb
