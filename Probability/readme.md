@@ -44,3 +44,5 @@ Videos
 * [Probability Formulas, Symbols & Notations - Marginal, Joint, & Conditional Probabilities - The Organic Chemistry Tutor - YouTube](https://youtu.be/bddckR734aM?si=3utOb4B4hcPgkVet)
 
 * [Stochastik Grundlagen fürs Mathe-Abi - Mathe - simpleclub - YouTube](https://youtu.be/mygSTraEAkU?si=eNfizTMJrs9KlLk5)
+
+* [The unexpected logic behind rolling multiple dice and picking the highest - Stand-up Maths - YouTube](https://youtu.be/X_DdGRjtwAo?si=uB9UU3F6EhqVOUy7)
