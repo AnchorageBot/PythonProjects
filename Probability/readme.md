@@ -46,3 +46,5 @@ Videos
 * [Stochastik Grundlagen fürs Mathe-Abi - Mathe - simpleclub - YouTube](https://youtu.be/mygSTraEAkU?si=eNfizTMJrs9KlLk5)
 
 * [The unexpected logic behind rolling multiple dice and picking the highest - Stand-up Maths - YouTube](https://youtu.be/X_DdGRjtwAo?si=uB9UU3F6EhqVOUy7)
+
+* [Why π is in the normal distribution (beyond integral tricks) - 3Blue1Brown - YouTube](https://youtu.be/cy8r7WSuT1I?si=bIeII9aFgCY4kPi7)
