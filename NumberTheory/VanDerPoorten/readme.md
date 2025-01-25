@@ -10,3 +10,5 @@ Some wonderful formulae... Footnotes to Apery’s proof of the irrationality of 
 A proof that Euler missed... Apéry's proof of the irrationality of ζ(3) 
 * Alfred van der Poorten
 * The mathematical Intelligencer, Berlin, t. 1, 1978, p. 195-203.
+* zbMATH Open
+  * zbMATH Open (formerly known as Zentralblatt MATH) is the world's most comprehensive and longest-running abstracting and reviewing service in pure and applied mathematics. 
