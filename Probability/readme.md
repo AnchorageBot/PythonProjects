@@ -47,4 +47,6 @@ Videos
 
 * [The unexpected logic behind rolling multiple dice and picking the highest - Stand-up Maths - YouTube](https://youtu.be/X_DdGRjtwAo?si=uB9UU3F6EhqVOUy7)
 
+* [But what is the Central Limit Theorem? - 3Blue1Brown - YouTube](https://youtu.be/zeJD6dqJ5lo?si=KQsy8fHnbOiWwahm)
+
 * [Why π is in the normal distribution (beyond integral tricks) - 3Blue1Brown - YouTube](https://youtu.be/cy8r7WSuT1I?si=bIeII9aFgCY4kPi7)
