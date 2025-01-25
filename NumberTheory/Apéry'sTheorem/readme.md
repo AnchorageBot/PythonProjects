@@ -11,9 +11,11 @@ ROGER APÉRY
 
 Irrationalité de ζ2 et ζ3
 
-* Astérisque, tome 61 (1979), p. 11-13 <http://www.numdam.org/item?id=AST_1979__61__11_0>
-  * [Astérisque](https://smf.emath.fr/Publications/Asterisque/) is a periodical of the Société mathématique de France 
+* Astérisque, tome 61 (1979), p. 11-13 
+  * [Astérisque](https://smf.emath.fr/Publications/Asterisque/) is a periodical of the Société mathématique de France
+* Numdam
   * Numdam is a/the French digital mathematics library
+  * <http://www.numdam.org/item?id=AST_1979__61__11_0>
 
 
 - - - -
