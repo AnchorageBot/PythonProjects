@@ -1,7 +1,4 @@
-Tutor: Anthropic's AI Claude
-* Euler_Basel_VA.ipynb
-* Euler_Basel_VB.ipynb
-* Euler_Basel_VC.ipynb
+
 
 Tutor: Google's AI, Gemini 2.0 Experimental
 * Euler_Basel_VD.ipynb
