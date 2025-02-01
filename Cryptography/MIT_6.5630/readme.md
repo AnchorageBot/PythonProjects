@@ -6,6 +6,7 @@ Syllabus
 * Lecture 2: Doubly efficient interactive proofs
 * Lecture 3: Continuation of the GKR protocol and corollaries
 * Lecture 4: PCP via GKR and interactive arguments
+* Lecture 5: The Kilan-Micali protocol
 
 - - - -
 
