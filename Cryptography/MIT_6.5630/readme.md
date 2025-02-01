@@ -4,7 +4,7 @@ This course is about the evolution of proofs in computer science.  We will learn
 Syllabus
 
 * Lecture 1: Interactive proofs and the checksum protocol
-* Lecture 2: 
+* Lecture 2: Doubly efficient interactive proofs
 
 - - - -
 
