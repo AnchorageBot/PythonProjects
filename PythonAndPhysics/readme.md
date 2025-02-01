@@ -16,3 +16,4 @@ Equation formating:
 * Google Colab: Fully supports LaTeX in markdown cells with $ and $$
 * Jupyter notebooks: Same as Colab
 * GitHub README files: Often people include an SVG or PNG of the equation since LaTeX isn't consistently rendered
+* Unicode is another path to equation formating
