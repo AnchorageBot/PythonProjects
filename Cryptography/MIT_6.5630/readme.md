@@ -7,6 +7,9 @@ Syllabus
 * Lecture 3: Continuation of the GKR protocol and corollaries
 * Lecture 4: PCP via GKR and interactive arguments
 * Lecture 5: The Kilan-Micali protocol
+* Lecture 6: Fiat-Shamir paradigm and zero-knowledge proofs
+* Lecture 7: Soundness of the Fiat-Shamir paradigm in the standard model
+* Lecture 8: Succinct non-interactive arguments for batch NP (BARGs) from LWE
 
 - - - -
 
