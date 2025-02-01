@@ -4,6 +4,9 @@ Articles
 Code
 * [notDavidsGit - percolationTheoryVideoCode - GitHub](https://github.com/notDavidsGit/percolationTheoryVideoCode)
 
+Papers
+* [Hugo Duminil-Copin's articles on arXiv](https://arxiv.org/a/duminilcopin_h_1.html)
+
 Videos
 * [Fields Medals 2022 Hugo Duminil-Copin](https://youtu.be/AY_B9gk18Mw?si=3tOkSoDikzpELzPd)
 
