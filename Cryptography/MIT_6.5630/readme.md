@@ -2,9 +2,10 @@ This course is about the evolution of proofs in computer science.  We will learn
 
 - - - -
 Syllabus
-
 * Lecture 1: Interactive proofs and the checksum protocol
 * Lecture 2: Doubly efficient interactive proofs
+* Lecture 3: Continuation of the GKR protocol and corollaries
+* Lecture 4:
 
 - - - -
 
