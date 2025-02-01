@@ -1,3 +1,6 @@
+Articles
+* [For His Sporting Approach to Math, a Fields Medal - Jordana Cepelewicz -  Quanta Magazine](https://www.quantamagazine.org/hugo-duminil-copin-wins-the-fields-medal-20220705/)
+
 Videos
 * [Percolation: a Mathematical Phase Transition - Spectral Collective](https://youtu.be/a-767WnbaCQ?si=CRDuJoZ0dO2qTgW6)
   
