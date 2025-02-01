@@ -5,7 +5,7 @@ Syllabus
 * Lecture 1: Interactive proofs and the checksum protocol
 * Lecture 2: Doubly efficient interactive proofs
 * Lecture 3: Continuation of the GKR protocol and corollaries
-* Lecture 4:
+* Lecture 4: PCP via GKR and interactive arguments
 
 - - - -
 
