@@ -10,6 +10,7 @@ Syllabus
 * Lecture 6: Fiat-Shamir paradigm and zero-knowledge proofs
 * Lecture 7: Soundness of the Fiat-Shamir paradigm in the standard model
 * Lecture 8: Succinct non-interactive arguments for batch NP (BARGs) from LWE
+* Lecture 9: BARGs implies SNARGs and connection to non-signaling PCPs
 
 - - - -
 
