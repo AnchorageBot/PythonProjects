@@ -1,0 +1,21 @@
+ LaTeX Formatting for Google Colab
+
+Block-Level Display (for centered equations)
+
+$$
+\mathbb{P}_p(B_n) \text{ is measurable in terms of } \omega_e \text{ for finitely many edges}
+$$
+
+$$
+\mathcal{P}_p[B_n] \to \mathcal{P}_p[A] \text{ as } n \to \infty.
+$$
+
+Inline Display (if you need inline formatting)
+
+\(\mathbb{P}_p(B_n) \text{ is measurable in terms of } \omega_e \text{ for finitely many edges}\)
+
+\(\mathcal{P}_p[B_n] \to \mathcal{P}_p[A] \text{ as } n \to \infty.\)
+
+How to Use in Google Colab
+* If you want the equations centered on a new line, use the block format with $$.
+* If you want the equations inline with text, use \(...\).
