@@ -16,6 +16,17 @@ Inline Display (if you need inline formatting)
 
 \(\mathcal{P}_p[B_n] \to \mathcal{P}_p[A] \text{ as } n \to \infty.\)
 
+Block-Level Display (Centered Equation)
+
+$$
+\lim_{n \to \infty} \mathcal{P}_p[B_n] = \mathcal{P}_p[A]
+$$
+
+Inline Display (Within Text)
+
+\(\lim_{n \to \infty} \mathcal{P}_p[B_n] = \mathcal{P}_p[A]\)
+
+
 How to Use in Google Colab
 * If you want the equations centered on a new line, use the block format with $$.
 * If you want the equations inline with text, use \(...\).
