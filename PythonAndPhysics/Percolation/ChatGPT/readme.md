@@ -4,6 +4,10 @@ OpenAI's ChatGPT
 
 - - - -
 
+Files
+* IBP_HDC_VA_Ex1.ipynb
+
+- - - -
 Basic Glossary Table - Symbols & Concepts
 
 | Symbol          | Description |
