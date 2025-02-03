@@ -3,6 +3,12 @@ Tutor:
 Google's AI Gemini 2.0 Flash
 - - - -
 
+Files
+
+IBP_HDC_VC_Ex1.ipynb
+IBP_HDC_VD_Ex1.ipynb
+
+- - - -
 Glossary Table
 
 | Symbol/Term | Meaning | Concept |
