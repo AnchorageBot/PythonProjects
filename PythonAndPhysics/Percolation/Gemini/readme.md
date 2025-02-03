@@ -1,7 +1,7 @@
 Google's AI Gemini 2.0 Flash
 - - - -
 
-##Glossary Table
+Glossary Table
 
 | Symbol/Term | Meaning | Concept |
 |---|---|---|
