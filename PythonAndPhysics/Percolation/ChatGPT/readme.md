@@ -7,6 +7,7 @@ OpenAI's ChatGPT
 Files
 * IBP_HDC_VA_Ex1.ipynb
 * IBP_HDC_VB_Ex1.ipynb
+* FormattingTips.txt
 
 - - - -
 Basic Glossary Table - Symbols & Concepts
