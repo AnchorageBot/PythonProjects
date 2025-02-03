@@ -5,15 +5,7 @@ The concept of a group was elaborated for handling, in a unified way, many mathe
 - - - -
 
 Videos
-* [Chapter 1: Symmetries, Groups and Actions | Essence of Group Theory - Mathemaniac](https://youtu.be/EsBn7G2yhB8?si=Ngz0T0mJZYLtjP7O)
-
-* [Chapter 2: Orbit-Stabiliser Theorem | Essence of Group Theory -  Mathemaniac](https://youtu.be/BfgMdi0OkPU?si=A0Ck97Hi3WPIM0Ua)
-
-* [Chapter 3: Lagrange's theorem, Subgroups and Cosets | Essence of Group Theory - Mathemaniac](https://youtu.be/fkJCpOwYgxo?si=pRXtr6iZLrH2LzHz)
-
-* [Chapter 4: Conjugation, normal subgroups and simple groups | Essence of Group Theory - Mathemaniac](https://youtu.be/0ob1m4XnVwQ?si=jnSvJlL7s5vCG4fw)
-
-* [Summary: an example covering ALL group theory concepts!! | Essence of Group Theory - Mathemaniac](https://youtu.be/4TCIF2bS8O8?si=3zrQNcLWW-oi0CVc)
+* [Essence of Group Theory - Mathemaniac](https://youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO&si=DnEIwn5ri1WXOE2F)
 
 * [What is Group Theory? — Group Theory Ep. 1 - Nemean](https://youtu.be/KufsL2VgELo?si=CuwuVUqeGj_PUxu1)
 
