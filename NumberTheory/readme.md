@@ -16,6 +16,6 @@ Books
 
 Videos
 
-* [James Maynard - Patterns in prime numbers - G-Research - YouTube](https://youtu.be/ey_57qWhGEM?si=Pj-xrEBQc4cU-8SC)
-
 * [Fields Medals 2022 Maryna Viazovska - International Mathematical Union](https://youtu.be/yAyuipqM5uQ?si=8gImiBYdVH6nA2a6)
+
+* [James Maynard - Patterns in prime numbers - G-Research - YouTube](https://youtu.be/ey_57qWhGEM?si=Pj-xrEBQc4cU-8SC)
