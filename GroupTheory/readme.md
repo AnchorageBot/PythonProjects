@@ -13,6 +13,8 @@ Videos
 
 * [Chapter 4: Conjugation, normal subgroups and simple groups | Essence of Group Theory - Mathemaniac](https://youtu.be/0ob1m4XnVwQ?si=jnSvJlL7s5vCG4fw)
 
+* [Summary: an example covering ALL group theory concepts!! | Essence of Group Theory - Mathemaniac](https://youtu.be/4TCIF2bS8O8?si=3zrQNcLWW-oi0CVc)
+
 * [What is Group Theory? — Group Theory Ep. 1 - Nemean](https://youtu.be/KufsL2VgELo?si=CuwuVUqeGj_PUxu1)
 
 * [Simplifying problems with isomorphisms, explained — Group Theory Ep. 2 - Nemean](https://youtu.be/VZiLpYC0t5E?si=QUUTK9TV3B08186n)
