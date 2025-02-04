@@ -12,3 +12,5 @@ Videos
 * [Simplifying problems with isomorphisms, explained — Group Theory Ep. 2 - Nemean](https://youtu.be/VZiLpYC0t5E?si=QUUTK9TV3B08186n)
 
 * [Why Do Sporadic Groups Exist? - Another Roof](https://youtu.be/dxRf3vHbuoA?si=WeIc0RGUipbAp3x0)
+
+* [How to Construct Every Symmetry | Decomposition, Extension, and Classification of Groups - EpsilonDelta](https://youtu.be/n-YrdmlcNQ4?si=8zWGiqSh0yIwsHGu)
