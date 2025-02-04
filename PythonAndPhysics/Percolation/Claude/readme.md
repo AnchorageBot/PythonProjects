@@ -2,6 +2,11 @@ Anthropic's AI Claude
 
 - - - - 
 
+Files
+* 
+
+- - - -
+
 Glossary Table
 
 | Symbol/Term | Definition/Meaning |
