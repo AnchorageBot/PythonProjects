@@ -59,6 +59,8 @@ Books
 
 * [REA's Problem Solvers - Calculus](https://www.librarything.com/nseries/27494/REA-Problem-Solvers)
 
+* [Problems In Mathematical Analysis - B. P. Demidovich](https://archive.org/details/b.p.demidovichproblemsinmathematicalanalysis/mode/2up)
+
 * [Stochastic Calculus for Finance I
 The Binomial Asset Pricing Model - Steven E. Shreve](https://link.springer.com/book/10.1007/978-0-387-22527-2)
 
