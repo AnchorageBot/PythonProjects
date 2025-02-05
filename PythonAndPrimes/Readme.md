@@ -16,6 +16,8 @@ Videos
 
 * [What is the Riemann Hypothesis REALLY about? - HexagonVideos](https://youtu.be/e4kOh7qlsM4?si=R2kKWu3ta_EeCMZI)
 
+* [The sound of primes - Number Cruncher](https://youtu.be/sff8DEEZOfs?si=IWbGw4vdih2gHyms)
+
 Articles
 
 * [Why Mathematicians Re-Prove What They Already Know - Anna Kramer - Quanta](https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/)
