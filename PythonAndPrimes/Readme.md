@@ -14,6 +14,8 @@ Videos
 
 * [Riemann Hypothesis  - Dr. Edward Frenkel - Numberphile](https://www.youtube.com/watch?v=d6c6uIyieoo)
 
+* [What is the Riemann Hypothesis REALLY about? - HexagonVideos](https://youtu.be/e4kOh7qlsM4?si=R2kKWu3ta_EeCMZI)
+
 Articles
 
 * [Why Mathematicians Re-Prove What They Already Know - Anna Kramer - Quanta](https://www.quantamagazine.org/why-mathematicians-re-prove-what-they-already-know-20230426/)
