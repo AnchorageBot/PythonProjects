@@ -3,9 +3,12 @@ Tutors:
 * Google's AI Gemini 2.0 Experimental Advanced
 - - - -
 
-Files
+Exercise # 1 files
 * IBP_HDC_VC_Ex1.ipynb - Google's AI Gemini 2.0 Flash
 * IBP_HDC_VD_Ex1.ipynb - Google's AI Gemini 2.0 Experimental Advanced
+
+Exercise # 2 files
+* IBP_HDC_VF_Ex2.ipynb - Google's AI Gemini 2.0 Experimental Advanced
 
 - - - -
 ## Glossary Table - Google's AI Gemini 2.0 Flash
