@@ -7,8 +7,7 @@ Code
 Papers
 * [Hugo Duminil-Copin's articles on arXiv](https://arxiv.org/a/duminilcopin_h_1.html)
 
-* [Sixty years of percolation - 
-Hugo Duminil-Copin](https://arxiv.org/abs/1712.04651)
+* [Sixty years of percolation - Hugo Duminil-Copin](https://arxiv.org/abs/1712.04651) - arXiv:1712.04651 [math.PR] - Submitted on 13 Dec 2017
 
 Videos
 * [Fields Medals 2022 Hugo Duminil-Copin](https://youtu.be/AY_B9gk18Mw?si=3tOkSoDikzpELzPd)
