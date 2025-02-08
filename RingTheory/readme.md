@@ -14,7 +14,7 @@ Field operations
 * Addition
 * Subtraction
 * Mutltiplication
-* Division
+* Division (multiplicitive inverse)
 
 - - - -
 
