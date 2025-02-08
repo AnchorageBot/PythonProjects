@@ -3,7 +3,7 @@ A ring is a commutative group under addition that has a second operation: multip
 
 Group operations
 * Addition
-* Subtraction
+* Subtraction (additive inverse)
 
 Ring operations
 * Addition
