@@ -3,6 +3,16 @@ In mathematics, a group is a set with an operation that associates an element of
 The concept of a group was elaborated for handling, in a unified way, many mathematical structures such as numbers, geometric shapes and polynomial roots. - [Wiki](https://en.wikipedia.org/wiki/Group_(mathematics))
 
 - - - -
+Group
+* + -
+
+Ring
+* + - x
+   
+Field
+* + - x /
+
+- - - -
 
 Videos
 * [Group Definition (expanded) - Abstract Algebra - Socratica](https://youtu.be/g7L_r6zw4-c?si=5cu-rNhcA9-H-ix1)
