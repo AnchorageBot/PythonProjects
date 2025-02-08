@@ -5,4 +5,6 @@ Fibonacci sequence
 - - - -
 
 Videos
+* [The Mind-Blowing Mathematics of Sunflowers - Instant Egghead #59 - Scientific American](https://youtu.be/z9d1mxgZ0ag?si=9dcFgcrvDFryqxR1)
+
 * [The fabulous Fibonacci flower formula - Mathlogger- YouTube](https://youtu.be/_GkxCIW46to?si=75EPBmzOG6l_QpWD)
