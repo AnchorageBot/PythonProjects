@@ -6,9 +6,10 @@ Examples
 * Q = rational numbers
 
 - - - -
+
 Group operations
 * Addition
-* Subtraction
+* Subtraction (additive inverse)
 
 Ring operations
 * Addition
@@ -19,7 +20,7 @@ Field operations
 * Addition
 * Subtraction
 * Mutltiplication
-* Division
+* Division (multiplicitive inverse)
 
 - - - -
 
