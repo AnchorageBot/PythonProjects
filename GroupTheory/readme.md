@@ -4,13 +4,19 @@ The concept of a group was elaborated for handling, in a unified way, many mathe
 
 - - - -
 Group
-* + -
+* Addition
+* Subtraction
 
 Ring
-* + - x
+* Addition
+* Subtraction
+* Multiplification
    
 Field
-* + - x /
+* Addition
+* Subtraction
+* Mutltiplification
+* Division
 
 - - - -
 
