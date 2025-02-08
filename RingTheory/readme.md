@@ -1,4 +1,7 @@
 A ring is a commutative group under addition that has a second operation: multiplication
+
+Example
+* Z = integers
 - - - -
 
 Group operations
