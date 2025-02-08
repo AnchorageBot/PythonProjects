@@ -1,5 +1,10 @@
 Fields generalize the real numbers and complex numbers.  They are sets with two operations that come with all the features you could wish for: commutativity, inverses, identities, associativity, and more - Socratica
 
+Examples
+* Q rational numbers
+* R real numbers
+* C complex numbers
+
 - - - -
 Group operations
 * Addition
