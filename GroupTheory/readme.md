@@ -5,6 +5,8 @@ The concept of a group was elaborated for handling, in a unified way, many mathe
 - - - -
 
 Videos
+* [Group Definition (expanded) - Abstract Algebra - Socratica](https://youtu.be/g7L_r6zw4-c?si=5cu-rNhcA9-H-ix1)
+
 * [Essence of Group Theory - Mathemaniac](https://youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO&si=DnEIwn5ri1WXOE2F)
 
 * [What is Group Theory? — Group Theory Ep. 1 - Nemean](https://youtu.be/KufsL2VgELo?si=CuwuVUqeGj_PUxu1)
