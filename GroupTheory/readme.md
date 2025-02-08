@@ -10,12 +10,12 @@ Group
 Ring
 * Addition
 * Subtraction
-* Multiplification
+* Multiplication
    
 Field
 * Addition
 * Subtraction
-* Mutltiplification
+* Mutltiplication
 * Division
 
 - - - -
