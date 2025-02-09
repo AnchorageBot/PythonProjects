@@ -7,6 +7,7 @@ Models
 * [Swift–Hohenberg equation - Wiki](https://en.wikipedia.org/wiki/Swift–Hohenberg_equation)
 
 Papers
+* [THE CHEMICAL BASIS OF MOKPHOGENESIS BY A. M. TURING, F.R.S. University qf Manchester (Received 9 November 195 1-Revised 15 March 1952) - Caltech](https://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf)
 
 Videos
 * [Turing's Cake (and other wrinkly math) - Physics for the Birds](https://youtu.be/icQ_BTtNGEo?si=fSh-SmWKEw19m7je)
