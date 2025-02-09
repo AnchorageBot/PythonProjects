@@ -13,6 +13,8 @@ Videos
 
 - - - -
 
+Tutor: Google Gemini 2.0, Experimental Advanced 
+
 **1. Diffusion Equation (Heat Equation)**
 
 The diffusion equation, also known as the heat equation, describes how a quantity (like temperature, concentration, etc.) spreads out over time due to diffusion. In its most common form, it's a partial differential equation (PDE):
