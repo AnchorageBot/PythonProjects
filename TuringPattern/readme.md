@@ -89,7 +89,7 @@ Similar to the diffusion equation, you need boundary and initial conditions. Com
 
 **Simplified form with N(u) = -u³**
 
-If you are referring to a specific Github repo and using the cubic non-linearity, it is common practice to show the following simplification of the Swift-Hohenberg Equation:
+Using the cubic non-linearity, it is common practice to show the following simplification of the Swift-Hohenberg Equation:
 
 ```
 ∂u/∂t = (r - (1 + ∇²)²)u - u³
