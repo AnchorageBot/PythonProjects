@@ -10,6 +10,9 @@ AI Tutors
 
 - - - -
 
+[The 7 Levels of Math Symbols - The Unqualified Tutor - YouTube](https://youtu.be/I0vDXO5FeaI?si=nF9KEt7hPZ4MORoi)
+
+- - --
 Equation formating:
 
 * GitHub markdown: Uses single $ for inline and double $$ for display math, but not all GitHub views render it
