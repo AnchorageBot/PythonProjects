@@ -2,8 +2,11 @@ Anthropic's AI Claude
 
 - - - - 
 
-Files
+Exercise # 1 Files
 * IBP_HDC_VE_Ex1.ipynb
+
+Exercise # 2 Files
+
 
 - - - -
 
