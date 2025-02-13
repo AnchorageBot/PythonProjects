@@ -16,6 +16,8 @@ Videos
 
 * [Grad student talk: “A first look at percolation theory” - Stony Brook University Math Club](https://youtu.be/5mSIt298Occ?si=gMyEJrOJcSl1QkGX)
 
+* [Lily Reeves - Distances in hierarchical percolation - IPAM at UCLA](https://youtu.be/5RfxXp3yXlk?si=05D5Vbke1lCRvrbc)
+
 * [Percolation: a Mathematical Phase Transition - Spectral Collective](https://youtu.be/a-767WnbaCQ?si=CRDuJoZ0dO2qTgW6)
   
 * [“The Mathematics of Percolation” by Prof Hugo Duminil-Copin (Fields Medallist) | 12 Jan 2024](https://youtu.be/da3-dHWb4WU?si=nIzhPamMugd_HOzK)
