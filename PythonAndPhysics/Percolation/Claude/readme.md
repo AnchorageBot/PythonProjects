@@ -6,7 +6,7 @@ Exercise # 1 Files
 * IBP_HDC_VE_Ex1.ipynb
 
 Exercise # 2 Files
-
+* IBP_HDC_VI_Ex2.ipynb
 
 - - - -
 
