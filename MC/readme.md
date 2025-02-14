@@ -22,3 +22,8 @@ Key aspects of the Monte Carlo method:
 - - - -
 
 Cholesky decomposition or Cholesky factorization (pronounced /ʃəˈlɛski/ shə-LES-kee) is a decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, which is useful for efficient numerical solutions, e.g., Monte Carlo simulations. - Wiki
+
+- - - -
+
+Videos
+* [Monte Carlo Simulation of a Stock Portfolio with Python - QuantPy](https://youtu.be/6-dhdMDiYWQ?si=EOyFQw5JjJx1Hl-0)
