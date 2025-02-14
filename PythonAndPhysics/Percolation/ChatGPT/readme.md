@@ -12,6 +12,7 @@ Exercise # 1 Files
 
 Exercise # 2 Files
 * IBP_HDC_VJ_Ex2.ipynb
+* IBP_HDC_VK_Ex2.ipynb
 
 - - - -
 Basic Glossary Table - Symbols & Concepts
