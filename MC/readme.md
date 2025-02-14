@@ -20,3 +20,5 @@ Key aspects of the Monte Carlo method:
 * Statistical analysis: It analyzes the results to draw conclusions or make estimations.
 
 - - - -
+
+Cholesky decomposition or Cholesky factorization (pronounced /ʃəˈlɛski/ shə-LES-kee) is a decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, which is useful for efficient numerical solutions, e.g., Monte Carlo simulations. - Wiki
