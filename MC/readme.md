@@ -27,3 +27,5 @@ Cholesky decomposition or Cholesky factorization (pronounced /ʃəˈlɛski/ shə
 
 Videos
 * [Monte Carlo Simulation of a Stock Portfolio with Python - QuantPy](https://youtu.be/6-dhdMDiYWQ?si=EOyFQw5JjJx1Hl-0)
+
+* [Monte Carlo Simulation - MIT 6.0002 Introduction to Computational Thinking and Data Science](https://youtu.be/OgO1gpXSUzU?si=sNL_OT6zH2BV4gNI)
