@@ -3,11 +3,14 @@ Tutor:
 OpenAI's ChatGPT
 
 - - - -
-
 Files
+* FormattingTips.txt
+
+Exercise # 1 Files
 * IBP_HDC_VA_Ex1.ipynb
 * IBP_HDC_VB_Ex1.ipynb
-* FormattingTips.txt
+
+Exercise # 2 Files
 
 - - - -
 Basic Glossary Table - Symbols & Concepts
