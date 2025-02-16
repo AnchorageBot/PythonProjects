@@ -8,6 +8,8 @@ Exercise # 1 Files
 Exercise # 2 Files
 * IBP_HDC_VI_Ex2.ipynb
 
+Exercise # 3 Files
+
 - - - -
 
 Glossary Table
