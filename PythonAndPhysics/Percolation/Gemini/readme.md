@@ -17,6 +17,8 @@ Exercise # 3 files
 * IBP_HDC_VM_Ex3.ipynb - Google's AI Gemini 2.0 Advanced Flash
 * IBP_HDC_VN_Ex3.ipynb - Google's AI Gemini 2.0 Advanced Pro Experimental
 
+Exercise # 4 files
+
 - - - -
 ## Glossary Table - Google's AI Gemini 2.0 Flash
 
