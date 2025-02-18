@@ -80,6 +80,8 @@ Videos
 
 * [History of Calculus - Animated - CodeEmporium - YouTube](https://youtu.be/IMj5dgGWxSM?si=nLDMWSSfiPK151Zd)
 
+* [Applying the chain rule and product rule - Khan Academy](https://youtu.be/QqAPCIIdx-E?si=kkDGGKlj3fqyVkua)
+
 * [Multi-variable Calculus - Khan Academy - YouTube](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 
 - - - -
