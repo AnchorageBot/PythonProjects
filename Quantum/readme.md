@@ -14,3 +14,5 @@ Algorithm's, APIs, and SDKs
 Videos
 
 * [The Race to Harness Quantum Computing's Mind-Bending Power | The Future With Hannah Fry - YouTube](https://youtu.be/1_gJp2uAjO0?si=fGCRcO4VHn-Ehz_d)
+
+* [Microsoft Unveils First Quantum Computing Chip - Bloomberg Technology](https://youtu.be/OOP4WbP2TbM?si=Wb0E2h11lhFP1KVl)
