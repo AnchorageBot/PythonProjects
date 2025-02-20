@@ -8,3 +8,5 @@ Videos
 * [Building with the Gemini API and AI Studio - Google for Developers](https://youtu.be/0W9-koKdGs4?si=JQvGCtRik4oZA93b)
 
 * [Build with Google AI Playlist - Google for Developers](https://youtube.com/playlist?list=PLOU2XLYxmsIIof-OQwbS0jL7nBTzHYFSv&si=HZSNnELpu_9QWGpo)
+
+* [Google Gemini APIs and AI Studio: Accelerating creative work and developer productivity - Stanford Deep Data Research Center](https://youtu.be/VRT8YNiD7xg?si=PjYCDD73zd96233l)
