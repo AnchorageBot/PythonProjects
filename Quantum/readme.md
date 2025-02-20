@@ -11,6 +11,10 @@ Algorithm's, APIs, and SDKs
 
 - - - -
 
+In particle physics a Majorana fermion or Majorana particle is a fermion that is its own antiparticle. They were hypothesised by Ettore Majorana in 1937 - [Wiki](https://en.wikipedia.org/wiki/Majorana_fermion)
+
+- - - -
+
 Videos
 
 * [The Race to Harness Quantum Computing's Mind-Bending Power | The Future With Hannah Fry - YouTube](https://youtu.be/1_gJp2uAjO0?si=fGCRcO4VHn-Ehz_d)
