@@ -7,6 +7,9 @@ Algorithm's, APIs, and SDKs
   *  [QISKit Software Development Kit](https://www.ibm.com/quantum/qiskit)
   *  [Tutorials](https://learning.quantum.ibm.com/catalog/tutorials?category=beginner)
 
+* [Microsoft Quantum](https://quantum.microsoft.com)
+  * [Introduction to the quantum programming language Q#](https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview) 
+
 * [Shor's algorithm - Wiki](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
 
 - - - -
