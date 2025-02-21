@@ -12,7 +12,7 @@ Google Search References:
 
 - - - -
 
-Provided References with cross checks
+Cross checked references
 * "Bryophyte Biology" by Bernard Goffinet and A. Jonathan Shaw - This comprehensive text covers moss evolution, physiology, and ecology
   * Confirmed reference; [Cambridge University Press, ISBN 9781139171304](
 https://doi.org/10.1017/CBO9781139171304)
@@ -28,3 +28,8 @@ https://doi.org/10.1017/CBO9781139171304)
     * Curator Emeritus, New York Botanical Garden
     * Pleurocarpus mosses
     * The Bryologist, JSTOR
+
+- - - -
+
+Videos
+* [The Weird World of Bryophytes - Mugsy Explains](https://youtu.be/3pJlsAZDbQ0?si=0uvtPXeeLZb9ituJ)
