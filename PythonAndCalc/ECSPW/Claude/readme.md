@@ -1,1 +1,1 @@
-Tutor: [Anthropic's AI Claude](https://www.anthropic.com/claude)
+Tutor: [Anthropic's AI Claude - 3.7 Sonnet](https://www.anthropic.com/claude)
