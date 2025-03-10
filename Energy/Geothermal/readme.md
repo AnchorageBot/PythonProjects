@@ -5,4 +5,4 @@ Reading
 
 * [The Future of Geothermal Energy - INL/EXT-06-11746 - November 2006](https://energy.mit.edu/wp-content/uploads/2006/11/MITEI-The-Future-of-Geothermal-Energy.pdf)
 
-[Gyrotron - Wiki](https://en.wikipedia.org/wiki/Gyrotron)
+* [Gyrotron - Wiki](https://en.wikipedia.org/wiki/Gyrotron)
