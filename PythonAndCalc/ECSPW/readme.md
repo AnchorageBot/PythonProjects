@@ -8,3 +8,5 @@ Videos
 * [Applying the chain rule and product rule - Khan Academy](https://youtu.be/QqAPCIIdx-E?si=kkDGGKlj3fqyVkua)
 
 * [Chain Rule with the Product Rule - BlackTshirtMathProfessor](https://youtu.be/xW2SDcTaKSE?si=u6vhRuLHBNBehp-U)
+
+* [2.4 Derivatives - Chain Rule and Power Chain Rule - CalculusGuide](https://youtu.be/3bV1KcdI25s?si=LiEcD3A9qrLiWKvB)
