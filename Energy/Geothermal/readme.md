@@ -2,6 +2,8 @@ Reading
 * [Geothermal Power Is a Climate Moon Shot Beneath Our Feet - By Brent Crane - March 2, 2025 - TNY](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 
   * [Gyrotron - Wiki](https://en.wikipedia.org/wiki/Gyrotron)
+ 
+  * [Maser - Wiki](https://en.wikipedia.org/wiki/Maser)
 
 * [The Future of Geothermal Energy Structure and Outcome of the Analysis - Jeff Tester and Ron DiPippo - Presentation at the DOE Geothermal Program Workshop](https://www1.eere.energy.gov/geothermal/pdfs/structure_outcome.pdf)
 
