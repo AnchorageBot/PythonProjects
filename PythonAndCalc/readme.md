@@ -45,9 +45,11 @@ Books
 
 * [Calculus Better Explained - Kalid Azad](https://betterexplained.com/guides/calculus/)
 
-* [Calculus with Multiple Variables Essential Skills Workbook: Includes Vector Calculus and Full Solutions - Chris McMullen](https://www.goodreads.com/book/show/58475436-calculus-with-multiple-variables-essential-skills-workbook)
+* [The Humongous Book of Calculus Problems - W. Michael Kelley](https://www.penguinrandomhouse.com/books/358857/the-humongous-book-of-calculus-problems-by-w-kelley/)
 
 * [Essential Calculus Skills Practice Workbook with Full Solutions - Chris McMullen](https://www.mcleanandeakin.com/book/9781941691243)
+
+* [Calculus with Multiple Variables Essential Skills Workbook: Includes Vector Calculus and Full Solutions - Chris McMullen](https://www.goodreads.com/book/show/58475436-calculus-with-multiple-variables-essential-skills-workbook)
 
 * [Mathematical Methods for Physics and Engineering - Riley, Hobson, Bence](https://www.cambridge.org/core/books/mathematical-methods-for-physics-and-engineering/911A43AE1CF224743D32707FCC4AE0EB)
 
