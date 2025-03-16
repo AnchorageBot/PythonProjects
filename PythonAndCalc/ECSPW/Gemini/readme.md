@@ -1,1 +1,1 @@
-Tutor: Google Gemini Advanced 2.0 Pro Experimental
+[Google Gemini Advanced 2.0 Pro Experimental](https://gemini.google.com)
