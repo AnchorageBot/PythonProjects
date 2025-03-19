@@ -18,6 +18,8 @@ Books
 
 Videos
 
+* [I can prove I’ve solved this Sudoku without revealing it - Polylog](https://youtu.be/Otvcbw6k4eo?si=0PMUnGsDrkqXEeVc)
+
 * [7 Cryptography Concepts EVERY Developer Should Know - Fireship](https://youtu.be/NuyzuNBFWxQ?si=-_xYxFR2EI9RPH6n)
 
 * [Improving Cryptography to Protect the Internet - Yael Kalai - Quanta Magazine](https://youtu.be/EMrpHQehRmY?si=dZ7CBvV0PGOZfvB5) 
