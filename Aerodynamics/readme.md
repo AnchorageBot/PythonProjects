@@ -4,3 +4,4 @@ Lectures
 
 Videos
 * [The Genius of Bionic Morphing Wings: Future of Flight? - Ziroth](https://youtu.be/al-PRRAs2vI?si=eXjMHd3devPMCty0)
+* [How Bionic Wings Are Reinventing Drones - Ziroth](https://youtu.be/vr0z2huKaCI?si=9JEs1aPwusBmIoCm)
