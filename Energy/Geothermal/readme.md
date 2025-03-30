@@ -10,3 +10,6 @@ Reading
 * [The Future of Geothermal Energy - INL/EXT-06-11746 - November 2006](https://energy.mit.edu/wp-content/uploads/2006/11/MITEI-The-Future-of-Geothermal-Energy.pdf)
 
 * [H.R. 7370 (118th): GEO Act - GovTrack](https://www.govtrack.us/congress/bills/118/hr7370)
+
+Videos
+* [Geothermal Energy is Changing - Real Engineering](https://youtu.be/b_EoZzE7KJ0?si=-zQiwoQqI0vOdG37)
