@@ -3,3 +3,4 @@ Books
 
 Videos
 * [What is algebraic geometry? - Aleph 0](https://youtu.be/MflpyJwhMhQ?si=rxIGZIdQvfPOPIG7)
+* [Ravi Vakil: Algebraic geometry and the ongoing unification of mathematics - The Abel Prize](https://youtu.be/vOboYNh_5is?si=CPIBnqx_1iUujgoJ)
