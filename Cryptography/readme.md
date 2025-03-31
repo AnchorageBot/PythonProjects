@@ -28,6 +28,8 @@ Videos
 
 * [Understanding Cryptography With These Five Worlds - Russell Impagliazzo - Quanta Magazine](https://youtu.be/RjzSFa03i2U?si=d4PEG802d6qaOTuT)
 
+* [Zero Knowledge Proof (with Avi Wigderson) - Numberphile](https://youtu.be/5ovdoxnfFVc?si=zCZYgTVCMpYL4Fqq)
+
 - - - - 
 
 Shannon’s maxim: “The enemy knows the system.”
