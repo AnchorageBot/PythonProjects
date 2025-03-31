@@ -8,6 +8,8 @@ Videos
 
 * [Airborne Wind Turbines: The Future of Clean Energy? - Ziroth - YouTube](https://youtu.be/NqORBETo9TM?si=n0o8sNrsMiAvc0Cj)
 
+* [Why kites could be the next big thing for wind power - DW Planet A](https://youtu.be/bvbgoJMQm9E?si=R2iRlJMSFT5_wrdk)
+
 Keywords
 * Cnidarian medusae
 * Ornithopter
