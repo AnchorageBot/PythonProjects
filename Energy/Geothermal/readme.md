@@ -13,3 +13,5 @@ Reading
 
 Videos
 * [Geothermal Energy is Changing - Real Engineering](https://youtu.be/b_EoZzE7KJ0?si=-zQiwoQqI0vOdG37)
+
+* [The Big Business of Drilling Deep Into the Earth | Bloomberg Primer](https://youtu.be/xM31ZUv5Bqg?si=oREplTg8-JXNlf7N)
