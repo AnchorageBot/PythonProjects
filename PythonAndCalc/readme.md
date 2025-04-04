@@ -84,6 +84,8 @@ Videos
 
 * [Multi-variable Calculus - Khan Academy - YouTube](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7)
 
+* [-1/12 Playlist - Numberphile](https://youtube.com/playlist?list=PLt5AfwLFPxWK2zCU-4X1iuuu5m8hf6L1B&si=YfoEIZT0d-Xlh60o)
+
 - - - -
 
 Interactive Development Environment (IDE)
