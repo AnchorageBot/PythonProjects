@@ -15,3 +15,5 @@ Videos
 * [Geothermal Energy is Changing - Real Engineering](https://youtu.be/b_EoZzE7KJ0?si=-zQiwoQqI0vOdG37)
 
 * [The Big Business of Drilling Deep Into the Earth | Bloomberg Primer](https://youtu.be/xM31ZUv5Bqg?si=oREplTg8-JXNlf7N)
+
+* [How the oil and gas industry can unlock endless geothermal energy - DW Planet A](https://youtu.be/_GCd30CSYa4?si=59Q2NoZhqObrHZ0F)
