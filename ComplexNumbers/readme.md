@@ -5,3 +5,5 @@ Videos
 
 * [Complex numbers as matrices | Representation theory episode 1 - All Angles](https://youtu.be/hsveVFoIJPM?si=NBGekKNO1MwOQTZF)
 
+* [Imaginary Numbers are Real - Welch Labs](https://youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF&si=5Q-snecqQ7vTQHzF)
+
