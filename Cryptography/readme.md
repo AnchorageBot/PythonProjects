@@ -30,6 +30,8 @@ Videos
 
 * [Zero Knowledge Proof (with Avi Wigderson) - Numberphile](https://youtu.be/5ovdoxnfFVc?si=zCZYgTVCMpYL4Fqq)
 
+* [The Magic of Zero-Knowledge Proofs - Ingonyama](https://youtu.be/FfeXX6OLq8w?si=B6Nkvdmw1HyW8RmL)
+
 - - - - 
 
 Shannon’s maxim: “The enemy knows the system.”
