@@ -1,6 +1,7 @@
 
 [What are the basic Mathematical Axioms? - Tom Rocks Maths](https://youtu.be/9Efsz2hIpxE?si=Rsse-8HTjXBrEmb-)
 
+[ZF and axiomatic set theory - bodirsky](https://youtu.be/2U0IeyM0KGk?si=Gbu1TWAJLQN1m4T6)
 
 Zermelo–Fraenkel Axioms
 * Axiom of extensionality
