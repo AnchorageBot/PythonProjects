@@ -5,7 +5,7 @@
 
 [ZF and axiomatic set theory - bodirsky](https://youtu.be/2U0IeyM0KGk?si=Gbu1TWAJLQN1m4T6)
 
-Zermelo–Fraenkel Axioms
+Zermelo–Fraenkel with Choice Axioms
 * Axiom of extensionality
 * Axiom of regularity
 * Axiom schema of specification
