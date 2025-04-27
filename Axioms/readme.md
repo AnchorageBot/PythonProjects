@@ -5,13 +5,32 @@
 
 [ZF and axiomatic set theory - bodirsky](https://youtu.be/2U0IeyM0KGk?si=Gbu1TWAJLQN1m4T6)
 
-Zermelo–Fraenkel with Choice Axioms
-* Axiom of extensionality
-* Axiom of regularity
-* Axiom schema of specification
-* Axiom of pairing
-* Axiom of union
-* Axiom schema of replacement
-* Axiom of infinity
-* Axiom of power set
-* Axiom of well-ordering (choice)
+Zermelo-Fraenkel Axioms with Equations
+
+1. **Axiom of Extensionality (Identity)**:  
+   ∀A ∀B (A = B ↔ ∀C (C ∈ A ↔ C ∈ B))
+
+2. **Axiom of Foundation (Regularity)**:  
+   ∀A (A ≠ ∅ → ∃B (B ∈ A ∧ B ∩ A = ∅))
+
+3. **Axiom of Specification (Comprehension)**:  
+   ∀A ∃B ∀x (x ∈ B ↔ x ∈ A ∧ φ(x))
+
+4. **Axiom of Pairing**:  
+   ∀a ∀b ∃C ∀x (x ∈ C ↔ x = a ∨ x = b)
+
+5. **Axiom of Union**:  
+   ∀A ∃B ∀x (x ∈ B ↔ ∃C (C ∈ A ∧ x ∈ C))
+
+6. **Axiom of Power Set**:  
+   ∀A ∃B ∀x (x ∈ B ↔ x ⊆ A)
+
+7. **Axiom of Infinity**:  
+   ∃A (∅ ∈ A ∧ ∀x (x ∈ A → x ∪ {x} ∈ A))
+
+8. **Axiom Schema of Replacement**:  
+   If F is a function, then:  
+   ∀A ∃B ∀y (y ∈ B ↔ ∃x (x ∈ A ∧ y = F(x)))
+
+9. **Axiom of Choice** (added to form ZFC):  
+   ∀A (∅ ∉ A ∧ ∀x,y ∈ A (x ≠ y → x ∩ y = ∅) → ∃C ∀x ∈ A (|C ∩ x| = 1))
