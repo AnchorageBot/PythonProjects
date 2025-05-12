@@ -17,5 +17,9 @@ Based upon a conversation with Anthropic's AI Claude
 | LCO | Lithium Cobalt Oxide | Not specified (older chemistry) | Early lithium-ion batteries; used high amounts of cobalt (0.95kg per kWh) |
 | LMO | Lithium Manganese Oxide | Not specified | Early EVs like Chevrolet Volt, Nissan Leaf |
 | LMFP | Lithium Manganese Iron Phosphate | Higher than standard LFP | Newer EVs requiring better energy density than standard LFP |
+| SIB | Sodium-ion Battery | ~90-160 | Stationary energy storage, potential for short-range EVs; uses abundant sodium instead of lithium |
+| NaS | Sodium-Sulfur Battery | Not specified | High-temperature battery (300-350°C); used for grid stabilization and extreme environments |
+| ZEBRA | Sodium Nickel Chloride (Zero Emission Battery Research Activity) | Not specified | High-temperature molten salt battery; developed in 1985 for electric vehicles |
+| Lead-acid | Lead-acid | Much lower than lithium-ion | Traditional batteries for automotive starting, lighting, ignition; backup power supplies |
 
-**Note:** Energy density values are based on the transcript information. The actual values may vary based on specific battery designs and manufacturing processes. The NEDC (New European Driving Cycle) range standard mentioned in the transcript is generally considered more optimistic than EPA standards used in the US.
+**Note:** Energy density values are based on the transcript information. The actual values may vary based on specific battery designs and manufacturing processes. The NEDC (New European Driving Cycle) range standard mentioned in the first transcript is generally considered more optimistic than EPA standards used in the US. Sodium-ion batteries from CATL are reported to achieve 160 Wh/kg in first generation with goals of exceeding 200 Wh/kg in second generation.
