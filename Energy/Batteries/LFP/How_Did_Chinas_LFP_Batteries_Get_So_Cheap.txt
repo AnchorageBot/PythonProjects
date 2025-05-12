@@ -1,1 +1,476 @@
+How Did China's LFP Batteries Get So Cheap?
+
+Asianometry YouTube Channel
+
+0:02
+Per Bloomberg, in 2024 lithium-ion  battery pack prices fell 20% to  
+0:08
+$115 per kilowatt-hour. It is  the biggest price cut since 2017.
+0:14
+At these prices, it is cheaper to buy Chinese  even with tariffs of 25%, 35% and perhaps 120%.
+0:24
+Central to this trend are the price  and technology developments going  
+0:28
+on in a specific type of battery:  Lithium Ion Iron Phosphate or LFP.
+0:35
+LFP batteries were once seen as cheap  and low-end, suffering fundamental  
+0:40
+chemistry weaknesses. Leave it to China  to engineer their way around such limits.
+0:46
+In this video, one of the most revolutionary  cost curves in energy history. China and the LFP.
+0:53
+## The Three Chemistries
+0:53
+Lithium ion batteries have two  electrodes: the cathode and anode.
+0:58
+The anode is usually just graphite.  So the cathode is the battery's most  
+1:03
+expensive part - over 70% of its value  - and how we distinguish between them.
+1:10
+In the industry there are three major chemistries.  First there are the two ternary batteries. They  
+1:15
+are called that because their cathodes  mix three materials in varying ratios:  
+1:20
+Nickel manganese cobalt, or NMC,  and Nickel Cobalt Aluminum or NCA.
+1:28
+The ternary batteries boast higher energy  densities, meaning that they can store  
+1:32
+more energy in the same size and weight.  So you can make a lighter battery pack,  
+1:37
+letting EVs potentially go  further on a single charge.
+1:41
+This is great, but it comes at a  cost. Nickel and cobalt are rarer,  
+1:45
+more expensive materials, which is a big deal  since raw materials are 70% of a battery's cost.
+1:53
+And the ternary batteries' higher  energy densities raise thermal risks,  
+1:57
+potentially leading to something called  thermal runaway - meaning a fire.
+2:02
+The LFPs are the third major chemistry,  
+2:05
+using a dual-chemistry cathode made from  iron phosphate. There is no cobalt or nickel.
+2:12
+Since iron and phosphorous are far more common  materials, LFPs hold a substantial cost advantage.  
+2:19
+They can also better hold their initial energy  capacity after many charge and discharge cycles.
+2:26
+The problem is that LFPs suffer  lower energy densities - about 90  
+2:30
+to 160 watt-hours per kilogram. NCA on the  other hand ranges 230 to 260 watt-hours per  
+2:37
+kilogram. And NMC the highest at 250  to 320 watt-hours per kilogram. This  
+2:45
+gap does narrow at a practical level  but it’s nevertheless substantial.
+2:51
+So all things being equal, EVs powered by LFP  batteries will not have ranges as long. That  
+2:57
+sucks, but an upside is that the lower energy  density also lowers the risks of thermal runaway.
+3:04
+So to make a big generalization, batteries  have three angles: Performance, cost,  
+3:09
+and safety. LFPs have cost and safety, but  not performance. NMC and NCA have performance,  
+3:16
+but not cost and safety.  You can't have everything.
+3:21
+## Battle of the Batteries
+3:21
+In the early years of lithium ion, the first  batteries were Lithium Cobalt Oxide or LCOs, an  
+3:27
+older chemistry that used about 0.95 kilograms of  cobalt for each kilogram-hour of energy capacity.
+3:35
+As lithium ion got more popular though,  
+3:37
+it became clear that using this much cobalt  - which had to come from the Democratic  
+3:41
+Republic of Congo - was not economically,  morally, or environmentally sustainable.
+3:48
+This is how ternary battery chemistries like  NCA, NMC, and a third one I haven't mentioned  
+3:54
+before called Lithium Manganese Oxide or LMO  first gained traction. They still used cobalt,  
+4:01
+but far less of it. 0.14 kilograms in the  case of NCA, and 0.4 kilograms for NMC.
+4:09
+In the 2010s, pioneering EV cars in the West  like the Chevrolet Volt, the Nissan Leaf,  
+4:14
+and the Tesla Model S ran on battery packs  made with ternary cathode chemistries.
+4:22
+Meanwhile in China, China's first EV makers  adopted LFPs for their new energy vehicles,  
+4:27
+particularly buses, due to the influence  of early government industrial policies  
+4:32
+like the "Thousands of Vehicles,  Tens of Cities" policy or TVTC.
+4:37
+Launched in 2009, TVTC issued subsidies to  various municipal governments to have them  
+4:43
+purchase public service fleets like buses, taxis,  and government cars. The idea was to address  
+4:50
+urban air pollution, energy security  issues, and make Chinese EVs great.
+4:56
+Chinese companies like BYD adopted LFPs  early on due to cost and safety concerns,  
+5:03
+becoming strong pioneers in the  space. And for the first few years,  
+5:07
+LFP chemistries dominated the Chinese EV industry.
+5:12
+In late 2016, however, the Chinese  government started changing its subsidy  
+5:15
+policies in an attempt to push the EV industry  to produce cars more attractive to consumers.
+5:22
+The policy linked car subsidies to several  factors like higher energy density,  
+5:27
+longer driving ranges, faster charging rates,  
+5:30
+and fuel savings. If the EV had range of less  than 150 kilometers, then no soup for you.
+5:38
+This favored cars with  ternary battery chemistries,  
+5:41
+which could unlock the juiciest  subsidies, offer the lowest prices,  
+5:45
+and capture market share. And over the next  three years, even long-time LFP loyalists  
+5:51
+adopted ternary. Like BYD and their 2017 models  of the Tang 100, Song EV 300 and the Qin EV 300.
+6:00
+By mid 2019, ternary batteries reached  about 70% share of installed capacity.  
+6:05
+The market share of LFPs fell to 30%  and in some quarters, even lower.
+6:12
+## The Subsidies Withdraw
+6:12
+Two major developments reversed  this trend and revitalized the LFP.
+6:17
+The first started in June 2019, when  the Chinese government signaled that  
+6:21
+the EV cash subsidy policies instituted three  years earlier would be gradually withdrawn.
+6:28
+Now, people have known this was coming.  The scale of the subsidies had gotten  
+6:32
+to be somewhat significant. There were also  unsavory reports of "subsidy cheating" - with  
+6:38
+companies making up fake customers or  registering fake cars for free money.
+6:43
+The Chinese government probably felt it was time  to move on to non-monetary forms of support,  
+6:49
+like streamlining the issuing of  drivers' licenses to those with EVs.
+6:54
+However, the size and schedule of  the withdrawn subsidies somewhat  
+6:58
+surprised the Chinese EV industry. Right  off the bat in mid-2019, the subsidy was  
+7:03
+reduced by 50%. More chunks of the subsidy  would be removed in each subsequent year.
+7:10
+This aggressive sunsetting leveled the cost  playing field. EV makers rushed to switch back  
+7:16
+to LFP. At the same time, LFP makers rolled out  new technologies to curb fundamental weaknesses.
+7:25
+## Blade
+7:25
+Back in 2021, many years ago, I did a video  about CATL, the Chinese battery giant.
+7:31
+And in that video, I briefly mentioned the BYD  Blade battery, though didn't say much about it.  
+7:36
+I probably should have, since as it turns out,  the BYD Blade remade EV battery manufacturing.
+7:43
+BYD first introduced the Blade in March 2020, and  it debuted in the company's BYD flagship sedan,  
+7:50
+the Han, a few months later. So what  is the big deal about the Blade?
+7:54
+An EV battery has three manufacturing  levels: Packs, modules, and cells.
+8:00
+Cells are the battery's smallest and most  fundamental blocks. They have the cathode,  
+8:05
+anode, and electrolyte chemicals in various  shape factors like pouches or cylinders.
+8:11
+There might be thousands or even  tens of thousands of cells in a  
+8:15
+pack. Sliding so many cells into a pack  presents challenges. Handling so many  
+8:21
+at once is hard, and there are concerns with  maintaining the pack's structural integrity.
+8:27
+So what traditional EV battery manufacturers  did was to group battery cells into modules.  
+8:33
+The number of cells in a module  is arbitrary, ranging from four  
+8:37
+to twelve, but it offers an intermediate  building block towards the final pack.
+8:43
+What BYD did with the Blade was to entirely  skip the module, sliding cells directly into  
+8:49
+the battery pack. Ergo the name, Cell-to-Pack  or CTP. The idea is to compensate for LFP's  
+8:57
+fundamentally worse energy density by  making maximum use of the pack's volume.
+9:03
+To maintain the whole pack's structural  integrity, BYD uses a cell form factor  
+9:07
+called the prismatic cell. A prismatic cell  is a long and flat pouch of many stacked  
+9:13
+layers of materials inside a  rigid rectangular metal casing  
+9:17
+that offers structural integrity. To help  prevent swelling, there might be a clamp.
+9:23
+BYD re-engineered the prismatic cell form  factor into a very long, ultra-thin shape.  
+9:28
+The metal casing basically spans the width of  the whole battery pack. Ergo the name, Blade.
+9:35
+The Blade was a game-changer. The  Extended Range version of the 2020  
+9:39
+Han EV had range of 605 kilometers. Note  that this and other numbers cited here  
+9:45
+were calculated using a rather  forgiving range formula out of  
+9:48
+Europe called NEDC. So I can't say they  are comparable with US range metrics.
+9:55
+Anyway, 605 kilometers was in the same  neighborhood of the Model 3 with 668 kilometers,  
+10:02
+and the Xpeng P7 with 706 kilometers. But those  were premium EVs running ternary batteries,  
+10:10
+costing anywhere from 270,000 to 330,000 RMB.
+10:16
+The Han on the other hand got its  range numbers using just LFP batteries,  
+10:20
+and cost just 210,000 to 258,000 RMB.
+10:26
+CTP gives LFP battery packs about 85% the energy  density of a conventional NMC battery. And those  
+10:34
+ternary batteries have a tough time adopting CTP  for themselves due to their hotter temperatures.
+10:41
+Soon afterwards, other major Chinese  EV battery makers adopted the concept.  
+10:46
+CATL for instance, brought out their  very creatively named CTP technology,  
+10:51
+which they used for their Qilin battery pack.
+10:55
+LFP battery volumes overtook NMC in 2021. And  by 2023, they accounted for nearly 70% of EV  
+11:03
+installations, per the China Automotive  Battery Industry Innovation Alliance.
+11:10
+NMC batteries are still better in energy density,  but are now primarily used for the premium,  
+11:16
+high performance cars. For example, the  Xiaomi SU7's Max and Ultra versions.
+11:23
+## Patents
+11:23
+Another major helpful development  for China involved patents.
+11:26
+The current lithium ion battery structure - with  
+11:29
+its focus on cathodes - was discovered  and patented by the American scientist  
+11:33
+and Nobel winner Dr. John Goodenough.  He also pioneered the LFP cathode too.
+11:40
+However, the LFP as invented by Goodenough was  not commercially performant. In particular,  
+11:45
+there were poor electrical conductivity  issues. The charge carriers could not move  
+11:50
+between the cathode and anode fast  enough during charge and discharge.
+11:55
+Years later, key innovations in carbon coating  and process technologies were invented,  
+11:59
+making the LFP a commercially  competitive product. These were  
+12:03
+patented by researchers at universities  and public entities in Canada and Europe.  
+12:08
+All these patents were then consolidated into a  single Swiss entity managing global licensing.
+12:15
+According to the IEA, there was a deal  made in the 2000s or 2010s that allowed  
+12:20
+the Chinese battery-makers to use  these LFP battery patents for free,  
+12:25
+but only for their local markets. Everyone else  had to negotiate for and pay a license fee.
+12:32
+This strange sort of "patent shield"  allowed the Chinese to lean into and  
+12:37
+build up proficiency in LFP. Meanwhile, the  rest of the world's EV battery makers pursued  
+12:42
+non-LFP structures - hesitating  at the patent licensing issue.
+12:48
+These patents finally expired in 2022. On  one hand, this meant that foreign battery  
+12:54
+makers can finally access and use the LFP  chemistry themselves without worrying about  
+12:59
+these licensing fees. But anyone trying to  do that was starting out massively behind.
+13:05
+Because in the years leading up to 2022,  the Chinese battery makers had built up  
+13:09
+immense LFP supply chain proficiency.  They had the cell-to-pack innovations,  
+13:14
+massive economies of scale, materials  sourcing, talent pipelines, and more.
+13:20
+## Competition
+13:20
+Until 2021, BYD practiced vertical integration.  BYD batteries were only for BYD cars.
+13:28
+This was necessary in the early days when  the technology was immature. But it also  
+13:32
+allowed other third party makers like CATL  and LG Energy Solution a spot in the market.
+13:39
+In 2021 this changed and BYD started selling its  Blade batteries to third parties like Toyota,  
+13:46
+Ford, and other car companies. This introduced a  
+13:49
+major new Tier 1 battery supplier to  the market, triggering a price war.
+13:54
+This is on top of the already-insanely competitive  situation in the Chinese EV market. The Financial  
+14:01
+Times recently reported that a new Chinese  EV model hits the market every two days.
+14:07
+Car makers are looking for ways to  differentiate themselves particularly  
+14:10
+at the high end. More range, faster  charging, you know what I mean. So  
+14:15
+LFP makers are looking to new production  methods or recipes to fulfill those needs.
+14:21
+An interesting one is LMFP, Lithium  Manganese Iron Phosphate. Where you add  
+14:27
+manganese and get a battery with higher  energy density than your ordinary LFP.
+14:32
+Another is the "double firing" (二烧)  process flow. Traditional LFP makers  
+14:37
+take the raw precursors of their cathodes  - lithium salt, iron phosphate, carbon.
+14:42
+And then they "fire" those ingredients in a single  
+14:45
+high-temperature run to trigger certain  chemical reactions and sinter particles.
+14:51
+The issue with single-firing however is  that it can cause uneven grain growth  
+14:56
+and poor carbon coatings, leading  to inferior conductivity issues.
+15:02
+So the new idea from the Chinese is to dual-fire,  
+15:06
+you first partially fire up the  precursors at a lower temperature.
+15:11
+Then you mill and carbon coat  the resulting particles before  
+15:14
+doing a second firing. You get more  uniform and similarly sized particles,  
+15:20
+translating to better, more  consistent performance.
+15:23
+Perfect for long-range, fast-charging EVs.
+15:27
+## Raw Materials A significant factor in the lithium ion battery
+15:30
+price crash was a concurrent crash  in raw materials prices after 2022.
+15:36
+As I mentioned earlier, 70-80% of the cost of  a battery cell is the cost of its materials.
+15:43
+And in the case of LFP, 80% of that material  
+15:46
+cost is the cost of the iron  phosphate and lithium alone.
+15:50
+In 2023, new lithium sources came online  in Australia, Chile and Argentina.  
+15:56
+This rapidly reversed what had been a lithium  shortage in 2022, causing prices to crash.
+16:03
+The glut has caused a few mines to produce losses.
+16:06
+But their Chinese operators are injecting cash  
+16:09
+to keep them open and mining for  political and technical reasons.
+16:15
+And as for iron ore, iron prices reversed from its  2022 highs thanks to China's real estate crisis.  
+16:23
+That crisis has mothballed  China's crude steel production,  
+16:26
+which in turn caused iron ore  prices to fall 15% in 2024 alone.
+16:33
+All this means that Chinese EV battery  makers can cut battery prices - and they  
+16:38
+have to due to the intense competitive  environment - and still make profit.
+16:43
+In 2024, CATL revenues declined 9% from  400 billion RMB to 362 billion RMB,  
+16:52
+but gross profit margins rose 19.2% to 24.4%.
+16:59
+Now, I do admit that 24% isn't exactly  super exciting. It's nothing like Meta's  
+17:04
+81% margins or even Apple's 42.7% gross  margins. But at scale, those add up.
+17:11
+## Utility-Scale
+17:11
+The LFP battery's crashing prices has had  spillover effects in other industries beyond EVs.
+17:18
+I have recently been researching a few videos  relating to utility-scale stationary energy  
+17:23
+storage systems - ways to store power produced by  wind or solar during times of low energy demand.
+17:30
+You lose some amount of energy from  converting the power into something  
+17:33
+else and then getting it back again, but the  idea is that it is cheaper than trying to ramp  
+17:38
+up a coal plant or something else like  that during peak hours. It's arbitrage.
+17:43
+The canonical system is pumped storage, which I  covered in an earlier video. It is very simple,  
+17:49
+a reservoir up on a hill. When power is cheap,  
+17:52
+we pump water up into it. When we  need power, we drop water down.
+17:56
+But there are other methods  that are a bit stranger. For  
+17:59
+example. My personal favorite is  "power to gas". This is where we  
+18:03
+use a method called electrolysis to  split water molecules into hydrogen.
+18:08
+And then in a second step, we  capture carbon dioxide from the  
+18:11
+air and fuse it into the hydrogen  to produce methane. In other words,  
+18:16
+natural gas. The idea being that we can  plug in to existing LNG infrastructure.
+18:24
+This particular scheme and virtually  all others are now uncompetitive as the  
+18:28
+crashing costs of LFP batteries  have tipped the market to BESS,  
+18:33
+or Battery Energy Storage Systems.  LFPs were already favored for BESS  
+18:37
+prior to 2021 due to their cheaper material  costs and resistance to thermal runaway.
+18:44
+But the Chinese EV boom in 2021  has really set BESS on fire,  
+18:48
+figuratively. They are not competitive  in sheer capacity size (yet),  
+18:53
+they only provide 1-2 hours of power rather  than the 4-12 hours that pumped storage can.
+18:59
+But BESS are cheap - incredibly cheap  - and are simple to build. The whole  
+19:04
+system is put inside a standard-sized  container and brought over to the site.
+19:10
+And while there are legitimate  fire concerns with BESS,  
+19:13
+vendors are getting better at controlling them.
+19:17
+Billions of dollars are pouring into BESS projects  across the United States, particularly in the  
+19:22
+states of California and Texas. $11.45  billion in the first half of 2024 alone,  
+19:29
+with funds coming not only from government  but also banks and infrastructure hedge  
+19:34
+funds. How those projects will be affected  by tariffs, though, we have yet to see.
+19:40
+## Conclusion
+19:40
+The Chinese EV and stationary battery  industries continue to churn forward.  
+19:44
+Market analysts point out that  LFP prices will continue to fall,  
+19:48
+but probably nowhere near as  fast as they were in prior years.
+19:52
+I think one of the most interesting  industry developments to keep an eye on is  
+19:57
+the forthcoming technology progress of sodium ion.
+20:00
+I covered this in another video a few  years back and have not mentioned much  
+20:04
+about it since. But CATL, BYD  and Huawei are all pursuing it.
+20:10
+Sodium ion suffers fundamental energy  density shortcomings against lithium  
+20:14
+ion. But sodium is far more accessible than  lithium, seems to be able to charge faster,  
+20:20
+and energy density numbers are getting better.
+20:23
+Considering how optimized the LFP supply chain is,  
+20:27
+I wonder if sodium will be  as impactful. We shall see.
+ 
 
