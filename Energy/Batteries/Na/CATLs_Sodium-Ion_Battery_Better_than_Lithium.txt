@@ -1,0 +1,337 @@
+CATL's Sodium-Ion Battery: Better than Lithium?
+
+Asianometry - YouTube
+
+Contemporary Amperex Technology or CATL recently unveiled their first generation sodium ion
+0:06
+batteries for commercial use. I have been hearing a lot about this technology and thought
+0:10
+that it would be worth talking about.
+0:13
+Scientists started off developing sodium ion batteries right alongside lithium ion batteries.
+0:18
+Over time, lithium rose to dominance and sodium fell by the wayside. But now things have changed,
+0:24
+and sodium ion batteries have started to see renewed interest.
+0:28
+In this video, we will briefly review sodium ion batteries, their state of development,
+0:32
+and what their commercialization means for the renewable energy market
+0:49
+at large.
+ SodiumIon Battery
+1:02
+Sodium ion batteries share a similar structure with lithium-ion batteries. They have a cathode,
+1:07
+an anode, a porous separator between the two, and an electrolyte. When the battery is being
+1:13
+used, ions migrate back and forth between the cathode and anode.
+1:18
+The primary difference between the two battery types is that their components are made of
+1:21
+different compounds. That is actually part of the appeal. It is likely that commercial
+1:26
+sodium ion batteries can share the same engineering and production methods as lithium ion batteries.
+1:33
+The single biggest advantage that sodium ion batteries have over lithium ion batteries
+1:37
+has to do with the availability of certain raw materials, and linked to that - cost.
+1:43
+Almost all of the world's lithium comes from four countries: Australia, Chile, China, and
+1:48
+Argentina. And this element is not particularly easy nor environmentally friendly to extract.
+1:53
+Furthermore, there are other critical elements like cobalt which present particularly large
+1:58
+environmental and humanitarian concerns.
+2:02
+The global supply of sodium by contrast is essentially unlimited. There are over 1,000
+2:06
+times more sodium than lithium in the earth's crust. This translates to a raw ingredient
+2:10
+cost of $150 per ton as compared to lithium's $5,000 - a 30x decrease.
+ Molten Salt Batteries
+2:19
+Researchers have been trying to commercialize sodium ion batteries side by side with lithium
+2:23
+ion batteries. Development kicked off in the early 20th century, when it was discovered
+2:28
+that molten salts were capable of conducting high amounts of sodium ions.
+2:33
+In 1968, scientists at the Ford Company developed a sodium-sulfur battery for use in electric
+2:39
+vehicles. It was essentially made of a tube of metallic sodium dipped into another tube
+2:43
+of liquid sulfur.
+2:45
+Ford felt that a 350 pound sodium-sulfur battery could provide 200-300 miles of range for a
+2:52
+1,350 pound car running at 40 miles an hour. The minimum charge time was said to be half
+2:59
+an hour.
+3:00
+The biggest challenge was that it only worked at very high temperatures: 570 to 660 degrees
+3:06
+Fahrenheit or 300 to 350 degrees Celsius. As you might expect, this caused safety and
+3:13
+longevity issues - especially in cars. For instance, at those temperatures, the aluminum-based
+3:19
+container tubes would react with the battery chemicals and rupture.
+3:24
+Ford never was able to commercialize the technology for a working electric vehicle. And it makes
+3:29
+a lot of sense why molten salt batteries as they are called have yet to see wide use in
+3:34
+mobile electronics. But they do have several real-world applications. The most common is
+3:39
+to provide power for guidance systems in missiles.
+3:43
+But they are also ideal for extreme environments. I just finished a video about using them on
+3:48
+the surface of Venus!
+3:50
+Ford eventually sold this technology to a Japanese company called NGK. Today, they are
+3:55
+sold as stationary battery solutions for peak energy use and grid stabilization.
+ Lithiumion Batteries
+4:01
+The Oil Crises of the 1970s revitalized interest in this technology. In 1985, South African
+4:07
+researchers created a new version of the molten salt battery using nickel chloride and sodium
+4:13
+tetrachloroaluminate.
+4:15
+The ZEBRA battery as it was called held a lot of promise. But in 1989 Sony successfully
+4:21
+commercialized the lithium-ion battery and its advantages quickly won over the industry.
+4:26
+From then on, research largely focused there.
+4:29
+Today, lithium ion battery technologies largely dominate the industry. They are the first
+4:34
+choice for use in electric vehicles, stationary batteries, and mobile gadgets.
+4:40
+But in the 2000s, concerns began emerging with regards to the supply of raw materials.
+4:45
+Like as I mentioned earlier, natural sources of lithium are limited and that cannot be
+4:49
+the case if we want to be truly serious about a carbon-free economy.
+4:52
+Secondly, a less heralded reason has to do with intellectual property rights. So many
+4:59
+patents have been filed around lithium ion technologies that new companies have to be
+5:03
+extremely careful not to run afoul of the lawyers. Sodium ion battery technologies in
+5:08
+contrast offer far larger green fields.
+5:12
+Thus starting in the 2010s, people started taking a second look at sodium ion batteries
+5:18
+- which would again use sodium, but at room temperatures. The number of publications relating
+5:23
+to sodium ion batteries began to quickly rise - and in recent years have even surpassed
+5:28
+that of lithium ion batteries.
+5:31
+Batteries, especially prototypes, wildly differ from one another. But for the most part, scientists
+5:37
+have started to hone in on a few high-potential sodium ion battery chemistries.
+5:43
+Most studies have converged on making the anodes from a substance called "hard carbon".
+5:49
+It can also be colloquially described as charcoal.
+5:53
+The electrolyte makes sure that the sodium ions can travel from the anode to the cathode.
+5:59
+These have to be of low viscosity, high conductivity, and be electrochemically stable. Researchers
+6:05
+have generally chosen sodium salts dissolved in solvents of organic carbonate. Though there
+6:10
+is plenty of research advocating for other options too. I won’t cover them here.
+6:16
+The cathode is where much of the latest research has been focused on, same as with the lithium
+6:21
+ion battery. Makes sense since the cathode is the single most expensive component in
+6:26
+the whole thing - and is key to its overall viability. Many candidate materials have emerged
+6:32
+as potential contenders.
+6:35
+The most common and closely studied class of cathode material are sodium layered oxides.
+6:41
+These are pretty wild. They have a crystalline structure made up of sheets of metal oxides
+6:47
+with sodium ions sandwiched in between.
+6:50
+They are distinguished with a P2, O3, and P3 notation that refers to their geometries.
+6:57
+The reason why they show so much promise is because their crystalline structures have
+7:01
+a lot in common with that of lithium cobalt oxide, the first legit cathode material in
+7:08
+lithium-ion batteries.
+7:10
+There has been a whole lot of research in cathode materials for sodium ion batteries.
+7:14
+Other researched candidates include sulfides, phosphates, fluorophosphates, carbonophosphates,
+7:20
+vanadium-based polyanionic compounds, and so on. CATL, for their part, has opted to
+7:26
+make their cathodes out of something else.
+7:30
+There has a been a whole lot of experimentation in the past years. The science has moved fast,
+7:35
+and the first few sodium ion battery products have started to inch towards the market.
+7:40
+The first really, actually commercial-ready sodium-ion battery looks to be a 18650 cell
+7:47
+created by the French research agency CNRS CEA in 2015.
+7:55
+18650 is a standard format size and refers to the battery's dimensions. 18 millimeters
+8:00
+wide, 65 millimeters tall, and the 0 means that it is a cylindrical format. The reported
+8:06
+energy density is about 90 watt hours per kilogram.
+8:10
+Two years later in 2017, the agency spun off the research into a startup called Tiamat
+8:15
+Energy. The company's long term objective is to develop low-voltage systems for hybrid
+8:20
+vehicles, and help ensure French technological sovereignty.
+8:24
+In June 2020, researchers at Washington State University and Pacific Northwest National
+8:30
+Laboratory announced a more advanced sodium ion battery. Its creators speculate that the
+8:35
+battery might be able to achieve a practical specific energy of ~160 watt hours per kilogram.
+8:43
+This is comparable to current lithium iron phosphate batteries. That being said, we should
+8:48
+temper our expectations here. Sodium has lower ionization potential or ionization energy
+8:54
+than lithium. This means that sodium ion batteries will have lower energy densities and operating
+8:59
+voltages than their lithium counterparts. And it is not clear whether they can ever
+9:03
+catch up to top line lithium ion batteries in this regard.
+9:08
+There are also a number of other technology startups trying to commercialize sodium ion
+9:13
+batteries. Some examples include UK-based Faradion Limited, Sweden-based Altris AB,
+9:20
+China-based HiNa Battery, and US-based Natron Energy.
+9:26
+Now that we have very, very briefly gone over the current state of the research in sodium
+9:31
+ion batteries, we can review the CATL announcement and get some perspective here.
+ CATLs Announcement
+9:37
+In their announcement, CATL gave a few details about how their sodium ion battery works.
+9:42
+The anode is made out of hard carbon, as is commonly the case.
+9:46
+They noted that their hard carbon anode features a "unique porous structure", which lengthens
+9:50
+its cycle lifetime and allows for more sodium ion movement.
+9:55
+For the cathode however, they are using something interesting. They mention that they are using
+9:59
+a substance called Prussian white.
+10:02
+Prussian white is an analogue of a pigment called Prussian Blue. First synthesized over
+10:07
+300 years ago, the dye makes a beautiful blue shade and has been noted for removing heavy
+10:11
+toxic metals from the body. It is very cheap, easily made and nontoxic.
+10:18
+But some time in the early 2010s, researchers also noticed its suitability for use in sodium
+10:24
+ion battery cathodes. They have good discharge rates, and can sustain their capacity over
+10:29
+many charge cycles. Some tests have shown 95% retention even after 10,000 cycles.
+10:36
+One big drawback of Prussian Blue cathodes - and there will always be drawbacks - is
+10:41
+that they lose a lot of their capacity in the presence of moisture.
+10:46
+Other companies have been exploring Prussian blue cathodes. Notable companies include the
+10:50
+aforementioned Altris AB and Natron Energy.
+10:54
+CATL said that their first generation sodium ion battery can achieve energy densities of
+10:59
+up to 160 watt hours per kilogram. This is comparable to the Washington State battery
+11:04
+unveiled last June which as I mentioned, is in turn competitive with current lithium iron
+11:09
+phosphate batteries. The second generation hopes to be over 200 watt hours per kilogram.
+11:15
+Furthermore, like as I mentioned, the engineering and manufacturing processes are similar between
+11:20
+sodium and lithium ion batteries. So CATL can really take advantage of this by tightly
+11:26
+integrating their sodium ion offering into their existing lithium ion infrastructure
+11:31
+and product ecosystem.
+11:33
+It is worth keeping in mind though that since the two preparatory processes will have so
+11:37
+much overlap, sodium ion battery costs will not be drastically lower than lithium ion
+11:42
+batteries. Most of the savings will come from cheaper raw material costs.
+11:48
+It is like how gasoline prices don't rise and fall in step with oil prices. One paper
+11:54
+estimates that the end users will see 10-30% price savings using sodium-ion, with all things
+12:00
+being equal.
+12:01
+They called out battery system integration capabilities where they can mix and match
+12:06
+sodium and lithium ion batteries into one single system. Lithium ion batteries, which
+12:11
+right now have higher energy densities, are automatically used by the system when sodium
+12:16
+ion falls short. So that is kind of interesting.
+ Conclusion
+12:21
+We talk a lot about new and exciting battery chemistries. But the reality is that a lot
+12:25
+of these concepts do not see commercialization, and far fewer get widely adopted.
+12:30
+For instance, lead acid batteries have been around for 150 years. Their energy densities
+12:36
+are not comparable with lithium ion and their materials are quite toxic.
+12:41
+Yet because lead acid batteries are cheap and reliable they are still very widely used.
+12:46
+In 2020, global lead acid battery sales totaled nearly $50 billion. Inertia really means a
+12:53
+whole lot.
+12:55
+So not everything will be a lithium ion battery-level of success. And it looks like sodium ion batteries
+13:00
+will never be able to replace lithium in certain use cases like mobile phones and other electronic
+13:06
+gadgets.
+13:08
+But they have potential in short-range electric vehicles and especially in stationary power
+13:13
+systems. Places where space is less of a big deal, making their lower energy density not
+13:18
+so much of a confounding factor.
+13:20
+For instance, energy storage for solar and wind renewables. Those areas, which operate
+13:26
+at scale, can also really appreciate the cost savings.
+13:29
+There are already some small startups in the space. But CATL is no ordinary enterprise.
+13:36
+They are the biggest battery company in the world and it appears that they will pour a
+13:39
+lot of resources into this endeavor, leveraging their size, manufacturing skill, and R&D savvy
+13:46
+to make this work. Let us see if they will succeed and help sodium ion live up to its
+13:52
+full potential.
+ 
