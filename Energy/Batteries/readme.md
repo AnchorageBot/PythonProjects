@@ -1,4 +1,7 @@
 Videos
+
+* [CATL's Sodium-Ion Battery: Better than Lithium? - Asianometry](https://youtu.be/TVrlbMrEcCY?si=jM0Z0WjhhmP_zAno)
+  
 * [How Did China's LFP Batteries Get So Cheap? - Asianometry](https://youtu.be/iT72tMMBxVg?si=-Gp7o5d4V2I-qqkf)
 
 - - - -
